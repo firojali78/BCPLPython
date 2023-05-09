@@ -1,0 +1,71 @@
+2023-05-09 12:12:49,908 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 12:12:49,909 [33mPress CTRL+C to quit[0m
+2023-05-09 12:12:49,942  * Restarting with stat
+2023-05-09 12:12:51,519  * Debugger is active!
+2023-05-09 12:12:51,528  * Debugger PIN: 322-940-791
+2023-05-09 12:13:37,681 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-09 12:13:37,783 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-09 12:13:37,836 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-09 12:13:38,989 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 400 119
+2023-05-09 12:13:39,141 127.0.0.1 - - [09/May/2023 12:13:39] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 12:20:17,552  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 12:20:18,157  * Restarting with stat
+2023-05-09 12:20:24,347 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 12:20:24,347 [33mPress CTRL+C to quit[0m
+2023-05-09 12:20:24,347  * Restarting with stat
+2023-05-09 12:20:26,775  * Debugger is active!
+2023-05-09 12:20:26,788  * Debugger PIN: 322-940-791
+2023-05-09 12:20:34,172 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-09 12:20:34,292 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-09 12:20:34,350 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-09 12:20:35,236 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 400 119
+2023-05-09 12:20:35,710 127.0.0.1 - - [09/May/2023 12:20:35] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 12:21:25,188  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 12:21:32,027 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 12:21:32,027 [33mPress CTRL+C to quit[0m
+2023-05-09 12:21:32,034  * Restarting with stat
+2023-05-09 12:21:39,374  * Debugger is active!
+2023-05-09 12:21:39,406  * Debugger PIN: 322-940-791
+2023-05-09 12:21:39,508 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-09 12:21:39,606 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-09 12:21:39,650 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-09 12:21:39,903 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 400 119
+2023-05-09 12:21:39,978 127.0.0.1 - - [09/May/2023 12:21:39] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 12:22:16,774  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 12:22:16,919  * Restarting with stat
+2023-05-09 12:22:18,866  * Debugger is active!
+2023-05-09 12:22:18,889  * Debugger PIN: 322-940-791
+2023-05-09 12:39:49,833 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 12:39:49,833 [33mPress CTRL+C to quit[0m
+2023-05-09 12:39:49,870  * Restarting with stat
+2023-05-09 12:39:54,116  * Debugger is active!
+2023-05-09 12:39:54,154  * Debugger PIN: 322-940-791
+2023-05-09 12:40:11,695 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-09 12:40:11,775 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-09 12:40:11,822 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-09 12:40:14,335 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-09 12:40:14,361 127.0.0.1 - - [09/May/2023 12:40:14] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-09 12:43:28,701  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 12:43:28,885  * Restarting with stat
+2023-05-09 12:43:37,389  * Debugger is active!
+2023-05-09 12:43:37,429  * Debugger PIN: 322-940-791
+2023-05-09 12:43:47,884 127.0.0.1 - - [09/May/2023 12:43:47] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 12:45:03,409 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 12:45:03,409 [33mPress CTRL+C to quit[0m
+2023-05-09 12:45:03,409  * Restarting with stat
+2023-05-09 12:45:05,020  * Debugger is active!
+2023-05-09 12:45:05,032  * Debugger PIN: 322-940-791
+2023-05-09 12:45:08,401 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-09 12:45:08,469 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-09 12:45:08,512 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-09 12:45:08,648 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-09 12:45:08,652 127.0.0.1 - - [09/May/2023 12:45:08] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-09 12:48:46,455  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 12:48:47,471  * Restarting with stat
+2023-05-09 12:48:48,574  * Debugger is active!
+2023-05-09 12:48:48,588  * Debugger PIN: 322-940-791

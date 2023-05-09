@@ -1,0 +1,218 @@
+2023-05-04 13:09:26,794 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 13:09:26,794 [33mPress CTRL+C to quit[0m
+2023-05-04 13:09:26,801  * Restarting with stat
+2023-05-04 13:09:27,328  * Debugger is active!
+2023-05-04 13:09:27,332  * Debugger PIN: 322-940-791
+2023-05-04 13:12:34,701 127.0.0.1 - - [04/May/2023 13:12:34] "[33mGET /create_so HTTP/1.1[0m" 404 -
+2023-05-04 13:12:34,941 127.0.0.1 - - [04/May/2023 13:12:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-05-04 13:29:55,580  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 13:29:56,141  * Restarting with stat
+2023-05-04 13:30:01,839  * Debugger is active!
+2023-05-04 13:30:01,856  * Debugger PIN: 322-940-791
+2023-05-04 13:35:41,262 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 13:35:41,263 [33mPress CTRL+C to quit[0m
+2023-05-04 13:35:41,279  * Restarting with stat
+2023-05-04 13:35:43,183  * Debugger is active!
+2023-05-04 13:35:43,208  * Debugger PIN: 322-940-791
+2023-05-04 14:36:16,126  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 14:36:17,093  * Restarting with stat
+2023-05-04 14:36:21,389  * Debugger is active!
+2023-05-04 14:36:21,398  * Debugger PIN: 322-940-791
+2023-05-04 14:36:28,694  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 14:36:28,825  * Restarting with stat
+2023-05-04 14:36:30,162  * Debugger is active!
+2023-05-04 14:36:30,177  * Debugger PIN: 322-940-791
+2023-05-04 14:36:59,856  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 14:37:00,460  * Restarting with stat
+2023-05-04 14:37:14,428 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 14:37:14,428 [33mPress CTRL+C to quit[0m
+2023-05-04 14:37:14,428  * Restarting with stat
+2023-05-04 14:37:16,160  * Debugger is active!
+2023-05-04 14:37:16,160  * Debugger PIN: 322-940-791
+2023-05-04 15:58:53,647  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 15:58:53,771  * Restarting with stat
+2023-05-04 15:58:55,949  * Debugger is active!
+2023-05-04 15:58:55,952  * Debugger PIN: 322-940-791
+2023-05-04 15:59:48,659  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 15:59:48,909  * Restarting with stat
+2023-05-04 15:59:49,762  * Debugger is active!
+2023-05-04 15:59:49,773  * Debugger PIN: 322-940-791
+2023-05-04 16:00:22,278  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 16:00:22,488  * Restarting with stat
+2023-05-04 16:00:23,576  * Debugger is active!
+2023-05-04 16:00:23,581  * Debugger PIN: 322-940-791
+2023-05-04 16:00:58,045  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 16:00:58,185  * Restarting with stat
+2023-05-04 16:00:59,596  * Debugger is active!
+2023-05-04 16:00:59,606  * Debugger PIN: 322-940-791
+2023-05-04 16:02:04,600  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 16:02:04,697  * Restarting with stat
+2023-05-04 16:02:05,238  * Debugger is active!
+2023-05-04 16:02:05,243  * Debugger PIN: 322-940-791
+2023-05-04 16:02:20,572  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 16:02:20,638  * Restarting with stat
+2023-05-04 16:02:21,576  * Debugger is active!
+2023-05-04 16:02:21,581  * Debugger PIN: 322-940-791
+2023-05-04 16:02:28,927  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 16:02:29,042  * Restarting with stat
+2023-05-04 16:02:29,542  * Debugger is active!
+2023-05-04 16:02:29,547  * Debugger PIN: 322-940-791
+2023-05-04 16:02:40,755  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 16:02:40,819  * Restarting with stat
+2023-05-04 16:02:41,547  * Debugger is active!
+2023-05-04 16:02:41,556  * Debugger PIN: 322-940-791
+2023-05-04 16:02:47,385 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 16:02:47,385 [33mPress CTRL+C to quit[0m
+2023-05-04 16:02:47,387  * Restarting with stat
+2023-05-04 16:02:47,883  * Debugger is active!
+2023-05-04 16:02:47,888  * Debugger PIN: 322-940-791
+2023-05-04 16:11:33,118 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 16:11:33,118 [33mPress CTRL+C to quit[0m
+2023-05-04 16:11:33,120  * Restarting with stat
+2023-05-04 16:11:33,678  * Debugger is active!
+2023-05-04 16:11:33,683  * Debugger PIN: 322-940-791
+2023-05-04 16:13:49,833  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 16:13:49,908  * Restarting with stat
+2023-05-04 16:23:25,716 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 16:23:25,716 [33mPress CTRL+C to quit[0m
+2023-05-04 16:23:25,718  * Restarting with stat
+2023-05-04 16:23:26,258  * Debugger is active!
+2023-05-04 16:23:26,262  * Debugger PIN: 322-940-791
+2023-05-04 16:26:18,979 None
+2023-05-04 16:26:19,001 127.0.0.1 - - [04/May/2023 16:26:19] "[35m[1mGET /webvalidatewebuserdp?CustomerCode=C1114 HTTP/1.1[0m" 500 -
+2023-05-04 16:26:19,237 127.0.0.1 - - [04/May/2023 16:26:19] "GET /webvalidatewebuserdp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-05-04 16:26:19,239 127.0.0.1 - - [04/May/2023 16:26:19] "GET /webvalidatewebuserdp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-05-04 16:26:19,290 127.0.0.1 - - [04/May/2023 16:26:19] "GET /webvalidatewebuserdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-05-04 16:26:19,440 127.0.0.1 - - [04/May/2023 16:26:19] "[36mGET /webvalidatewebuserdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-05-04 16:28:51,114  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 16:28:51,209  * Restarting with stat
+2023-05-04 16:28:52,429  * Debugger is active!
+2023-05-04 16:28:52,439  * Debugger PIN: 322-940-791
+2023-05-04 16:29:08,843 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 16:29:08,843 [33mPress CTRL+C to quit[0m
+2023-05-04 16:29:08,845  * Restarting with stat
+2023-05-04 16:29:09,338  * Debugger is active!
+2023-05-04 16:29:09,342  * Debugger PIN: 322-940-791
+2023-05-04 16:29:12,815 None
+2023-05-04 16:29:12,834 127.0.0.1 - - [04/May/2023 16:29:12] "[35m[1mGET /webvalidatewebuserdp?CustomerCode=C1114 HTTP/1.1[0m" 500 -
+2023-05-04 16:29:12,969 127.0.0.1 - - [04/May/2023 16:29:12] "[36mGET /webvalidatewebuserdp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-05-04 16:29:12,970 127.0.0.1 - - [04/May/2023 16:29:12] "[36mGET /webvalidatewebuserdp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-05-04 16:29:12,986 127.0.0.1 - - [04/May/2023 16:29:12] "[36mGET /webvalidatewebuserdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-05-04 16:29:13,051 127.0.0.1 - - [04/May/2023 16:29:13] "[36mGET /webvalidatewebuserdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-05-04 16:33:51,966 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-04 16:33:52,071 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-04 16:33:52,115 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-04 16:33:52,364 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-04 16:33:52,365 127.0.0.1 - - [04/May/2023 16:33:52] "GET /webvalidatewebcustomerdp?CustomerCode=C1114 HTTP/1.1" 200 -
+2023-05-04 16:37:38,897  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 16:37:38,966  * Restarting with stat
+2023-05-04 16:39:17,880 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 16:39:17,880 [33mPress CTRL+C to quit[0m
+2023-05-04 16:39:17,885  * Restarting with stat
+2023-05-04 16:39:18,406  * Debugger is active!
+2023-05-04 16:39:18,411  * Debugger PIN: 322-940-791
+2023-05-04 16:39:20,833 127.0.0.1 - - [04/May/2023 16:39:20] "[35m[1mGET /webwebuserexportdp?CustomerCode=C1114 HTTP/1.1[0m" 500 -
+2023-05-04 16:39:20,971 127.0.0.1 - - [04/May/2023 16:39:20] "GET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-05-04 16:39:20,974 127.0.0.1 - - [04/May/2023 16:39:20] "GET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-05-04 16:39:21,029 127.0.0.1 - - [04/May/2023 16:39:21] "GET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-05-04 16:39:21,137 127.0.0.1 - - [04/May/2023 16:39:21] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-05-04 16:40:30,305  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 16:40:30,383  * Restarting with stat
+2023-05-04 16:40:31,120  * Debugger is active!
+2023-05-04 16:40:31,124  * Debugger PIN: 322-940-791
+2023-05-04 16:40:36,950 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 16:40:36,950 [33mPress CTRL+C to quit[0m
+2023-05-04 16:40:36,951  * Restarting with stat
+2023-05-04 16:40:37,469  * Debugger is active!
+2023-05-04 16:40:37,474  * Debugger PIN: 322-940-791
+2023-05-04 16:40:42,209 127.0.0.1 - - [04/May/2023 16:40:42] "[35m[1mGET /webwebuserexportdp?CustomerCode=C1114 HTTP/1.1[0m" 500 -
+2023-05-04 16:40:42,342 127.0.0.1 - - [04/May/2023 16:40:42] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-05-04 16:40:42,343 127.0.0.1 - - [04/May/2023 16:40:42] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-05-04 16:40:42,358 127.0.0.1 - - [04/May/2023 16:40:42] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-05-04 16:40:42,409 127.0.0.1 - - [04/May/2023 16:40:42] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-05-04 16:41:57,513 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-04 16:42:18,746 127.0.0.1 - - [04/May/2023 16:42:18] "[35m[1mGET /webwebuserexportdp?UserID=C1114 HTTP/1.1[0m" 500 -
+2023-05-04 16:42:18,760 127.0.0.1 - - [04/May/2023 16:42:18] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-05-04 16:42:18,761 127.0.0.1 - - [04/May/2023 16:42:18] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-05-04 16:42:18,798 127.0.0.1 - - [04/May/2023 16:42:18] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-05-04 16:42:39,599 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 16:42:39,599 [33mPress CTRL+C to quit[0m
+2023-05-04 16:42:39,601  * Restarting with stat
+2023-05-04 16:42:40,160  * Debugger is active!
+2023-05-04 16:42:40,165  * Debugger PIN: 322-940-791
+2023-05-04 16:42:41,075 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-04 16:43:02,196 127.0.0.1 - - [04/May/2023 16:43:02] "[35m[1mGET /webwebuserexportdp?UserID=C1114 HTTP/1.1[0m" 500 -
+2023-05-04 16:43:02,407 127.0.0.1 - - [04/May/2023 16:43:02] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-05-04 16:43:02,411 127.0.0.1 - - [04/May/2023 16:43:02] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-05-04 16:43:02,501 127.0.0.1 - - [04/May/2023 16:43:02] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-05-04 16:43:02,699 127.0.0.1 - - [04/May/2023 16:43:02] "[36mGET /webwebuserexportdp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-05-04 16:43:30,323 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-04 16:43:33,439 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-04 16:43:33,507 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-04 16:43:59,382 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-04 16:43:59,402 127.0.0.1 - - [04/May/2023 16:43:59] "GET /webwebuserexportdp?UserID=C1114 HTTP/1.1" 200 -
+2023-05-04 17:27:14,353  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 17:27:14,439  * Restarting with stat
+2023-05-04 17:27:15,112  * Debugger is active!
+2023-05-04 17:27:15,117  * Debugger PIN: 322-940-791
+2023-05-04 17:27:34,253 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 17:27:34,253 [33mPress CTRL+C to quit[0m
+2023-05-04 17:27:34,255  * Restarting with stat
+2023-05-04 17:27:34,786  * Debugger is active!
+2023-05-04 17:27:34,792  * Debugger PIN: 322-940-791
+2023-05-04 17:28:46,639  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 17:28:46,729  * Restarting with stat
+2023-05-04 17:30:16,480 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 17:30:16,480 [33mPress CTRL+C to quit[0m
+2023-05-04 17:30:16,481  * Restarting with stat
+2023-05-04 17:30:17,001  * Debugger is active!
+2023-05-04 17:30:17,008  * Debugger PIN: 322-940-791
+2023-05-04 17:31:55,434 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-04 17:31:55,522 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-04 17:31:55,582 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-04 17:31:55,703 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 None
+2023-05-04 17:31:55,722 127.0.0.1 - - [04/May/2023 17:31:55] "[35m[1mGET /webitemcategoryapp HTTP/1.1[0m" 500 -
+2023-05-04 17:31:56,006 127.0.0.1 - - [04/May/2023 17:31:56] "GET /webitemcategoryapp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-05-04 17:31:56,009 127.0.0.1 - - [04/May/2023 17:31:56] "GET /webitemcategoryapp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-05-04 17:31:56,089 127.0.0.1 - - [04/May/2023 17:31:56] "GET /webitemcategoryapp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-05-04 17:31:56,353 127.0.0.1 - - [04/May/2023 17:31:56] "[36mGET /webitemcategoryapp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-05-04 17:38:16,622 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 17:38:16,622 [33mPress CTRL+C to quit[0m
+2023-05-04 17:38:16,627  * Restarting with stat
+2023-05-04 17:38:17,109  * Debugger is active!
+2023-05-04 17:38:17,115  * Debugger PIN: 322-940-791
+2023-05-04 17:38:22,413 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-04 17:38:22,549 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-04 17:38:22,591 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-04 17:38:22,799 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-04 17:38:22,800 127.0.0.1 - - [04/May/2023 17:38:22] "GET /webitemcategoryapp HTTP/1.1" 200 -
+2023-05-04 17:39:29,810  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 17:39:29,951  * Restarting with stat
+2023-05-04 17:39:31,427  * Debugger is active!
+2023-05-04 17:39:31,436  * Debugger PIN: 322-940-791
+2023-05-04 17:42:22,675  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-04 17:42:22,740  * Restarting with stat
+2023-05-04 17:44:50,695 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-04 17:44:50,695 [33mPress CTRL+C to quit[0m
+2023-05-04 17:44:50,696  * Restarting with stat
+2023-05-04 17:44:51,222  * Debugger is active!
+2023-05-04 17:44:51,226  * Debugger PIN: 322-940-791
+2023-05-04 17:45:14,398 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-04 17:45:14,490 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-04 17:45:14,529 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-04 17:45:14,621 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-04 17:45:14,622 127.0.0.1 - - [04/May/2023 17:45:14] "GET /webitemcategoryapp HTTP/1.1" 200 -

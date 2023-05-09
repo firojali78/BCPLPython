@@ -1,0 +1,310 @@
+2023-05-08 12:14:43,740 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-08 12:14:43,740 [33mPress CTRL+C to quit[0m
+2023-05-08 12:14:43,771  * Restarting with stat
+2023-05-08 12:14:45,428  * Debugger is active!
+2023-05-08 12:14:45,444  * Debugger PIN: 322-940-791
+2023-05-08 12:36:02,728  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 12:36:02,905  * Restarting with stat
+2023-05-08 12:36:11,347 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-08 12:36:11,370 [33mPress CTRL+C to quit[0m
+2023-05-08 12:36:11,372  * Restarting with stat
+2023-05-08 12:36:13,077  * Debugger is active!
+2023-05-08 12:36:13,081  * Debugger PIN: 322-940-791
+2023-05-08 12:36:26,563  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 12:36:26,754  * Restarting with stat
+2023-05-08 12:36:28,648  * Debugger is active!
+2023-05-08 12:36:28,684  * Debugger PIN: 322-940-791
+2023-05-08 12:38:04,353  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 12:38:04,564  * Restarting with stat
+2023-05-08 12:38:07,025  * Debugger is active!
+2023-05-08 12:38:07,049  * Debugger PIN: 322-940-791
+2023-05-08 12:38:11,847 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-08 12:38:11,848 [33mPress CTRL+C to quit[0m
+2023-05-08 12:38:11,851  * Restarting with stat
+2023-05-08 12:38:13,905  * Debugger is active!
+2023-05-08 12:38:13,933  * Debugger PIN: 322-940-791
+2023-05-08 12:39:06,519 127.0.0.1 - - [08/May/2023 12:39:06] "[33mGET /webitemcategoryapp/BSL HTTP/1.1[0m" 404 -
+2023-05-08 12:39:06,931 127.0.0.1 - - [08/May/2023 12:39:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-05-08 12:40:24,196 BSL
+2023-05-08 12:40:24,200 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-08 12:40:24,453 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemMasterApp?$filter=Catagory_Code%20eq%20%27BSL%27 HTTP/1.1" 401 0
+2023-05-08 12:40:24,653 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemMasterApp?$filter=Catagory_Code%20eq%20%27BSL%27 HTTP/1.1" 401 341
+2023-05-08 12:40:25,026 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemMasterApp?$filter=Catagory_Code%20eq%20%27BSL%27 HTTP/1.1" 200 None
+2023-05-08 12:40:25,026 127.0.0.1 - - [08/May/2023 12:40:25] "GET /webitemmasterapp?catagory_code=BSL HTTP/1.1" 200 -
+2023-05-08 12:41:11,651 BSLS
+2023-05-08 12:41:11,658 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-08 12:41:11,783 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemMasterApp?$filter=Catagory_Code%20eq%20%27BSLS%27 HTTP/1.1" 401 0
+2023-05-08 12:41:11,864 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemMasterApp?$filter=Catagory_Code%20eq%20%27BSLS%27 HTTP/1.1" 401 341
+2023-05-08 12:41:11,945 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemMasterApp?$filter=Catagory_Code%20eq%20%27BSLS%27 HTTP/1.1" 200 None
+2023-05-08 12:41:11,948 127.0.0.1 - - [08/May/2023 12:41:11] "GET /webitemmasterapp?catagory_code=BSLS HTTP/1.1" 200 -
+2023-05-08 18:50:28,676  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:50:29,175  * Restarting with stat
+2023-05-08 18:50:34,847  * Debugger is active!
+2023-05-08 18:50:34,852  * Debugger PIN: 322-940-791
+2023-05-08 18:52:42,270  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:52:42,530  * Restarting with stat
+2023-05-08 18:52:44,191  * Debugger is active!
+2023-05-08 18:52:44,203  * Debugger PIN: 322-940-791
+2023-05-08 18:53:15,305  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:53:15,438  * Restarting with stat
+2023-05-08 18:53:17,939  * Debugger is active!
+2023-05-08 18:53:18,006  * Debugger PIN: 322-940-791
+2023-05-08 18:53:32,761  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:53:33,004  * Restarting with stat
+2023-05-08 18:53:34,619  * Debugger is active!
+2023-05-08 18:53:34,634  * Debugger PIN: 322-940-791
+2023-05-08 18:54:05,520  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:54:05,701  * Restarting with stat
+2023-05-08 18:54:07,795  * Debugger is active!
+2023-05-08 18:54:07,806  * Debugger PIN: 322-940-791
+2023-05-08 18:54:11,927  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:54:12,062  * Restarting with stat
+2023-05-08 18:54:13,960  * Debugger is active!
+2023-05-08 18:54:13,972  * Debugger PIN: 322-940-791
+2023-05-08 18:54:19,796  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:54:20,109  * Restarting with stat
+2023-05-08 18:54:28,353  * Debugger is active!
+2023-05-08 18:54:28,371  * Debugger PIN: 322-940-791
+2023-05-08 18:54:31,517  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:54:31,757  * Restarting with stat
+2023-05-08 18:54:36,105  * Debugger is active!
+2023-05-08 18:54:36,132  * Debugger PIN: 322-940-791
+2023-05-08 18:54:49,619  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:54:49,851  * Restarting with stat
+2023-05-08 18:54:52,040  * Debugger is active!
+2023-05-08 18:54:52,080  * Debugger PIN: 322-940-791
+2023-05-08 18:55:00,578  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:55:00,786  * Restarting with stat
+2023-05-08 18:55:04,292  * Debugger is active!
+2023-05-08 18:55:04,308  * Debugger PIN: 322-940-791
+2023-05-08 18:55:06,460  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:55:06,648  * Restarting with stat
+2023-05-08 18:55:11,288  * Debugger is active!
+2023-05-08 18:55:11,314  * Debugger PIN: 322-940-791
+2023-05-08 18:55:17,509  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:55:17,675  * Restarting with stat
+2023-05-08 18:55:19,390  * Debugger is active!
+2023-05-08 18:55:19,395  * Debugger PIN: 322-940-791
+2023-05-08 18:55:25,527  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:55:25,762  * Restarting with stat
+2023-05-08 18:55:29,073  * Debugger is active!
+2023-05-08 18:55:29,105  * Debugger PIN: 322-940-791
+2023-05-08 18:55:33,189  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:55:33,376  * Restarting with stat
+2023-05-08 18:55:36,898  * Debugger is active!
+2023-05-08 18:55:36,927  * Debugger PIN: 322-940-791
+2023-05-08 18:55:47,065  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:55:47,204  * Restarting with stat
+2023-05-08 18:55:49,581  * Debugger is active!
+2023-05-08 18:55:49,595  * Debugger PIN: 322-940-791
+2023-05-08 18:56:04,094  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:56:04,264  * Restarting with stat
+2023-05-08 18:56:06,167  * Debugger is active!
+2023-05-08 18:56:06,177  * Debugger PIN: 322-940-791
+2023-05-08 18:56:19,136  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:56:19,244  * Restarting with stat
+2023-05-08 18:56:23,711  * Debugger is active!
+2023-05-08 18:56:23,723  * Debugger PIN: 322-940-791
+2023-05-08 18:56:28,581  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 18:56:28,957  * Restarting with stat
+2023-05-08 18:56:32,405  * Debugger is active!
+2023-05-08 18:56:32,421  * Debugger PIN: 322-940-791
+2023-05-08 19:02:26,157  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:02:26,355  * Restarting with stat
+2023-05-08 19:02:32,009  * Debugger is active!
+2023-05-08 19:02:32,009  * Debugger PIN: 322-940-791
+2023-05-08 19:04:02,869  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:04:03,121  * Restarting with stat
+2023-05-08 19:04:05,529  * Debugger is active!
+2023-05-08 19:04:05,547  * Debugger PIN: 322-940-791
+2023-05-08 19:04:29,443  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:04:29,592  * Restarting with stat
+2023-05-08 19:04:31,688  * Debugger is active!
+2023-05-08 19:04:31,693  * Debugger PIN: 322-940-791
+2023-05-08 19:04:48,795  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:04:49,061  * Restarting with stat
+2023-05-08 19:04:52,006  * Debugger is active!
+2023-05-08 19:04:52,021  * Debugger PIN: 322-940-791
+2023-05-08 19:04:58,195  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:04:58,301  * Restarting with stat
+2023-05-08 19:05:00,728  * Debugger is active!
+2023-05-08 19:05:00,744  * Debugger PIN: 322-940-791
+2023-05-08 19:14:29,743  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:14:29,882  * Restarting with stat
+2023-05-08 19:14:32,072  * Debugger is active!
+2023-05-08 19:14:32,084  * Debugger PIN: 322-940-791
+2023-05-08 19:14:43,994  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:14:44,176  * Restarting with stat
+2023-05-08 19:14:45,893  * Debugger is active!
+2023-05-08 19:14:45,909  * Debugger PIN: 322-940-791
+2023-05-08 19:15:01,579  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:15:01,711  * Restarting with stat
+2023-05-08 19:15:03,591  * Debugger is active!
+2023-05-08 19:15:03,608  * Debugger PIN: 322-940-791
+2023-05-08 19:15:20,313  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:15:20,434  * Restarting with stat
+2023-05-08 19:15:22,029  * Debugger is active!
+2023-05-08 19:15:22,044  * Debugger PIN: 322-940-791
+2023-05-08 19:15:52,804  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:15:52,953  * Restarting with stat
+2023-05-08 19:15:54,705  * Debugger is active!
+2023-05-08 19:15:54,715  * Debugger PIN: 322-940-791
+2023-05-08 19:16:07,178  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:16:07,337  * Restarting with stat
+2023-05-08 19:16:09,256  * Debugger is active!
+2023-05-08 19:16:09,270  * Debugger PIN: 322-940-791
+2023-05-08 19:16:18,602  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:16:18,779  * Restarting with stat
+2023-05-08 19:16:20,998  * Debugger is active!
+2023-05-08 19:16:21,134  * Debugger PIN: 322-940-791
+2023-05-08 19:16:35,522  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:16:35,662  * Restarting with stat
+2023-05-08 19:16:37,089  * Debugger is active!
+2023-05-08 19:16:37,099  * Debugger PIN: 322-940-791
+2023-05-08 19:16:55,868  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:16:55,970  * Restarting with stat
+2023-05-08 19:16:57,729  * Debugger is active!
+2023-05-08 19:16:57,750  * Debugger PIN: 322-940-791
+2023-05-08 19:17:11,415  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:17:11,580  * Restarting with stat
+2023-05-08 19:17:16,178  * Debugger is active!
+2023-05-08 19:17:16,188  * Debugger PIN: 322-940-791
+2023-05-08 19:17:27,793  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:17:27,977  * Restarting with stat
+2023-05-08 19:17:29,424  * Debugger is active!
+2023-05-08 19:17:29,424  * Debugger PIN: 322-940-791
+2023-05-08 19:18:51,267  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:18:51,592  * Restarting with stat
+2023-05-08 19:18:53,843  * Debugger is active!
+2023-05-08 19:18:53,857  * Debugger PIN: 322-940-791
+2023-05-08 19:19:17,316  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:19:17,714  * Restarting with stat
+2023-05-08 19:19:19,605  * Debugger is active!
+2023-05-08 19:19:19,614  * Debugger PIN: 322-940-791
+2023-05-08 19:19:56,193  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:19:56,419  * Restarting with stat
+2023-05-08 19:19:58,286  * Debugger is active!
+2023-05-08 19:19:58,294  * Debugger PIN: 322-940-791
+2023-05-08 19:22:07,274 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-08 19:22:07,274 [33mPress CTRL+C to quit[0m
+2023-05-08 19:22:07,274  * Restarting with stat
+2023-05-08 19:22:09,199  * Debugger is active!
+2023-05-08 19:22:09,211  * Debugger PIN: 322-940-791
+2023-05-08 19:24:52,528  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:24:52,632  * Restarting with stat
+2023-05-08 19:24:54,633  * Debugger is active!
+2023-05-08 19:24:54,641  * Debugger PIN: 322-940-791
+2023-05-08 19:26:47,426  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:26:47,598  * Restarting with stat
+2023-05-08 19:26:49,672  * Debugger is active!
+2023-05-08 19:26:49,695  * Debugger PIN: 322-940-791
+2023-05-08 19:27:26,140 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-08 19:27:26,221 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-08 19:27:26,259 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-08 19:27:27,512 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-08 19:27:27,583 127.0.0.1 - - [08/May/2023 19:27:27] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-08 19:27:46,167 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-08 19:27:46,229 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-08 19:27:46,278 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-08 19:27:46,334 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-08 19:27:46,384 127.0.0.1 - - [08/May/2023 19:27:46] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-08 19:28:51,104  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:28:51,231  * Restarting with stat
+2023-05-08 19:29:06,812 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-08 19:29:06,814 [33mPress CTRL+C to quit[0m
+2023-05-08 19:29:06,821  * Restarting with stat
+2023-05-08 19:29:08,998  * Debugger is active!
+2023-05-08 19:29:09,006  * Debugger PIN: 322-940-791
+2023-05-08 19:29:11,997 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-08 19:29:12,079 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-08 19:29:12,119 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-08 19:29:12,349 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-08 19:29:12,418 127.0.0.1 - - [08/May/2023 19:29:12] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-08 19:41:23,704  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:41:23,827  * Restarting with stat
+2023-05-08 19:41:25,007  * Debugger is active!
+2023-05-08 19:41:25,012  * Debugger PIN: 322-940-791
+2023-05-08 19:41:52,531  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:41:52,632  * Restarting with stat
+2023-05-08 19:44:24,721 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-08 19:44:24,721 [33mPress CTRL+C to quit[0m
+2023-05-08 19:44:24,727  * Restarting with stat
+2023-05-08 19:44:25,252  * Debugger is active!
+2023-05-08 19:44:25,252  * Debugger PIN: 322-940-791
+2023-05-08 19:45:13,906  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:45:13,972  * Restarting with stat
+2023-05-08 19:45:14,815  * Debugger is active!
+2023-05-08 19:45:14,825  * Debugger PIN: 322-940-791
+2023-05-08 19:45:42,693  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:45:42,758  * Restarting with stat
+2023-05-08 19:45:43,569  * Debugger is active!
+2023-05-08 19:45:43,578  * Debugger PIN: 322-940-791
+2023-05-08 19:46:02,829  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:46:02,911  * Restarting with stat
+2023-05-08 19:46:03,628  * Debugger is active!
+2023-05-08 19:46:03,632  * Debugger PIN: 322-940-791
+2023-05-08 19:46:38,384  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:46:38,447  * Restarting with stat
+2023-05-08 19:46:38,969  * Debugger is active!
+2023-05-08 19:46:38,973  * Debugger PIN: 322-940-791
+2023-05-08 19:46:47,572 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-08 19:46:47,572 [33mPress CTRL+C to quit[0m
+2023-05-08 19:46:47,585  * Restarting with stat
+2023-05-08 19:46:48,108  * Debugger is active!
+2023-05-08 19:46:48,110  * Debugger PIN: 322-940-791
+2023-05-08 19:47:06,549 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-08 19:47:06,645 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-08 19:47:06,693 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-08 19:47:06,812 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-08 19:47:06,815 127.0.0.1 - - [08/May/2023 19:47:06] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-08 19:47:37,502 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-08 19:47:37,604 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-08 19:47:37,657 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-08 19:47:37,730 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 400 267
+2023-05-08 19:47:37,732 127.0.0.1 - - [08/May/2023 19:47:37] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-08 19:50:09,014  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:50:09,091  * Restarting with stat
+2023-05-08 19:50:10,770  * Debugger is active!
+2023-05-08 19:50:10,772  * Debugger PIN: 322-940-791
+2023-05-08 19:50:13,632 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-08 19:50:13,632 [33mPress CTRL+C to quit[0m
+2023-05-08 19:50:13,632  * Restarting with stat
+2023-05-08 19:50:14,151  * Debugger is active!
+2023-05-08 19:50:14,155  * Debugger PIN: 322-940-791
+2023-05-08 19:50:19,466 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-08 19:50:19,533 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-08 19:50:19,569 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-08 19:50:19,774 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 400 267
+2023-05-08 19:50:19,776 127.0.0.1 - - [08/May/2023 19:50:19] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-08 19:51:25,005  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:51:25,116  * Restarting with stat
+2023-05-08 19:51:25,708  * Debugger is active!
+2023-05-08 19:51:25,711  * Debugger PIN: 322-940-791
+2023-05-08 19:51:33,089 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-08 19:51:33,089 [33mPress CTRL+C to quit[0m
+2023-05-08 19:51:33,094  * Restarting with stat
+2023-05-08 19:51:33,642  * Debugger is active!
+2023-05-08 19:51:33,646  * Debugger PIN: 322-940-791
+2023-05-08 19:51:38,362 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-08 19:51:38,432 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-08 19:51:38,466 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-08 19:51:38,566 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 400 267
+2023-05-08 19:51:38,569 127.0.0.1 - - [08/May/2023 19:51:38] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-08 19:52:07,927 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-08 19:52:07,997 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-08 19:52:08,031 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-08 19:52:08,090 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-08 19:52:08,091 127.0.0.1 - - [08/May/2023 19:52:08] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-08 19:53:31,686  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-08 19:53:31,762  * Restarting with stat
+2023-05-08 19:53:32,352  * Debugger is active!
+2023-05-08 19:53:32,355  * Debugger PIN: 322-940-791
