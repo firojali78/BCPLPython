@@ -69,3 +69,120 @@
 2023-05-09 12:48:47,471  * Restarting with stat
 2023-05-09 12:48:48,574  * Debugger is active!
 2023-05-09 12:48:48,588  * Debugger PIN: 322-940-791
+2023-05-09 16:26:56,019 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:26:56,019 [33mPress CTRL+C to quit[0m
+2023-05-09 16:26:56,027  * Restarting with stat
+2023-05-09 16:26:56,951  * Debugger is active!
+2023-05-09 16:26:56,963  * Debugger PIN: 322-940-791
+2023-05-09 16:27:26,649 127.0.0.1 - - [09/May/2023 16:27:26] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 16:30:07,773  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:30:07,852  * Restarting with stat
+2023-05-09 16:30:12,204  * Debugger is active!
+2023-05-09 16:30:12,205  * Debugger PIN: 322-940-791
+2023-05-09 16:30:17,038 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:30:17,038 [33mPress CTRL+C to quit[0m
+2023-05-09 16:30:17,038  * Restarting with stat
+2023-05-09 16:30:18,000  * Debugger is active!
+2023-05-09 16:30:18,003  * Debugger PIN: 322-940-791
+2023-05-09 16:30:27,342 127.0.0.1 - - [09/May/2023 16:30:27] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 16:32:54,610  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:32:54,693  * Restarting with stat
+2023-05-09 16:32:55,851  * Debugger is active!
+2023-05-09 16:32:55,864  * Debugger PIN: 322-940-791
+2023-05-09 16:33:02,887 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:33:02,887 [33mPress CTRL+C to quit[0m
+2023-05-09 16:33:02,890  * Restarting with stat
+2023-05-09 16:33:03,433  * Debugger is active!
+2023-05-09 16:33:03,433  * Debugger PIN: 322-940-791
+2023-05-09 16:33:16,380 127.0.0.1 - - [09/May/2023 16:33:16] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 16:35:22,736  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:35:22,926  * Restarting with stat
+2023-05-09 16:35:25,768  * Debugger is active!
+2023-05-09 16:35:25,770  * Debugger PIN: 322-940-791
+2023-05-09 16:35:30,912  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:35:31,040  * Restarting with stat
+2023-05-09 16:35:57,437 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:35:57,438 [33mPress CTRL+C to quit[0m
+2023-05-09 16:35:57,442  * Restarting with stat
+2023-05-09 16:35:58,416  * Debugger is active!
+2023-05-09 16:35:58,423  * Debugger PIN: 322-940-791
+2023-05-09 16:36:11,107 127.0.0.1 - - [09/May/2023 16:36:11] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 16:37:57,126  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:37:57,213  * Restarting with stat
+2023-05-09 16:37:58,241  * Debugger is active!
+2023-05-09 16:37:58,243  * Debugger PIN: 322-940-791
+2023-05-09 16:38:04,112 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:38:04,112 [33mPress CTRL+C to quit[0m
+2023-05-09 16:38:04,112  * Restarting with stat
+2023-05-09 16:38:04,657  * Debugger is active!
+2023-05-09 16:38:04,665  * Debugger PIN: 322-940-791
+2023-05-09 16:38:23,775 127.0.0.1 - - [09/May/2023 16:38:23] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 16:39:09,348  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:39:09,426  * Restarting with stat
+2023-05-09 16:39:11,049  * Debugger is active!
+2023-05-09 16:39:11,068  * Debugger PIN: 322-940-791
+2023-05-09 16:39:23,788 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:39:23,788 [33mPress CTRL+C to quit[0m
+2023-05-09 16:39:23,790  * Restarting with stat
+2023-05-09 16:39:24,310  * Debugger is active!
+2023-05-09 16:39:24,313  * Debugger PIN: 322-940-791
+2023-05-09 16:39:31,766 127.0.0.1 - - [09/May/2023 16:39:31] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 16:40:18,400  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:40:18,476  * Restarting with stat
+2023-05-09 16:40:19,453  * Debugger is active!
+2023-05-09 16:40:19,459  * Debugger PIN: 322-940-791
+2023-05-09 16:40:25,208 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:40:25,210 [33mPress CTRL+C to quit[0m
+2023-05-09 16:40:25,211  * Restarting with stat
+2023-05-09 16:40:25,741  * Debugger is active!
+2023-05-09 16:40:25,746  * Debugger PIN: 322-940-791
+2023-05-09 16:40:42,165 127.0.0.1 - - [09/May/2023 16:40:42] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 16:41:10,394  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:41:10,454  * Restarting with stat
+2023-05-09 16:41:16,507 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:41:16,508 [33mPress CTRL+C to quit[0m
+2023-05-09 16:41:16,508  * Restarting with stat
+2023-05-09 16:41:17,010  * Debugger is active!
+2023-05-09 16:41:17,014  * Debugger PIN: 322-940-791
+2023-05-09 16:41:32,016 127.0.0.1 - - [09/May/2023 16:41:32] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 16:42:37,627  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:42:37,731  * Restarting with stat
+2023-05-09 16:42:41,572 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:42:41,572 [33mPress CTRL+C to quit[0m
+2023-05-09 16:42:41,576  * Restarting with stat
+2023-05-09 16:42:42,086  * Debugger is active!
+2023-05-09 16:42:42,088  * Debugger PIN: 322-940-791
+2023-05-09 16:42:54,167 127.0.0.1 - - [09/May/2023 16:42:54] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 16:43:14,456  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:43:14,522  * Restarting with stat
+2023-05-09 16:43:15,684  * Debugger is active!
+2023-05-09 16:43:15,699  * Debugger PIN: 322-940-791
+2023-05-09 16:43:20,661 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:43:20,661 [33mPress CTRL+C to quit[0m
+2023-05-09 16:43:20,661  * Restarting with stat
+2023-05-09 16:43:21,240  * Debugger is active!
+2023-05-09 16:43:21,246  * Debugger PIN: 322-940-791
+2023-05-09 16:43:30,176 127.0.0.1 - - [09/May/2023 16:43:30] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-09 16:44:30,053  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-09 16:44:30,153  * Restarting with stat
+2023-05-09 16:44:33,682 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-09 16:44:33,682 [33mPress CTRL+C to quit[0m
+2023-05-09 16:44:33,682  * Restarting with stat
+2023-05-09 16:44:34,199  * Debugger is active!
+2023-05-09 16:44:34,199  * Debugger PIN: 322-940-791
+2023-05-09 16:44:49,288 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-09 16:44:49,376 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-09 16:44:49,418 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-09 16:44:49,630 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-09 16:44:49,631 127.0.0.1 - - [09/May/2023 16:44:49] "POST /websaleorderexportapidp HTTP/1.1" 200 -

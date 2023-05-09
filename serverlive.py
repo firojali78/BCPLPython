@@ -699,7 +699,10 @@ def webgetnewnoseriesonlinesodp():
 def websaleorderexportapidp():
     if request.method == 'POST':
         input_json = request.get_json()
-        print(input_json)
+        input_json = input_json.get("message")
+        print(type(input_json))
+        input_json = json.loads(input_json)
+        print(type(input_json))
         document_No = input_json.get("documentNo")
         customer_no = input_json.get("customerNo")
         item_no = input_json.get("itemNo")
@@ -715,7 +718,7 @@ def websaleorderexportapidp():
         order_Type = input_json.get("orderType")
         item_Category_Code = input_json.get("itemCategoryCode")
         remark = input_json.get("remark")
-
+        print(input_json, "*************")
         res = saleorderexportapi(document_No,customer_no,item_no,s_75,s_80S,s_85M,s_90L,s_95XL,s_1002XL,s_1053XL,s_1104XL,s_1155XL,order_Type,item_Category_Code,remark)
         # return res.get("value")
         return res
@@ -2030,6 +2033,7 @@ def saleorderexportapi(document_No,customer_no,item_no,s_75,s_80S,s_85M,s_90L,s_
     # print(user_name)
     url = "http://20.235.83.237:8049/BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI"
 
+    print(s_75,"hi")
     payload = json.dumps({
         "documentNo" : document_No,
         "customerNo": customer_no,
