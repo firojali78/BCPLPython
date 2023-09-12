@@ -1,0 +1,120 @@
+2023-06-03 17:23:43,524 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-03 17:23:43,524 [33mPress CTRL+C to quit[0m
+2023-06-03 17:23:43,526  * Restarting with stat
+2023-06-03 17:23:43,984  * Debugger is active!
+2023-06-03 17:23:43,999  * Debugger PIN: 124-747-496
+2023-06-03 17:26:21,392 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 17:26:21,507 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-03 17:26:21,574 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-03 17:26:22,524 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-03 17:26:22,534 127.0.0.1 - - [03/Jun/2023 17:26:22] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-06-03 17:28:03,736 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 17:28:03,804 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-03 17:28:03,849 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-03 17:28:03,894 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-03 17:28:03,896 127.0.0.1 - - [03/Jun/2023 17:28:03] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-06-03 17:29:25,295  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-03 17:29:25,365  * Restarting with stat
+2023-06-03 17:29:25,958  * Debugger is active!
+2023-06-03 17:29:25,966  * Debugger PIN: 124-747-496
+2023-06-03 17:29:31,511 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-03 17:29:31,511 [33mPress CTRL+C to quit[0m
+2023-06-03 17:29:31,512  * Restarting with stat
+2023-06-03 17:29:31,962  * Debugger is active!
+2023-06-03 17:29:31,964  * Debugger PIN: 124-747-496
+2023-06-03 17:29:37,129 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 17:29:37,472 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-03 17:29:37,766 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-03 17:29:39,019 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-03 17:29:39,024 127.0.0.1 - - [03/Jun/2023 17:29:39] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-06-03 17:52:47,604 127.0.0.1 - - [03/Jun/2023 17:52:47] "[35m[1mPOST /webTransferLnArticalBarcodedp HTTP/1.1[0m" 500 -
+2023-06-03 17:53:29,887 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 17:53:29,970 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-03 17:53:30,010 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-03 17:53:30,070 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-03 17:53:30,074 127.0.0.1 - - [03/Jun/2023 17:53:30] "POST /webvalidatereturnorder HTTP/1.1" 200 -
+2023-06-03 18:02:40,720  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-03 18:02:40,944  * Restarting with stat
+2023-06-03 18:02:41,604  * Debugger is active!
+2023-06-03 18:02:41,607  * Debugger PIN: 124-747-496
+2023-06-03 18:02:59,040  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-03 18:02:59,266  * Restarting with stat
+2023-06-03 18:03:01,122  * Debugger is active!
+2023-06-03 18:03:01,131  * Debugger PIN: 124-747-496
+2023-06-03 18:03:26,804  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-03 18:03:26,866  * Restarting with stat
+2023-06-03 18:03:27,425  * Debugger is active!
+2023-06-03 18:03:27,429  * Debugger PIN: 124-747-496
+2023-06-03 18:17:20,391 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 18:17:20,480 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-03 18:17:20,519 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-03 18:17:20,603 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-03 18:17:20,607 127.0.0.1 - - [03/Jun/2023 18:17:20] "POST /webvalidatereturnbarcode HTTP/1.1" 200 -
+2023-06-03 18:22:54,244 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 18:22:54,319 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-03 18:22:54,366 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-03 18:22:54,434 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-03 18:22:54,437 127.0.0.1 - - [03/Jun/2023 18:22:54] "POST /webvalidatereturnbarcode HTTP/1.1" 200 -
+2023-06-03 18:26:24,790 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 18:26:24,873 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-03 18:26:24,917 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-03 18:26:24,961 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-03 18:26:24,966 127.0.0.1 - - [03/Jun/2023 18:26:24] "POST /webvalidatereturnbarcode HTTP/1.1" 200 -
+2023-06-03 18:26:44,735 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 18:26:44,830 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-03 18:26:44,880 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-03 18:26:44,928 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-03 18:26:44,932 127.0.0.1 - - [03/Jun/2023 18:26:44] "POST /webvalidatereturnbarcode HTTP/1.1" 200 -
+2023-06-03 18:28:44,648 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 18:28:44,721 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-03 18:28:44,763 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-03 18:28:44,812 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-03 18:28:44,817 127.0.0.1 - - [03/Jun/2023 18:28:44] "POST /webvalidatereturnbarcode HTTP/1.1" 200 -
+2023-06-03 18:41:52,129 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-03 18:41:52,129 [33mPress CTRL+C to quit[0m
+2023-06-03 18:41:52,133  * Restarting with stat
+2023-06-03 18:41:53,406  * Debugger is active!
+2023-06-03 18:41:53,408  * Debugger PIN: 124-747-496
+2023-06-03 22:40:16,440 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-03 22:40:16,440 [33mPress CTRL+C to quit[0m
+2023-06-03 22:40:16,448  * Restarting with stat
+2023-06-03 22:40:22,797  * Debugger is active!
+2023-06-03 22:40:22,825  * Debugger PIN: 124-747-496
+2023-06-03 22:42:00,961 127.0.0.1 - - [03/Jun/2023 22:42:00] "[33mGET /itemlistws HTTP/1.1[0m" 404 -
+2023-06-03 22:43:07,171 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 22:43:07,247 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 401 0
+2023-06-03 22:43:07,291 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 401 341
+2023-06-03 22:43:13,192 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 200 None
+2023-06-03 22:43:55,584 127.0.0.1 - - [03/Jun/2023 22:43:55] "GET /webitemlistws HTTP/1.1" 200 -
+2023-06-03 23:07:44,801 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 23:07:47,865 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 401 0
+2023-06-03 23:07:47,899 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 401 341
+2023-06-03 23:07:49,072 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 200 None
+2023-06-03 23:08:29,475 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-03 23:08:29,476 [33mPress CTRL+C to quit[0m
+2023-06-03 23:08:29,483  * Restarting with stat
+2023-06-03 23:08:31,869  * Debugger is active!
+2023-06-03 23:08:31,877  * Debugger PIN: 124-747-496
+2023-06-03 23:08:31,901 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 23:08:31,973 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 401 0
+2023-06-03 23:08:32,012 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 401 341
+2023-06-03 23:08:33,047 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 200 None
+2023-06-03 23:09:47,224 127.0.0.1 - - [03/Jun/2023 23:09:47] "GET /webitemlistws HTTP/1.1" 200 -
+2023-06-03 23:19:22,871  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-03 23:19:24,549  * Restarting with stat
+2023-06-03 23:21:42,011 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-03 23:21:42,016 [33mPress CTRL+C to quit[0m
+2023-06-03 23:21:42,082  * Restarting with stat
+2023-06-03 23:22:13,964  * Debugger is active!
+2023-06-03 23:22:14,025  * Debugger PIN: 124-747-496
+2023-06-03 23:22:14,530 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-03 23:22:14,641 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 401 0
+2023-06-03 23:22:14,687 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 401 341
+2023-06-03 23:22:16,627 http://20.235.83.237:8049 "GET /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp HTTP/1.1" 200 None
+2023-06-03 23:23:39,385 127.0.0.1 - - [03/Jun/2023 23:23:39] "GET /webitemlistws HTTP/1.1" 200 -

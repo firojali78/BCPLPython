@@ -1,0 +1,24 @@
+2023-08-25 18:30:20,501 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-25 18:30:20,501 [33mPress CTRL+C to quit[0m
+2023-08-25 18:30:20,513  * Restarting with stat
+2023-08-25 18:30:21,640  * Debugger is active!
+2023-08-25 18:30:21,651  * Debugger PIN: 124-747-496
+2023-08-25 18:30:24,672 {'CategoryCode': 'BSL'}
+2023-08-25 18:30:24,675 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-25 18:30:25,344 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-25 18:30:26,113 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-25 18:30:27,006 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-25 18:30:27,010 127.0.0.1 - - [25/Aug/2023 18:30:27] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-25 18:47:32,489 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-25 18:47:32,489 [33mPress CTRL+C to quit[0m
+2023-08-25 18:47:32,514  * Restarting with stat
+2023-08-25 18:47:35,982  * Debugger is active!
+2023-08-25 18:47:36,027  * Debugger PIN: 124-747-496
+2023-08-25 18:47:40,515 {'CategoryCode': 'BSL'}
+2023-08-25 18:47:40,521 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-25 18:47:40,683 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-25 18:47:40,760 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-25 18:47:42,232 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-25 18:47:42,244 127.0.0.1 - - [25/Aug/2023 18:47:42] "POST /webItemExportMobileAPI HTTP/1.1" 200 -

@@ -196,7 +196,8 @@ def webvalidatesalesorder():
         input_json = request.get_json()
         print(input_json)
         orderno = input_json.get("OrderNo")
-        res = validatesalesorder(orderno)
+        company_code = input_json.get("CompanyCode")
+        res = validatesalesorder(company_code, orderno)
         # return res.get("value")
         return res
 
@@ -1429,9 +1430,16 @@ def fgupdatetransferorderqty(srl_no, user_id):
 
 
 # -----------function name-ValidateSalesOrder Start +
-def validatesalesorder(order_no):
-    # print(user_name)
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd."
+def validatesalesorder(company_code, order_no):
+    #todo print(user_name)
+    if (company_code == "BCPL"):
+        url = "http://20.235.83.237:8049/BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd."
+    elif (company_code == "ANU"):
+        url = "http://20.235.83.237:8049/BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD"
+    elif (company_code == "" or company_code ==None):
+        return {"id": "0", "Success": "False", "Message": "CompanyCode Node is missing"}
+    else:
+        return {"id": "0", "Success": "False", "Message": "Invalid Company Code"}
 
     req = "\"OrderNo\":\"orderno_\""
     req = req.replace("orderno_", order_no)

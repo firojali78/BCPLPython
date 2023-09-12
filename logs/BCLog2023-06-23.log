@@ -1,0 +1,96 @@
+2023-06-23 18:36:33,691 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-23 18:36:33,691 [33mPress CTRL+C to quit[0m
+2023-06-23 18:36:33,722  * Restarting with stat
+2023-06-23 18:36:35,241  * Debugger is active!
+2023-06-23 18:36:35,255  * Debugger PIN: 124-747-496
+2023-06-23 18:37:45,901  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:37:46,058  * Restarting with stat
+2023-06-23 18:46:16,753 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-23 18:46:16,753 [33mPress CTRL+C to quit[0m
+2023-06-23 18:46:16,756  * Restarting with stat
+2023-06-23 18:46:17,374  * Debugger is active!
+2023-06-23 18:46:17,379  * Debugger PIN: 124-747-496
+2023-06-23 18:47:30,400  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:47:30,476  * Restarting with stat
+2023-06-23 18:47:34,678  * Debugger is active!
+2023-06-23 18:47:34,705  * Debugger PIN: 124-747-496
+2023-06-23 18:49:48,698 {'CustomerNo': 'C1114', 'ItemNo': '300-D', 'ItemSize': '5,6,9', 'ItemCategoryCode': 'LDPA', 'Remark': 'MyRem', 'DocumentNo': 'D001', 'BillToCustomer': 'C1115', 'SellToCustomer': 'C1116', 'UserID': 'ALI', 'StoreName': 'PataNahi', 'LocationCode': 'Noida'}
+2023-06-23 18:49:48,702 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-23 18:49:48,796 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-23 18:49:48,838 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-23 18:49:49,233 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-23 18:49:49,236 127.0.0.1 - - [23/Jun/2023 18:49:49] "POST /webCreateSOMobileApp HTTP/1.1" 200 -
+2023-06-23 18:51:34,900  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:51:34,971  * Restarting with stat
+2023-06-23 18:51:35,934  * Debugger is active!
+2023-06-23 18:51:35,941  * Debugger PIN: 124-747-496
+2023-06-23 18:51:38,992  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:51:39,056  * Restarting with stat
+2023-06-23 18:51:40,073  * Debugger is active!
+2023-06-23 18:51:40,082  * Debugger PIN: 124-747-496
+2023-06-23 18:51:45,175  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:51:45,266  * Restarting with stat
+2023-06-23 18:51:46,602  * Debugger is active!
+2023-06-23 18:51:46,616  * Debugger PIN: 124-747-496
+2023-06-23 18:51:50,727  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:51:50,882  * Restarting with stat
+2023-06-23 18:51:52,487  * Debugger is active!
+2023-06-23 18:51:52,497  * Debugger PIN: 124-747-496
+2023-06-23 18:51:57,564  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:51:57,714  * Restarting with stat
+2023-06-23 18:51:58,605  * Debugger is active!
+2023-06-23 18:51:58,610  * Debugger PIN: 124-747-496
+2023-06-23 18:52:04,848  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:52:04,903  * Restarting with stat
+2023-06-23 18:52:05,730  * Debugger is active!
+2023-06-23 18:52:05,737  * Debugger PIN: 124-747-496
+2023-06-23 18:52:14,996  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:52:15,063  * Restarting with stat
+2023-06-23 18:52:15,916  * Debugger is active!
+2023-06-23 18:52:15,921  * Debugger PIN: 124-747-496
+2023-06-23 18:52:25,164  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:52:25,227  * Restarting with stat
+2023-06-23 18:52:26,107  * Debugger is active!
+2023-06-23 18:52:26,112  * Debugger PIN: 124-747-496
+2023-06-23 18:52:32,279  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:52:32,356  * Restarting with stat
+2023-06-23 18:52:33,273  * Debugger is active!
+2023-06-23 18:52:33,279  * Debugger PIN: 124-747-496
+2023-06-23 18:52:40,404  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:52:40,625  * Restarting with stat
+2023-06-23 18:52:41,502  * Debugger is active!
+2023-06-23 18:52:41,510  * Debugger PIN: 124-747-496
+2023-06-23 18:52:48,761  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:52:48,845  * Restarting with stat
+2023-06-23 18:52:49,467  * Debugger is active!
+2023-06-23 18:52:49,472  * Debugger PIN: 124-747-496
+2023-06-23 18:52:58,799 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-23 18:52:58,799 [33mPress CTRL+C to quit[0m
+2023-06-23 18:52:58,801  * Restarting with stat
+2023-06-23 18:52:59,327  * Debugger is active!
+2023-06-23 18:52:59,331  * Debugger PIN: 124-747-496
+2023-06-23 18:53:02,760 {'CustomerNo': 'C1114', 'ItemNo': '300-D', 'ItemSize': '5,6,9', 'ItemCategoryCode': 'LDPA', 'Remark': 'MyRem', 'DocumentNo': 'D001', 'BillToCustomer': 'C1115', 'SellToCustomer': 'C1116', 'UserID': 'ALI', 'StoreName': 'PataNahi', 'LocationCode': 'Noida'}
+2023-06-23 18:53:02,764 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-23 18:53:02,851 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-23 18:53:02,889 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-23 18:53:02,981 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-23 18:53:02,990 127.0.0.1 - - [23/Jun/2023 18:53:02] "POST /webCreateSOMobileApp HTTP/1.1" 200 -
+2023-06-23 18:53:52,645  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-23 18:53:52,740  * Restarting with stat
+2023-06-23 18:53:53,872  * Debugger is active!
+2023-06-23 18:53:53,877  * Debugger PIN: 124-747-496
+2023-06-23 18:53:58,109 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-23 18:53:58,110 [33mPress CTRL+C to quit[0m
+2023-06-23 18:53:58,111  * Restarting with stat
+2023-06-23 18:53:58,646  * Debugger is active!
+2023-06-23 18:53:58,652  * Debugger PIN: 124-747-496
+2023-06-23 18:54:03,025 {'CustomerNo': 'C1114', 'ItemNo': '300-D', 'ItemSize': '5,6,9', 'ItemCategoryCode': 'LDPA', 'Remark': 'MyRem', 'DocumentNo': 'D001', 'BillToCustomer': 'C1115', 'SellToCustomer': 'C1116', 'UserID': 'ALI', 'StoreName': 'PataNahi', 'LocationCode': 'Noida'}
+2023-06-23 18:54:03,027 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-23 18:54:03,103 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-23 18:54:03,143 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-23 18:54:03,230 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-23 18:54:03,232 127.0.0.1 - - [23/Jun/2023 18:54:03] "POST /webCreateSOMobileApp HTTP/1.1" 200 -

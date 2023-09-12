@@ -1,0 +1,50 @@
+2023-05-19 17:21:24,090 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-19 17:21:24,090 [33mPress CTRL+C to quit[0m
+2023-05-19 17:21:24,096  * Restarting with stat
+2023-05-19 17:21:24,712  * Debugger is active!
+2023-05-19 17:21:24,718  * Debugger PIN: 124-747-496
+2023-05-19 17:49:15,374 127.0.0.1 - - [19/May/2023 17:49:15] "[35m[1mPOST /webValidateItemdp HTTP/1.1[0m" 500 -
+2023-05-19 18:02:29,663 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-19 18:02:29,664 [33mPress CTRL+C to quit[0m
+2023-05-19 18:02:29,670  * Restarting with stat
+2023-05-19 18:02:30,184  * Debugger is active!
+2023-05-19 18:02:30,189  * Debugger PIN: 124-747-496
+2023-05-19 18:02:57,151 127.0.0.1 - - [19/May/2023 18:02:57] "[35m[1mPOST /webValidateItemdp HTTP/1.1[0m" 500 -
+2023-05-19 18:05:15,340 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-19 18:05:15,340 [33mPress CTRL+C to quit[0m
+2023-05-19 18:05:15,342  * Restarting with stat
+2023-05-19 18:05:15,937  * Debugger is active!
+2023-05-19 18:05:15,942  * Debugger PIN: 124-747-496
+2023-05-19 18:05:33,571 127.0.0.1 - - [19/May/2023 18:05:33] "[35m[1mPOST /webValidateItemdp HTTP/1.1[0m" 500 -
+2023-05-19 18:06:48,429  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-19 18:06:48,798  * Restarting with stat
+2023-05-19 18:06:49,703  * Debugger is active!
+2023-05-19 18:06:49,707  * Debugger PIN: 124-747-496
+2023-05-19 18:06:57,896 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-19 18:06:57,896 [33mPress CTRL+C to quit[0m
+2023-05-19 18:06:57,897  * Restarting with stat
+2023-05-19 18:06:58,466  * Debugger is active!
+2023-05-19 18:06:58,471  * Debugger PIN: 124-747-496
+2023-05-19 18:07:00,636 127.0.0.1 - - [19/May/2023 18:07:00] "[35m[1mPOST /webValidateItemdp HTTP/1.1[0m" 500 -
+2023-05-19 18:07:43,658  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-19 18:07:43,846  * Restarting with stat
+2023-05-19 18:08:00,300 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-19 18:08:00,301 [33mPress CTRL+C to quit[0m
+2023-05-19 18:08:00,306  * Restarting with stat
+2023-05-19 18:08:05,107  * Debugger is active!
+2023-05-19 18:08:05,142  * Debugger PIN: 124-747-496
+2023-05-19 18:08:08,411 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-19 18:08:08,562 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-19 18:08:08,615 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-19 18:08:16,834 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-19 18:08:16,845 127.0.0.1 - - [19/May/2023 18:08:16] "POST /webValidateItemdp HTTP/1.1" 200 -
+2023-05-19 18:30:10,729 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-19 18:30:10,828 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-19 18:30:11,035 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-19 18:30:11,112 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-19 18:30:11,114 127.0.0.1 - - [19/May/2023 18:30:11] "POST /webValidateItemdp HTTP/1.1" 200 -

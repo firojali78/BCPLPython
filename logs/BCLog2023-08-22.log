@@ -1,0 +1,200 @@
+2023-08-22 15:43:18,354 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 15:43:18,355 [33mPress CTRL+C to quit[0m
+2023-08-22 15:43:18,368  * Restarting with stat
+2023-08-22 15:43:20,645  * Debugger is active!
+2023-08-22 15:43:20,664  * Debugger PIN: 124-747-496
+2023-08-22 15:46:54,627 {'CategoryCode': 'BSCS'}
+2023-08-22 15:46:54,631 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 15:46:54,715 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 15:46:54,778 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 15:46:55,469 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 15:46:55,557 127.0.0.1 - - [22/Aug/2023 15:46:55] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 16:15:31,451 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 16:15:31,451 [33mPress CTRL+C to quit[0m
+2023-08-22 16:15:31,459  * Restarting with stat
+2023-08-22 16:15:33,233  * Debugger is active!
+2023-08-22 16:15:33,330  * Debugger PIN: 124-747-496
+2023-08-22 16:15:35,091 {'CategoryCode': 'BSCS'}
+2023-08-22 16:15:35,098 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 16:15:35,224 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 16:15:35,283 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 16:15:35,512 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 16:15:35,623 127.0.0.1 - - [22/Aug/2023 16:15:35] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 16:16:14,840  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 16:16:15,792  * Restarting with stat
+2023-08-22 16:16:25,109 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 16:16:25,109 [33mPress CTRL+C to quit[0m
+2023-08-22 16:16:25,109  * Restarting with stat
+2023-08-22 16:16:26,985  * Debugger is active!
+2023-08-22 16:16:27,002  * Debugger PIN: 124-747-496
+2023-08-22 16:16:27,956 {'CategoryCode': 'BSCS'}
+2023-08-22 16:16:27,967 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 16:16:28,131 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 16:16:28,213 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 16:16:29,458 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 16:16:29,605 127.0.0.1 - - [22/Aug/2023 16:16:29] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 16:17:56,787  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 16:17:57,028  * Restarting with stat
+2023-08-22 16:17:58,924  * Debugger is active!
+2023-08-22 16:17:58,942  * Debugger PIN: 124-747-496
+2023-08-22 16:18:03,178 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 16:18:03,179 [33mPress CTRL+C to quit[0m
+2023-08-22 16:18:03,184  * Restarting with stat
+2023-08-22 16:18:04,613  * Debugger is active!
+2023-08-22 16:18:04,634  * Debugger PIN: 124-747-496
+2023-08-22 16:18:05,460 {'CategoryCode': 'BSCS'}
+2023-08-22 16:18:05,471 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 16:18:05,585 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 16:18:05,645 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 16:18:05,819 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 16:18:05,922 127.0.0.1 - - [22/Aug/2023 16:18:05] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 16:24:56,120  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 16:24:56,690  * Restarting with stat
+2023-08-22 16:24:59,482  * Debugger is active!
+2023-08-22 16:24:59,498  * Debugger PIN: 124-747-496
+2023-08-22 16:25:03,785 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 16:25:03,785 [33mPress CTRL+C to quit[0m
+2023-08-22 16:25:03,791  * Restarting with stat
+2023-08-22 16:25:05,268  * Debugger is active!
+2023-08-22 16:25:05,282  * Debugger PIN: 124-747-496
+2023-08-22 16:25:06,711 {'CategoryCode': 'BSCS'}
+2023-08-22 16:25:06,716 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 16:25:09,837 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 16:25:09,909 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 16:25:10,118 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 16:25:10,175 127.0.0.1 - - [22/Aug/2023 16:25:10] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 16:26:29,357  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 16:26:29,540  * Restarting with stat
+2023-08-22 16:26:32,921  * Debugger is active!
+2023-08-22 16:26:32,946  * Debugger PIN: 124-747-496
+2023-08-22 16:26:36,279 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 16:26:36,279 [33mPress CTRL+C to quit[0m
+2023-08-22 16:26:36,285  * Restarting with stat
+2023-08-22 16:26:38,128  * Debugger is active!
+2023-08-22 16:26:38,143  * Debugger PIN: 124-747-496
+2023-08-22 16:26:41,125 {'CategoryCode': 'BSCS'}
+2023-08-22 16:26:41,142 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 16:26:41,268 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 16:26:41,333 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 16:26:46,033 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 16:26:46,221 127.0.0.1 - - [22/Aug/2023 16:26:46] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 16:28:09,242  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 16:28:09,473  * Restarting with stat
+2023-08-22 16:28:11,221  * Debugger is active!
+2023-08-22 16:28:11,229  * Debugger PIN: 124-747-496
+2023-08-22 16:53:47,449  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 16:53:47,707  * Restarting with stat
+2023-08-22 16:53:54,173  * Debugger is active!
+2023-08-22 16:53:54,186  * Debugger PIN: 124-747-496
+2023-08-22 16:56:41,954  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 16:56:42,061  * Restarting with stat
+2023-08-22 16:56:44,242  * Debugger is active!
+2023-08-22 16:56:44,260  * Debugger PIN: 124-747-496
+2023-08-22 17:01:30,744  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 17:01:31,132  * Restarting with stat
+2023-08-22 17:01:36,059 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 17:01:36,059 [33mPress CTRL+C to quit[0m
+2023-08-22 17:01:36,065  * Restarting with stat
+2023-08-22 17:01:38,333  * Debugger is active!
+2023-08-22 17:01:38,356  * Debugger PIN: 124-747-496
+2023-08-22 17:01:40,211 {'CategoryCode': 'BSCS'}
+2023-08-22 17:01:40,211 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 17:01:40,342 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 17:01:40,397 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 17:01:41,048 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 400 447
+2023-08-22 17:01:41,058 127.0.0.1 - - [22/Aug/2023 17:01:41] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 17:02:55,283 {'CategoryCode': 'BSCS'}
+2023-08-22 17:02:55,290 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 17:02:55,434 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 17:02:55,508 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 17:02:56,240 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 17:02:56,362 127.0.0.1 - - [22/Aug/2023 17:02:56] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 17:06:54,201  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 17:06:54,286  * Restarting with stat
+2023-08-22 17:06:55,827  * Debugger is active!
+2023-08-22 17:06:55,827  * Debugger PIN: 124-747-496
+2023-08-22 17:06:59,369 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 17:06:59,369 [33mPress CTRL+C to quit[0m
+2023-08-22 17:06:59,369  * Restarting with stat
+2023-08-22 17:06:59,907  * Debugger is active!
+2023-08-22 17:06:59,914  * Debugger PIN: 124-747-496
+2023-08-22 17:07:02,181 {'CategoryCode': 'BSCS'}
+2023-08-22 17:07:02,182 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 17:07:02,292 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 17:07:02,347 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 17:07:02,461 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 17:07:02,564 127.0.0.1 - - [22/Aug/2023 17:07:02] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 17:07:36,198  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 17:07:36,307  * Restarting with stat
+2023-08-22 17:07:37,126  * Debugger is active!
+2023-08-22 17:07:37,132  * Debugger PIN: 124-747-496
+2023-08-22 17:07:41,878 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 17:07:41,878 [33mPress CTRL+C to quit[0m
+2023-08-22 17:07:41,881  * Restarting with stat
+2023-08-22 17:07:42,457  * Debugger is active!
+2023-08-22 17:07:42,457  * Debugger PIN: 124-747-496
+2023-08-22 17:07:44,874 {'CategoryCode': 'BSCS'}
+2023-08-22 17:07:44,875 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 17:07:44,997 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 17:07:45,062 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 17:07:45,164 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 17:07:45,263 127.0.0.1 - - [22/Aug/2023 17:07:45] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 17:08:01,256  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 17:08:01,429  * Restarting with stat
+2023-08-22 17:08:04,116  * Debugger is active!
+2023-08-22 17:08:04,131  * Debugger PIN: 124-747-496
+2023-08-22 17:08:08,551 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 17:08:08,551 [33mPress CTRL+C to quit[0m
+2023-08-22 17:08:08,552  * Restarting with stat
+2023-08-22 17:08:09,298  * Debugger is active!
+2023-08-22 17:08:09,305  * Debugger PIN: 124-747-496
+2023-08-22 17:08:11,619 {'CategoryCode': 'BSCS'}
+2023-08-22 17:08:11,620 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 17:08:11,796 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 17:08:11,907 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 17:08:12,055 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 17:08:12,189 127.0.0.1 - - [22/Aug/2023 17:08:12] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 17:08:25,305  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 17:08:26,030  * Restarting with stat
+2023-08-22 17:18:10,166 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-22 17:18:10,166 [33mPress CTRL+C to quit[0m
+2023-08-22 17:18:10,166  * Restarting with stat
+2023-08-22 17:18:10,758  * Debugger is active!
+2023-08-22 17:18:10,774  * Debugger PIN: 124-747-496
+2023-08-22 17:18:17,525 {'CategoryCode': 'BSCS'}
+2023-08-22 17:18:17,526 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 17:18:17,697 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 17:18:17,777 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 17:18:17,910 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 17:18:18,104 127.0.0.1 - - [22/Aug/2023 17:18:18] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 17:19:09,570  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 17:19:09,687  * Restarting with stat
+2023-08-22 17:19:10,771  * Debugger is active!
+2023-08-22 17:19:10,775  * Debugger PIN: 124-747-496
+2023-08-22 17:20:35,204  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-22 17:20:35,309  * Restarting with stat
+2023-08-22 17:20:36,471  * Debugger is active!
+2023-08-22 17:20:36,486  * Debugger PIN: 124-747-496
+2023-08-22 17:22:04,407 {'CategoryCode': 'BSCS'}
+2023-08-22 17:22:04,410 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 17:22:04,616 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 17:22:04,796 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 17:22:05,078 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 17:22:05,187 127.0.0.1 - - [22/Aug/2023 17:22:05] "POST /webItemExportMobileAPI HTTP/1.1" 200 -
+2023-08-22 17:22:27,990 {'CategoryCode': 'BSL'}
+2023-08-22 17:22:27,991 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-22 17:22:28,161 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-22 17:22:28,271 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-22 17:22:28,399 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-22 17:22:28,467 127.0.0.1 - - [22/Aug/2023 17:22:28] "POST /webItemExportMobileAPI HTTP/1.1" 200 -

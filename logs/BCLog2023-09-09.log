@@ -1,0 +1,73 @@
+2023-09-09 00:23:17,520 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-09 00:23:17,522 [33mPress CTRL+C to quit[0m
+2023-09-09 00:23:17,535  * Restarting with stat
+2023-09-09 00:24:19,966  * Debugger is active!
+2023-09-09 00:24:20,000  * Debugger PIN: 124-747-496
+2023-09-09 00:24:20,073 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-09 00:24:20,188 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-09 00:24:20,258 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-09 00:24:20,462 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-09 00:24:20,468 127.0.0.1 - - [09/Sep/2023 00:24:20] "POST /webbarcodeprint HTTP/1.1" 200 -
+2023-09-09 08:36:07,890 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-09 08:36:07,890 [33mPress CTRL+C to quit[0m
+2023-09-09 08:36:07,898  * Restarting with stat
+2023-09-09 08:36:09,072  * Debugger is active!
+2023-09-09 08:36:09,082  * Debugger PIN: 124-747-496
+2023-09-09 08:36:13,121 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-09 08:36:13,459 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-09 08:36:13,552 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-09 08:36:14,061 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-09 08:36:14,063 127.0.0.1 - - [09/Sep/2023 08:36:14] "POST /webbarcodeprint HTTP/1.1" 200 -
+2023-09-09 08:39:38,195 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-09 08:39:38,278 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-09 08:39:38,345 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-09 08:39:40,400 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-09 08:39:40,402 127.0.0.1 - - [09/Sep/2023 08:39:40] "POST /webbarcodeprint HTTP/1.1" 200 -
+2023-09-09 08:42:59,143  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-09-09 08:42:59,317  * Restarting with stat
+2023-09-09 08:43:04,379  * Debugger is active!
+2023-09-09 08:43:04,400  * Debugger PIN: 124-747-496
+2023-09-09 08:43:09,683 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-09 08:43:09,683 [33mPress CTRL+C to quit[0m
+2023-09-09 08:43:09,688  * Restarting with stat
+2023-09-09 08:43:11,586  * Debugger is active!
+2023-09-09 08:43:11,618  * Debugger PIN: 124-747-496
+2023-09-09 08:43:24,071 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-09 08:43:24,539 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-09 08:43:24,603 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-09 08:43:24,775 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-09 08:43:24,778 127.0.0.1 - - [09/Sep/2023 08:43:24] "POST /webbarcodeprint HTTP/1.1" 200 -
+2023-09-09 08:45:30,629  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-09-09 08:45:30,780  * Restarting with stat
+2023-09-09 08:45:33,873  * Debugger is active!
+2023-09-09 08:45:33,888  * Debugger PIN: 124-747-496
+2023-09-09 08:45:48,156 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-09 08:45:48,157 [33mPress CTRL+C to quit[0m
+2023-09-09 08:45:48,163  * Restarting with stat
+2023-09-09 08:45:49,735  * Debugger is active!
+2023-09-09 08:45:49,749  * Debugger PIN: 124-747-496
+2023-09-09 08:45:53,019 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-09 08:45:53,087 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-09 08:45:53,115 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-09 08:45:54,259 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-09 08:45:54,265 127.0.0.1 - - [09/Sep/2023 08:45:54] "POST /webbarcodeprint HTTP/1.1" 200 -
+2023-09-09 08:51:31,039 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-09 08:51:31,213 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-09 08:51:31,268 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-09 08:51:31,343 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 214
+2023-09-09 08:51:31,768 127.0.0.1 - - [09/Sep/2023 08:51:31] "[35m[1mPOST /webbarcodeprint HTTP/1.1[0m" 500 -
+2023-09-09 08:56:58,460 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-09 08:56:58,527 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-09 08:56:58,567 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-09 08:56:58,622 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 214
+2023-09-09 08:56:58,755 127.0.0.1 - - [09/Sep/2023 08:56:58] "[35m[1mPOST /webbarcodeprint HTTP/1.1[0m" 500 -
+2023-09-09 08:58:20,907 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-09 08:58:20,907 [33mPress CTRL+C to quit[0m
+2023-09-09 08:58:20,919  * Restarting with stat
+2023-09-09 08:58:22,254  * Debugger is active!
+2023-09-09 08:58:22,267  * Debugger PIN: 124-747-496

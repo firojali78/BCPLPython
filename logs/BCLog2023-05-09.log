@@ -186,3 +186,18 @@
 2023-05-09 16:44:49,418 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
 2023-05-09 16:44:49,630 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
 2023-05-09 16:44:49,631 127.0.0.1 - - [09/May/2023 16:44:49] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-09 16:46:07,339 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-09 16:46:07,425 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-09 16:46:07,463 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-09 16:46:07,515 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-09 16:46:07,516 127.0.0.1 - - [09/May/2023 16:46:07] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-09 16:47:06,276 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-09 16:47:06,355 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-09 16:47:06,393 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-09 16:47:06,445 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 400 280
+2023-05-09 16:47:06,447 127.0.0.1 - - [09/May/2023 16:47:06] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-09 16:48:05,930 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-09 16:48:05,998 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-09 16:48:06,035 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-09 16:48:06,083 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 400 280
+2023-05-09 16:48:06,086 127.0.0.1 - - [09/May/2023 16:48:06] "POST /websaleorderexportapidp HTTP/1.1" 200 -

@@ -34,48 +34,19 @@ def weblogin(username, password, logintype):
 # weblogin For showing Public URL End -
 
 # -----------webcredentialsvalidate For showing Public URL Start +
-#@app.route('/webcredentialsvalidate/<username>/<password>', methods=['GET', 'POST'])
-@app.route('/webcredentialsvalidate', methods=['GET', 'POST'])
-def webcredentialsvalidate():
-    if request.method == 'POST':
-        #res = credentialsvalidate(username, password)
-        input_json = request.get_json()
-        print(input_json)
-        logger.info(str(input_json))
-        company_code = input_json.get("CompanyCode")
-        user_id = input_json.get("UserID")
-        user_password = input_json.get("UserPassword")
-        res = credentialsvalidate(company_code,user_id,user_password)
-        #return res
-    else:
-        company_code = request.args.get("CompanyCode")
-        user_id = request.args.get("UserID")
-        user_password = request.args.get("UserPassword")
-        print(user_id)
-        logger.info(str(user_id))
-        res = credentialsvalidate(company_code,user_id,user_password)
-
-    #return jsonify(res)
+@app.route('/webcredentialsvalidate/<username>/<password>', methods=['GET', 'POST'])
+def webcredentialsvalidate(username, password):
+    res = credentialsvalidate(username, password)
     return res
 
+
 # webcredentialsvalidate For showing Public URL End -
-
-
-
-
-
 
 # -----------webitemListws For showing Public URL Start +
 @app.route('/webitemlistws', methods=['GET', 'POST'])
 def webitemlistws():
-    arr=[]
-    js={}
     res = itemlistws()
-    for i in res:
-        js["No"]= i["No"]
-        js["Description"] = i["Description"]
-        arr.append(js)
-    return arr
+    return res
 
 
 # webitemlistws For showing Public URL End -
@@ -87,7 +58,6 @@ def webbarcodeprint():
     if request.method == 'POST':
         input_json = request.get_json()
         # print(input_json)
-        company_code = input_json.get("CompanyCode")
         phylotno = input_json.get("PhyLotNo")
         itemno = input_json.get("ItemNo")
         variantcode = input_json.get("VariantCode")
@@ -99,7 +69,7 @@ def webbarcodeprint():
         pricegroupcode = input_json.get("PriceGroupCode")
         purstndrdqty = input_json.get("PurStndrdQty")
         createdby = input_json.get("CreatedBy")
-        res = barcodeprint(company_code, phylotno, itemno, variantcode, printreport, uom, issuedtouid, no0fbarcodes, uommrp,
+        res = barcodeprint(phylotno, itemno, variantcode, printreport, uom, issuedtouid, no0fbarcodes, uommrp,
                            pricegroupcode, purstndrdqty, createdby)
         # return res
         # return res.get("value")
@@ -135,39 +105,13 @@ def webgettemplatebatchname(username):
 # -----------function name-sendReq Start +
 
 # -----------webvalidatedocumentnofgmanufacturing For showing Public URL Start +
-@app.route('/webvalidatedocumentnofgmanufacturing', methods=['GET', 'POST'])
-def webvalidatedocumentnofgmanufacturing():
-    if request.method == 'POST':
-        input_json = request.get_json()
-        print(input_json)
-        document_No = input_json.get("DocumentNo")
-        from_Location = input_json.get("FromLocation")
-        to_Location = input_json.get("ToLocation")
-
-        res = validatedocumentnofgmanufacturing(document_No, from_Location,to_Location)
+@app.route('/webvalidatedocumentnofgmanufacturing/<documentno>/<userid>', methods=['GET', 'POST'])
+def webvalidatedocumentnofgmanufacturing(documentno, userid):
+    res = validatedocumentnofgmanufacturing(documentno, userid)
     return res
+
 
 # webvalidatedocumentnofgmanufacturing For showing Public URL End -
-
-
-# -----------VDocumentNoFGManufac For showing Public URL Start +
-@app.route('/webvDocumentNoFGManufac', methods=['GET', 'POST'])
-def webvDocumentNoFGManufac():
-    if request.method == 'POST':
-        input_json = request.get_json()
-        print(input_json)
-        document_No = input_json.get("DocumentNo")
-        user_ID = input_json.get("UserID")
-
-
-        res = vDocumentNoFGManufac(document_No, user_ID)
-    return res
-
-# VDocumentNoFGManufac For showing Public URL End -
-
-
-
-
 
 # -----------webvalidatemanuserialno For showing Public URL Start +
 @app.route('/webvalidatemanuserialno/<srno>', methods=['GET', 'POST'])
@@ -624,10 +568,9 @@ def webvalidatereturnbarcode():
         input_json = request.get_json()
         print(input_json)
 
-        rtrn_Barcode = input_json.get("RtrnBarcode")
-        rtrnOrder_No = input_json.get("RtrnOrderNo")
+        return_order_no = input_json.get("ReturnOrderNo")
 
-        res = validatereturnbarcode(rtrn_Barcode,rtrnOrder_No)
+        res = validatereturnbarcode(return_order_no)
         # return res.get("value")
         return res
 
@@ -642,10 +585,9 @@ def webgoodsreturn():
         input_json = request.get_json()
         print(input_json)
 
-        bar_code = input_json.get("RtrnBarcode")
-        return_order_no = input_json.get("RtrnOrderNo")
+        return_order_no = input_json.get("ReturnOrderNo")
 
-        res = goodsreturn(bar_code,return_order_no)
+        res = goodsreturn(return_order_no)
         # return res.get("value")
         return res
 
@@ -734,16 +676,9 @@ def webitemcategoryexportdp():
     res = itemcategoryexport()
     # return res.get("value")
     return res
+
+
 # ----------- ItemCategoryExport For showing Public URL End -
-
-
-# ----------- OrderCategoryExport For showing Public URL Start +
-@app.route('/webordercategoryexportdp', methods=['GET', 'POST'])
-def webordercategoryexportdp():
-    res = orderCategoryExport()
-    # return res.get("value")
-    return res
-# ----------- OrderCategoryExport For showing Public URL End -
 
 
 # ----------- GetItemCategoryDetail For showing Public URL Start +
@@ -843,74 +778,6 @@ def webvalidateItemVariantdp():
 # ----------- ValidateItemVariant For showing Public URL End -
 
 
-# ----------- UpdateUserIDInSaleOrderExport For showing Public URL Start +
-@app.route('/webUpdateUserIDInSaleOrderExportdp', methods=['GET', 'POST'])
-def webUpdateUserIDInSaleOrderExportdp():
-    if request.method == 'POST':
-        input_json = request.get_json()
-        print(input_json)
-
-        User_ID = input_json.get("UserID")
-        docuent_No = input_json.get("DocuentNo")
-
-        res = updateUserIDInSaleOrderExport(User_ID,docuent_No)
-        # return res.get("value")
-        return res
-# ----------- UpdateUserIDInSaleOrderExport For showing Public URL End -
-
-
-
-# ----------- ValidateItemNo For showing Public URL Start +
-@app.route('/webValidateItemNodp', methods=['GET', 'POST'])
-def webValidateItemNodp():
-    if request.method == 'POST':
-        input_json = request.get_json()
-        print(input_json)
-
-        item_Code = input_json.get("ItemCode")
-
-
-        res = validateItemNo(item_Code)
-        # return res.get("value")
-        return res
-# ----------- ValidateItemNo For showing Public URL End -
-
-
-
-# ----------- TransferLnArticalBarcode For showing Public URL Start +
-@app.route('/webTransferLnArticalBarcodedp', methods=['GET', 'POST'])
-def webTransferLnArticalBarcodedp():
-    if request.method == 'POST':
-        input_json = request.get_json()
-        print(input_json)
-
-        bar_code = input_json.get("Barcode")
-        transfer_Order = input_json.get("TransferOrder")
-        to_Location = input_json.get("ToLocation")
-        from_Location = input_json.get("FromLocation")
-
-
-        res = transferLnArticalBarcode(bar_code,transfer_Order,to_Location,from_Location)
-        # return res.get("value")
-        return res
-# ----------- TransferLnArticalBarcode For showing Public URL End -
-
-# ----------- itemexport For showing Public URL Start +
-@app.route('/webitemexportdp', methods=['GET', 'POST'])
-def webitemexportdp():
-    if request.method == 'POST':
-        input_json = request.get_json()
-        print(input_json)
-
-        no = input_json.get("No")
-        description = input_json.get("Description")
-
-        res = itemexport(no, description)
-        # return res.get("value")
-        return res
-
-
-# ----------- itemexport For showing Public URL End -
 
 
 # ----------- SaleOrderExportAPI For showing Public URL Start +
@@ -967,27 +834,6 @@ def websaleorderexportapidp():
 # ----------- SaleOrderExportAPI For showing Public URL End -
 
 
-# ----------- GetMailIDLoginUser For showing Public URL Start +
-@app.route('/webgetMailIDLoginUserdp', methods=['GET', 'POST'])
-def webgetMailIDLoginUserdp():
-    if request.method == 'POST':
-        input_json = request.get_json()
-        print(input_json)
-
-        user_id = input_json.get("UserID")
-
-        res = getMailIDLoginUser(user_id)
-        # return res.get("value")
-        return res
-    else:
-        user_id = request.args.get("UserID")
-        res = getMailIDLoginUser(user_id)
-        # return res.get("value")
-        print(res, "Response")
-        return res
-
-
-# ----------- GetMailIDLoginUser For showing Public URL End -
 
 
 
@@ -1021,73 +867,9 @@ def webitemmasterapp():
 
     # return res.get("value")
     return jsonify(res)
+
+
 # ----------- ItemMasterApp For showing Public URL End -
-
-# ----------- ItemExportMobileAPI For showing Public URL Start +
-@app.route('/webItemExportMobileAPI', methods=['GET', 'POST'])
-def webItemExportMobileAPI():
-    if request.method == 'POST':
-        input_json = request.get_json()
-        print(input_json)
-        logger.info(str(input_json))
-        catagory_code = input_json.get("CategoryCode")
-        res = itemExportMobileAPI(catagory_code)
-    else:
-        catagory_code = request.args.get("CategoryCode")
-        print(catagory_code)
-        logger.info(str(catagory_code))
-        res = itemExportMobileAPI(catagory_code)
-
-    # return res.get("value")
-    return jsonify(res)
-# ----------- ItemExportMobileAPI For showing Public URL End -
-
-
-
-# ----------- CreateSOMobileApp For showing Public URL Start +
-@app.route('/webCreateSOMobileApp', methods=['GET', 'POST'])
-def webCreateSOMobileApp():
-    if request.method == 'POST':
-        input_json = request.get_json()
-        print(input_json)
-        logger.info(str(input_json))
-        customer_No = input_json.get("CustomerNo")
-        item_No = input_json.get("ItemNo")
-        item_Size = input_json.get("ItemSize")
-        item_Category_Code = input_json.get("ItemCategoryCode")
-        remark = input_json.get("Remark")
-        document_No = input_json.get("DocumentNo")
-        bill_To_Customer = input_json.get("BillToCustomer")
-        sell_To_Customer = input_json.get("SellToCustomer")
-        user_ID = input_json.get("UserID")
-        store_Name = input_json.get("StoreName")
-        location_Code = input_json.get("LocationCode")
-        res = createSOMobileApp(customer_No,item_No,item_Size,item_Category_Code,remark,document_No,bill_To_Customer,sell_To_Customer,user_ID,store_Name,location_Code)
-    else:
-        customer_No = request.args.get("CustomerNo")
-        item_No = request.args.get("ItemNo")
-        item_Size = request.args.get("ItemSize")
-        item_Category_Code = request.args.get("ItemCategoryCode")
-        remark = request.args.get("Remark")
-        document_No = request.args.get("DocumentNo")
-        bill_To_Customer = request.args.get("BillToCustomer")
-        sell_To_Customer = request.args.get("SellToCustomer")
-        user_ID = request.args.get("UserID")
-        store_Name = request.args.get("StoreName")
-        location_Code = request.args.get("LocationCode")
-
-        print(customer_No)
-        logger.info(str(customer_No))
-        res = createSOMobileApp(customer_No, item_No, item_Size, item_Category_Code, remark, document_No,
-                                bill_To_Customer, sell_To_Customer, user_ID, store_Name, location_Code)
-
-    # return res.get("value")
-
-    return jsonify(res)
-
-# ----------- CreateSOMobileApp For showing Public URL End -
-
-
 
 
 # ******************************** Mobile App End ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -
@@ -1156,14 +938,10 @@ def webuserlogin(user_name, pass_word, login_type):
 # function name-webuserlogin END -
 
 # -----------function name-credentialsvalidate Start +
-def credentialsvalidate(comp_code, user_name, pass_word):
+def credentialsvalidate(user_name, pass_word):
     print(user_name, pass_word)
     # url = "http://20.235.83.237:7048/BC200/ODataV4/ProcessBarcode_CredentialsValidate?Company=Bodycare"
-    if comp_code == "BCPL":
-        url = "http://20.235.83.237:8049/BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=Bodycare%20Creations%20Ltd.";
-    else:
-        url = "http://20.235.83.237:8049/BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD";
-
+    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=Bodycare%20Creations%20Ltd.";
     req = "\"UserID\":\"user_name\",\"UserPassword\":\"pass_word\""
 
     req = req.replace("user_name", user_name)
@@ -1182,8 +960,6 @@ def credentialsvalidate(comp_code, user_name, pass_word):
                                 auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
     print(response.text)
     outputdata = checkresponse(response.status_code, response.json())
-    outputdata = str(outputdata)
-    outputdata = outputdata.replace('\\\\','')
     return outputdata
 
 
@@ -1192,9 +968,7 @@ def credentialsvalidate(comp_code, user_name, pass_word):
 
 # -----------function name-ItemListWS Start +
 def itemlistws():
-    #url = "http://20.235.83.237:7048/BC200/ODataV4/Company('Bodycare')/ItemListWS"
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp"
-
+    url = "http://20.235.83.237:7048/BC200/ODataV4/Company('Bodycare')/ItemListWS"
     payload = ""
     headers = {}
 
@@ -1212,19 +986,14 @@ url = "http://20.235.83.237:8049/BodycareLive/ODataV4/PrintBarcode_BarcodePrint?
 
 
 # -----------function name-BarcodePrint Start +
-def barcodeprint(comp_code, phylotno, itemno, variantcode, printreport, uom, issuedtouid, no0fbarcodes, uommrp, pricegroupcode,
+def barcodeprint(phylotno, itemno, variantcode, printreport, uom, issuedtouid, no0fbarcodes, uommrp, pricegroupcode,
                  purstndrdqty, createdby):
     # print(user_name,pass_word)
     # url = "http://20.235.83.237:7048/BC200/ODataV4/ProcessBarcode_BarcodePrint?Company=Bodycare"
-    if comp_code == "BCPL":
-        url = "http://20.235.83.237:8049/BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd.";
-    else:
-        url = "http://20.235.83.237:8049/BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD";
-
-    req = "\"CompanyCode\":\"comp_code_\",\"PhyLotNo\":\"phylotno_\",\"ItemNo\":\"itemno_\",\"VariantCode\":\"variantcode_\",\"PrintReport\":\"printreport_\",\"UOM\":\"uom_\",\"IssuedToUID\":\"issuedtouid_\",\"No0fBarcodes\":\"no0fbarcodes_\",\"UOMMRP\":\"uommrp_\",\"PriceGroupCode\":\"pricegroupcode_\",\"PurStndrdQty\":\"purstndrdqty_\",\"CreatedBy\":\"createdby_\""
+    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd.";
+    req = "\"PhyLotNo\":\"phylotno_\",\"ItemNo\":\"itemno_\",\"VariantCode\":\"variantcode_\",\"PrintReport\":\"printreport_\",\"UOM\":\"uom_\",\"IssuedToUID\":\"issuedtouid_\",\"No0fBarcodes\":\"no0fbarcodes_\",\"UOMMRP\":\"uommrp_\",\"PriceGroupCode\":\"pricegroupcode_\",\"PurStndrdQty\":\"purstndrdqty_\",\"CreatedBy\":\"createdby_\""
     # req = "\"UserID\":\"user_name\",\"UserPassword\":\"pass_word\""
 
-    req = req.replace("comp_code_", comp_code)
     req = req.replace("phylotno_", phylotno)
     req = req.replace("itemno_", itemno)
     req = req.replace("variantcode_", variantcode)
@@ -1311,16 +1080,15 @@ def gettemplatebatchname(user_name):
 
 
 # -----------function name-validatedocumentnofgmanufacturing Start +
-def validatedocumentnofgmanufacturing(document_no, from_Location, to_Location):
+def validatedocumentnofgmanufacturing(document_no, user_id):
     # print(user_name)
     # url = "http://20.235.83.237:7048/BC200/ODataV4/ScanBarcode_ValidateDocumentNoFGManufacturing?Company=Bodycare"
     url = "http://20.235.83.237:8049/BodycareLive/ODataV4/ProcessBarcode_ValidateDocumentNoFGManufacturing?Company=Bodycare%20Creations%20Ltd."
 
-    req = "\"DocumentNo\":\"document_no_\",\"FromLocation\":\"from_Location_\",\"ToLocation\":\"to_Location_\""
+    req = "\"DocumentNo\":\"documentno\",\"UserID\":\"userid\""
 
-    req = req.replace("document_no_", document_no)
-    req = req.replace("from_Location_", from_Location)
-    req = req.replace("to_Location_", to_Location)
+    req = req.replace("documentno", document_no)
+    req = req.replace("userid", user_id)
 
     req = "{" + req + "}"
     print(req)
@@ -1336,38 +1104,9 @@ def validatedocumentnofgmanufacturing(document_no, from_Location, to_Location):
     print(response.text)
     outputdata = checkresponse(response.status_code, response.json())
     return outputdata
+
 
 # function name-validatedocumentnofgmanufacturing END -
-
-# -----------function name-VDocumentNoFGManufac Start +
-def vDocumentNoFGManufac(document_no, user_ID):
-    # print(user_name)
-    # url = "http://20.235.83.237:7048/BC200/ODataV4/ScanBarcode_ValidateDocumentNoFGManufacturing?Company=Bodycare"
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/ProcessBarcode_VDocumentNoFGManufac?Company=Bodycare%20Creations%20Ltd."
-
-    req = "\"DocumentNo\":\"document_no_\",\"UserID\":\"user_ID_\""
-
-    req = req.replace("document_no_", document_no)
-    req = req.replace("user_ID_", user_ID)
-
-
-    req = "{" + req + "}"
-    print(req)
-
-    payload = json.dumps({
-        "inputJson": req
-    })
-    headers = {
-        'Content-Type': 'application/json'
-    }
-    response = requests.request("POST", url, headers=headers, data=payload,
-                                auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
-    print(response.text)
-    outputdata = checkresponse(response.status_code, response.json())
-    return outputdata
-
-
-# function name-VDocumentNoFGManufac END -
 
 
 # -----------function name-ValidateManuSerialNo Start +
@@ -2303,9 +2042,10 @@ def webuserexport(user_id):
     outputdata = checkresponse(response.status_code, response.json())
     return outputdata
 
+
 # function name-WebUserExport END -
 
-# -----------function name - ItemCategoryExport Start +
+
 def itemcategoryexport():
     # print(user_name)
     url = "http://20.235.83.237:8049/BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd."
@@ -2324,33 +2064,9 @@ def itemcategoryexport():
     print(response.text)
     outputdata = checkresponse(response.status_code, response.json())
     return outputdata
-# -----------function name - ItemCategoryExport Start -
 
 
-
-# -----------function name - OrderCategoryExport Start +
-def orderCategoryExport():
-    # print(user_name)
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd."
-
-    req = ""
-
-    print(req)
-
-    payload = req
-
-    headers = {
-        'Content-Type': 'application/json'
-    }
-    response = requests.request("POST", url, headers=headers, data=payload,
-                                auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
-    print(response.text)
-    outputdata = checkresponse(response.status_code, response.json())
-    return outputdata
-# -----------function name - OrderCategoryExport Start -
-
-
-
+# function name-WebUserExport END -
 
 
 # -----------function name - GetItemCategoryDetail Start +
@@ -2530,154 +2246,6 @@ def validateItemVariant(item_code,item_Variant_Code):
 # function name-ValidateItemVariant END -
 
 
-# -----------function name - UpdateUserIDInSaleOrderExport Start +
-def updateUserIDInSaleOrderExport(user_ID,docuent_No):
-    # print(user_name)
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/DistibutorPortal_UpdateUserIDInSaleOrderExport?Company=Bodycare%20Creations%20Ltd."
-
-    req = "\"UserID\":\"user_ID_\",\"DocuentNo\":\"docuent_No_\""
-
-    req = req.replace("user_ID_", user_ID)
-    req = req.replace("docuent_No_", docuent_No)
-
-    req = "{" + req + "}"
-    print(req)
-
-    payload = json.dumps({
-        "inputJson": req
-    })
-    headers = {
-        'Content-Type': 'application/json'
-    }
-
-    response = requests.request("POST", url, headers=headers, data=payload,
-                                auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
-    print(response.text)
-    outputdata = checkresponse(response.status_code, response.json())
-    return outputdata
-
-# function name - UpdateUserIDInSaleOrderExport END -
-
-
-
-# -----------function name - ValidateItemNo Start +
-def validateItemNo(item_Code):
-    # print(user_name)
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/DistibutorPortal_ValidateItemNo?Company=Bodycare%20Creations%20Ltd."
-
-    req = "\"ItemCode\":\"item_Code_\""
-
-    req = req.replace("item_Code_", item_Code)
-
-
-    req = "{" + req + "}"
-    print(req)
-
-    payload = json.dumps({
-        "inputJson": req
-    })
-    headers = {
-        'Content-Type': 'application/json'
-    }
-
-    response = requests.request("POST", url, headers=headers, data=payload,
-                                auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
-    print(response.text)
-    outputdata = checkresponse(response.status_code, response.json())
-    return outputdata
-
-# function name - ValidateItemNo END -
-
-
-# -----------function name - GetMailIDLoginUser Start +
-def getMailIDLoginUser(user_ID):
-    # print(user_name)
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd."
-
-    req = "\"UserID\":\"user_ID_\""
-
-    req = req.replace("user_ID_", user_ID)
-
-
-    req = "{" + req + "}"
-    print(req)
-
-    payload = json.dumps({
-        "inputJson": req
-    })
-    headers = {
-        'Content-Type': 'application/json'
-    }
-
-    response = requests.request("POST", url, headers=headers, data=payload,
-                                auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
-    print(response.text)
-    outputdata = checkresponse(response.status_code, response.json())
-    return outputdata
-
-# function name - GetMailIDLoginUser END -
-
-
-
-# -----------function name - TransferLnArticalBarcode Start +
-def transferLnArticalBarcode(bar_code,transfer_Order,to_Location,from_Location):
-    # print(user_name)
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd."
-
-    req = "\"Barcode\":\"bar_code_\",\"TransferOrder\":\"transfer_Order_\",\"ToLocation\":\"to_Location_\",\"FromLocation\":\"from_Location_\""
-
-    req = req.replace("bar_code_", bar_code)
-    req = req.replace("transfer_Order_", transfer_Order)
-    req = req.replace("to_Location_", to_Location)
-    req = req.replace("from_Location_", from_Location)
-
-
-    req = "{" + req + "}"
-    print(req)
-
-    payload = json.dumps({
-        "inputJson": req
-    })
-    headers = {
-        'Content-Type': 'application/json'
-    }
-
-    response = requests.request("POST", url, headers=headers, data=payload,
-                                auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
-    print(response.text)
-    outputdata = checkresponse(response.status_code, response.json())
-    return outputdata
-
-# function name - TransferLnArticalBarcode END -
-
-
-# -----------function name - ItemExport Start +
-def itemexport(no,description):
-    # print(user_name)
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/ItemListWebApp"
-
-    req = "\"No\":\"no_\",\"Description\":\"description_\""
-
-    req = req.replace("no_", no)
-    req = req.replace("description_", description)
-
-    req = "{" + req + "}"
-    print(req)
-
-    payload = json.dumps({
-        "inputJson": req
-    })
-    headers = {
-        'Content-Type': 'application/json'
-    }
-
-    response = requests.request("POST", url, headers=headers, data=payload,
-                                auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
-    print(response.text)
-    outputdata = checkresponse(response.status_code, response.json())
-    return outputdata
-
-# function name-ItemExport END -
 
 
 
@@ -2740,39 +2308,9 @@ def itemcategoryapp():
     print(response.text)
     outputdata = checkresponse(response.status_code, response.json())
     return outputdata
+
+
 # function name-ItemCategoryApp END -
-
-# -----------function name - ItemExportMobileAPI Start +
-def itemExportMobileAPI(category_code):
-    # print(user_name)
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/DistibutorPortal_ItemExportMobileAPI?Company=Bodycare%20Creations%20Ltd."
-
-    req = "\"CategoryCode\":\"category_code_\""
-
-    req = req.replace("category_code_", category_code)
-
-
-    req = "{" + req + "}"
-    print(req)
-
-    payload = json.dumps({
-        "inputJson": req
-    })
-    headers = {
-        'Content-Type': 'application/json'
-    }
-
-    response = requests.request("POST", url, headers=headers, data=payload,
-                                auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
-
-
-    print(response.text)
-    outputdata = checkresponse(response.status_code, response.json())
-
-    return outputdata
-
-# function name - ItemExportMobileAPI END -
-
 
 
 # ******************************** Mobile App Start ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ +
@@ -2801,59 +2339,6 @@ def itemmasterapp(item_category_code):
 
 
 # function name-ItemMasterApp END -
-
-
-
-# -----------function name - CreateSOMobileApp Start +
-def createSOMobileApp(customer_No,item_No,item_Size,item_Category_Code,remark,document_No,bill_To_Customer,sell_To_Customer,user_ID,store_Name,location_Code):
-    # print(user_name)
-    url = "http://20.235.83.237:8049/BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd."
-
-    #req = "\"CustomerNo\":\"customer_No_\",\"ItemNo\":\"item_No_\",\"ItemSize\":\"item_Size_\",\"ItemCategoryCode\":\"item_Category_Code_\",\"Remark\":\"remark_\",\"DocumentNo\":\"document_No_\",\"BillToCustomer\":\"bill_To_Customer_\",\"SellToCustomer\":\"sell_To_Customer_\",\"UserID\":\"user_ID_\",\"StoreName\":\"store_Name_\",\"LocationCode\":\"location_Code_\""
-    req = "\"CustomerNo\":\"customer_No_\",\"ItemNo\":\"item_No_\",\"ItemSizeXS\":\"item_SizeXS_\",\"ItemSizeS\":\"item_SizeS_\",\"ItemSizeM\":\"item_SizeM_\",\"ItemSizeL\":\"item_SizeL_\",\"ItemSizeXL\":\"item_SizeXL_\",\"ItemSizeXXL\":\"item_SizeXXL_\",\"ItemSizeXXXL\":\"item_SizeXXXL_\",\"ItemCategoryCode\":\"item_Category_Code_\",\"Remark\":\"remark_\",\"DocumentNo\":\"document_No_\",\"BillToCustomer\":\"bill_To_Customer_\",\"SellToCustomer\":\"sell_To_Customer_\",\"UserID\":\"user_ID_\",\"StoreName\":\"store_Name_\",\"LocationCode\":\"location_Code_\""
-
-
-    item_Size = item_Size.split(',')
-
-    req = req.replace("customer_No_", customer_No)
-    req = req.replace("item_No_", item_No)
-    req = req.replace("item_SizeXS_", item_Size[0]) #1
-    req = req.replace("item_SizeS_", item_Size[1]) #2
-    req = req.replace("item_SizeM_", item_Size[2]) #3
-    req = req.replace("item_SizeL_", item_Size[3]) #4
-    req = req.replace("item_SizeXL_", item_Size[4]) #5
-    req = req.replace("item_SizeXXL_", item_Size[5]) #6
-    req = req.replace("item_SizeXXXL_", item_Size[6])  # 7
-    req = req.replace("item_Category_Code_", item_Category_Code)
-    req = req.replace("remark_", remark)
-    req = req.replace("document_No_", document_No)
-    req = req.replace("bill_To_Customer_", bill_To_Customer)
-    req = req.replace("sell_To_Customer_", sell_To_Customer)
-    req = req.replace("user_ID_", user_ID)
-    req = req.replace("store_Name_", store_Name)
-    req = req.replace("location_Code_", location_Code)
-
-
-    req = "{" + req + "}"
-    print(req)
-
-    payload = json.dumps({
-        "inputJson": req
-    })
-    headers = {
-        'Content-Type': 'application/json'
-    }
-
-    response = requests.request("POST", url, headers=headers, data=payload,
-                                auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
-    print(response.text)
-    outputdata = checkresponse(response.status_code, response.json())
-    return outputdata
-
-# function name - CreateSOMobileApp END -
-
-
-
 
 # ******************************** Mobile App End ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -
 

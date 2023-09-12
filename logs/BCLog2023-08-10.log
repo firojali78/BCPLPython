@@ -1,0 +1,12 @@
+2023-08-10 17:54:13,644 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-10 17:54:13,644 [33mPress CTRL+C to quit[0m
+2023-08-10 17:54:13,649  * Restarting with stat
+2023-08-10 17:54:14,228  * Debugger is active!
+2023-08-10 17:54:14,234  * Debugger PIN: 124-747-496
+2023-08-10 17:57:05,525 {'CustomerNo': 'C1114', 'ItemNo': '400-D', 'ItemSize': '60,50,40,30,20,10', 'ItemCategoryCode': 'LDPA', 'Remark': 'MyRem', 'DocumentNo': 'D001', 'BillToCustomer': 'C1115', 'SellToCustomer': 'C1116', 'UserID': 'ALI', 'StoreName': 'PataNahi', 'LocationCode': 'Noida'}
+2023-08-10 17:57:05,554 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-10 17:57:06,798 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-10 17:57:06,863 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-10 17:57:23,647 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/MobileAppCU_CreateSOMobileApp?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-10 17:57:23,758 127.0.0.1 - - [10/Aug/2023 17:57:23] "POST /webCreateSOMobileApp HTTP/1.1" 200 -

@@ -1,0 +1,39 @@
+2023-05-13 22:18:48,481 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-13 22:18:48,481 [33mPress CTRL+C to quit[0m
+2023-05-13 22:18:48,505  * Restarting with stat
+2023-05-13 22:18:49,978  * Debugger is active!
+2023-05-13 22:18:49,990  * Debugger PIN: 124-747-496
+2023-05-13 22:19:06,634 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-13 22:19:06,703 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-13 22:19:06,762 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-13 22:19:07,190 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-13 22:19:07,196 127.0.0.1 - - [13/May/2023 22:19:07] "GET /webwebuserexportdp?UserID=NEERAJ HTTP/1.1" 200 -
+2023-05-13 22:19:07,512 127.0.0.1 - - [13/May/2023 22:19:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-05-13 22:27:38,655  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-13 22:27:39,251  * Restarting with stat
+2023-05-13 22:27:43,737  * Debugger is active!
+2023-05-13 22:27:43,751  * Debugger PIN: 124-747-496
+2023-05-13 22:33:11,974  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-13 22:33:12,340  * Restarting with stat
+2023-05-13 22:34:00,971 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-13 22:34:00,971 [33mPress CTRL+C to quit[0m
+2023-05-13 22:34:00,983  * Restarting with stat
+2023-05-13 22:34:02,082  * Debugger is active!
+2023-05-13 22:34:02,087  * Debugger PIN: 124-747-496
+2023-05-13 22:37:21,777  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-05-13 22:37:21,882  * Restarting with stat
+2023-05-13 22:37:23,146  * Debugger is active!
+2023-05-13 22:37:23,156  * Debugger PIN: 124-747-496
+2023-05-13 22:37:29,447 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-13 22:37:29,447 [33mPress CTRL+C to quit[0m
+2023-05-13 22:37:29,451  * Restarting with stat
+2023-05-13 22:37:30,465  * Debugger is active!
+2023-05-13 22:37:30,471  * Debugger PIN: 124-747-496
+2023-05-13 22:39:51,897 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-13 22:39:51,993 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportLike?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-13 22:39:52,035 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportLike?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-13 22:39:53,959 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemExportLike?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-13 22:39:53,997 127.0.0.1 - - [13/May/2023 22:39:53] "POST /webitemexportlikedp HTTP/1.1" 200 -

@@ -1,0 +1,194 @@
+2023-05-29 14:13:23,693 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-29 14:13:23,694 [33mPress CTRL+C to quit[0m
+2023-05-29 14:13:23,703  * Restarting with stat
+2023-05-29 14:13:24,915  * Debugger is active!
+2023-05-29 14:13:24,936  * Debugger PIN: 124-747-496
+2023-05-29 15:23:07,212 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:23:07,279 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_UpdateUserIDInSaleOrderExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:23:07,323 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_UpdateUserIDInSaleOrderExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:23:07,505 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_UpdateUserIDInSaleOrderExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:23:07,508 127.0.0.1 - - [29/May/2023 15:23:07] "POST /webUpdateUserIDInSaleOrderExportdp HTTP/1.1" 200 -
+2023-05-29 15:33:17,384 {'UserID': 'ADMIN', 'PWS': '9982', 'LoginType': 'ASM/RSM'}
+2023-05-29 15:33:17,386 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:17,455 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:17,492 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:17,546 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:17,548 127.0.0.1 - - [29/May/2023 15:33:17] "POST /webvalidatewebuserdp HTTP/1.1" 200 -
+2023-05-29 15:33:17,690 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:17,767 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:17,846 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:17,896 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:17,897 127.0.0.1 - - [29/May/2023 15:33:17] "POST /webvalidatewebcustomerdp HTTP/1.1" 200 -
+2023-05-29 15:33:20,740 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:20,815 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:20,854 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:20,923 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:21,043 127.0.0.1 - - [29/May/2023 15:33:21] "POST /webwebuserexportdp HTTP/1.1" 200 -
+2023-05-29 15:33:21,075 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:21,155 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:21,201 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:21,266 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:21,268 127.0.0.1 - - [29/May/2023 15:33:21] "POST /webitemcategoryexportdp HTTP/1.1" 200 -
+2023-05-29 15:33:36,327 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:36,396 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryDetail?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:36,431 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryDetail?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:36,476 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryDetail?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:36,478 127.0.0.1 - - [29/May/2023 15:33:36] "POST /webgetitemcategorydetaildp HTTP/1.1" 200 -
+2023-05-29 15:33:36,483 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:36,553 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryUOM?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:36,588 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryUOM?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:36,636 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryUOM?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:36,638 127.0.0.1 - - [29/May/2023 15:33:36] "POST /webgetitemcategoryuomdp HTTP/1.1" 200 -
+2023-05-29 15:33:45,410 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:45,492 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:45,532 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:45,583 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:45,584 127.0.0.1 - - [29/May/2023 15:33:45] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:33:45,588 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:45,659 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:45,695 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:45,743 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:45,744 127.0.0.1 - - [29/May/2023 15:33:45] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:33:45,748 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:45,815 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:45,850 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:45,893 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:45,894 127.0.0.1 - - [29/May/2023 15:33:45] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:33:45,899 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:45,972 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:46,010 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:46,059 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:46,061 127.0.0.1 - - [29/May/2023 15:33:46] "POST /webValidateItemdp HTTP/1.1" 200 -
+2023-05-29 15:33:55,263 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:33:55,338 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:33:55,376 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:33:55,422 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:33:55,424 127.0.0.1 - - [29/May/2023 15:33:55] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:34:01,224 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:34:01,300 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:34:01,342 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:34:01,395 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:34:01,395 127.0.0.1 - - [29/May/2023 15:34:01] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:34:01,398 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:34:01,467 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:34:01,502 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:34:01,546 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:34:01,547 127.0.0.1 - - [29/May/2023 15:34:01] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:34:01,551 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:34:01,628 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:34:01,670 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:34:01,720 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:34:01,721 127.0.0.1 - - [29/May/2023 15:34:01] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:34:01,725 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:34:01,801 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:34:01,841 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:34:01,889 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:34:01,891 127.0.0.1 - - [29/May/2023 15:34:01] "POST /webValidateItemdp HTTP/1.1" 200 -
+2023-05-29 15:34:17,385 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:34:17,461 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetNewNoSeriesOnlineSO?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:34:17,496 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetNewNoSeriesOnlineSO?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:34:17,545 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetNewNoSeriesOnlineSO?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:34:17,546 127.0.0.1 - - [29/May/2023 15:34:17] "POST /webgetnewnoseriesonlinesodp HTTP/1.1" 200 -
+2023-05-29 15:34:23,937 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:34:24,019 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-29 15:34:24,059 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-29 15:34:24,762 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-29 15:34:24,764 127.0.0.1 - - [29/May/2023 15:34:24] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-29 15:34:31,262 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:34:31,350 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-29 15:34:31,400 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-29 15:34:31,467 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-29 15:34:31,468 127.0.0.1 - - [29/May/2023 15:34:31] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-29 15:36:22,707 127.0.0.1 - - [29/May/2023 15:36:22] "[35m[1mPOST /websaleorderexportapidp HTTP/1.1[0m" 500 -
+2023-05-29 15:37:18,991 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:19,070 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:19,110 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:19,167 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:19,287 127.0.0.1 - - [29/May/2023 15:37:19] "POST /webwebuserexportdp HTTP/1.1" 200 -
+2023-05-29 15:37:19,296 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:19,386 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:19,423 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:19,469 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:19,470 127.0.0.1 - - [29/May/2023 15:37:19] "POST /webitemcategoryexportdp HTTP/1.1" 200 -
+2023-05-29 15:37:27,860 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:27,939 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryDetail?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:27,979 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryDetail?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:28,038 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryDetail?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:28,040 127.0.0.1 - - [29/May/2023 15:37:28] "POST /webgetitemcategorydetaildp HTTP/1.1" 200 -
+2023-05-29 15:37:28,045 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:28,121 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryUOM?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:28,160 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryUOM?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:28,221 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetItemCategoryUOM?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:28,221 127.0.0.1 - - [29/May/2023 15:37:28] "POST /webgetitemcategoryuomdp HTTP/1.1" 200 -
+2023-05-29 15:37:39,700 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:39,772 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:39,807 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:39,851 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:39,852 127.0.0.1 - - [29/May/2023 15:37:39] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:37:39,855 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:39,920 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:39,954 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:39,995 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:39,996 127.0.0.1 - - [29/May/2023 15:37:39] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:37:40,001 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:40,068 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:40,102 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:40,145 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:40,146 127.0.0.1 - - [29/May/2023 15:37:40] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:37:40,153 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:40,221 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:40,254 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:40,299 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:40,300 127.0.0.1 - - [29/May/2023 15:37:40] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:37:40,306 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:40,375 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:40,412 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:40,456 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:40,460 127.0.0.1 - - [29/May/2023 15:37:40] "POST /webValidateItemdp HTTP/1.1" 200 -
+2023-05-29 15:37:49,112 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:49,182 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:49,218 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:49,274 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:49,276 127.0.0.1 - - [29/May/2023 15:37:49] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:37:49,280 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:49,349 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:49,384 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:49,431 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:49,431 127.0.0.1 - - [29/May/2023 15:37:49] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:37:49,435 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:49,503 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:49,538 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:49,582 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItemVariant?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:49,582 127.0.0.1 - - [29/May/2023 15:37:49] "POST /webvalidateItemVariantdp HTTP/1.1" 200 -
+2023-05-29 15:37:49,586 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:49,662 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:49,701 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:49,746 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateItem?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:49,749 127.0.0.1 - - [29/May/2023 15:37:49] "POST /webValidateItemdp HTTP/1.1" 200 -
+2023-05-29 15:37:53,412 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:53,489 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetNewNoSeriesOnlineSO?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:37:53,527 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetNewNoSeriesOnlineSO?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:37:53,577 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetNewNoSeriesOnlineSO?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:37:53,579 127.0.0.1 - - [29/May/2023 15:37:53] "POST /webgetnewnoseriesonlinesodp HTTP/1.1" 200 -
+2023-05-29 15:37:54,706 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:54,781 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-29 15:37:54,819 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-29 15:37:54,879 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-29 15:37:54,881 127.0.0.1 - - [29/May/2023 15:37:54] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-29 15:37:55,632 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:37:55,711 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 0
+2023-05-29 15:37:55,751 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 401 341
+2023-05-29 15:37:55,803 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/Company('Bodycare%20Creations%20Ltd.')/SaleOrderExportAPI HTTP/1.1" 201 None
+2023-05-29 15:37:55,805 127.0.0.1 - - [29/May/2023 15:37:55] "POST /websaleorderexportapidp HTTP/1.1" 200 -
+2023-05-29 15:41:16,791 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-05-29 15:41:16,866 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_UpdateUserIDInSaleOrderExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-05-29 15:41:16,900 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_UpdateUserIDInSaleOrderExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-05-29 15:41:16,947 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_UpdateUserIDInSaleOrderExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-05-29 15:41:16,948 127.0.0.1 - - [29/May/2023 15:41:16] "POST /webUpdateUserIDInSaleOrderExportdp HTTP/1.1" 200 -
+2023-05-29 17:11:29,440 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-05-29 17:11:29,440 [33mPress CTRL+C to quit[0m
+2023-05-29 17:11:29,441  * Restarting with stat
+2023-05-29 17:11:29,964  * Debugger is active!
+2023-05-29 17:11:29,967  * Debugger PIN: 124-747-496

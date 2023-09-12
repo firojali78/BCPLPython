@@ -1,0 +1,90 @@
+2023-09-12 12:44:53,573 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-12 12:44:53,573 [33mPress CTRL+C to quit[0m
+2023-09-12 12:44:53,588  * Restarting with stat
+2023-09-12 12:44:55,331  * Debugger is active!
+2023-09-12 12:44:55,350  * Debugger PIN: 124-747-496
+2023-09-12 12:45:22,478 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-12 12:45:22,603 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-12 12:45:22,671 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-12 12:45:23,322 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-12 12:45:23,325 127.0.0.1 - - [12/Sep/2023 12:45:23] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:47:05,812 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-12 12:47:06,002 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-12 12:47:06,066 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-12 12:47:06,149 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-12 12:47:06,152 127.0.0.1 - - [12/Sep/2023 12:47:06] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:47:18,284 127.0.0.1 - - [12/Sep/2023 12:47:18] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:49:27,981 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-12 12:49:27,982 [33mPress CTRL+C to quit[0m
+2023-09-12 12:49:28,008  * Restarting with stat
+2023-09-12 12:49:36,292  * Debugger is active!
+2023-09-12 12:49:36,334  * Debugger PIN: 124-747-496
+2023-09-12 12:49:36,458 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-12 12:49:36,609 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-12 12:49:36,697 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-12 12:49:37,179 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-12 12:49:37,184 127.0.0.1 - - [12/Sep/2023 12:49:37] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:52:34,433  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-12 12:52:34,625  * Restarting with stat
+2023-09-12 12:52:42,056 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-12 12:52:42,056 [33mPress CTRL+C to quit[0m
+2023-09-12 12:52:42,059  * Restarting with stat
+2023-09-12 12:52:43,508  * Debugger is active!
+2023-09-12 12:52:43,515  * Debugger PIN: 124-747-496
+2023-09-12 12:52:46,236 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-12 12:52:46,446 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-12 12:52:46,493 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-12 12:52:46,657 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-12 12:52:46,658 127.0.0.1 - - [12/Sep/2023 12:52:46] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:53:08,681 127.0.0.1 - - [12/Sep/2023 12:53:08] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:53:16,891 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-12 12:53:22,156 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-12 12:53:22,222 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-12 12:53:22,295 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-12 12:53:22,400 127.0.0.1 - - [12/Sep/2023 12:53:22] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:55:26,458  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-12 12:55:26,572  * Restarting with stat
+2023-09-12 12:55:32,995 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-12 12:55:32,995 [33mPress CTRL+C to quit[0m
+2023-09-12 12:55:32,999  * Restarting with stat
+2023-09-12 12:55:34,044  * Debugger is active!
+2023-09-12 12:55:34,053  * Debugger PIN: 124-747-496
+2023-09-12 12:55:40,188 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-12 12:55:41,020 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-12 12:55:41,076 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-12 12:55:41,214 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-12 12:55:41,218 127.0.0.1 - - [12/Sep/2023 12:55:41] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:55:48,875 127.0.0.1 - - [12/Sep/2023 12:55:48] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:56:36,105 127.0.0.1 - - [12/Sep/2023 12:56:36] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:56:39,757 127.0.0.1 - - [12/Sep/2023 12:56:39] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 12:58:44,558  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-12 12:58:44,687  * Restarting with stat
+2023-09-12 12:58:47,260  * Debugger is active!
+2023-09-12 12:58:47,272  * Debugger PIN: 124-747-496
+2023-09-12 13:00:30,170  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-12 13:00:30,329  * Restarting with stat
+2023-09-12 13:00:33,218  * Debugger is active!
+2023-09-12 13:00:33,251  * Debugger PIN: 124-747-496
+2023-09-12 13:02:22,896 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-12 13:02:22,896 [33mPress CTRL+C to quit[0m
+2023-09-12 13:02:22,901  * Restarting with stat
+2023-09-12 13:02:24,277  * Debugger is active!
+2023-09-12 13:02:24,292  * Debugger PIN: 124-747-496
+2023-09-12 13:02:29,147 127.0.0.1 - - [12/Sep/2023 13:02:29] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 13:02:34,695 127.0.0.1 - - [12/Sep/2023 13:02:34] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-12 13:03:19,027  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-12 13:03:19,136  * Restarting with stat
+2023-09-12 13:03:22,080  * Debugger is active!
+2023-09-12 13:03:22,097  * Debugger PIN: 124-747-496
+2023-09-12 13:03:26,066 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-12 13:03:26,067 [33mPress CTRL+C to quit[0m
+2023-09-12 13:03:26,069  * Restarting with stat
+2023-09-12 13:03:26,872  * Debugger is active!
+2023-09-12 13:03:26,879  * Debugger PIN: 124-747-496
+2023-09-12 13:03:32,385 127.0.0.1 - - [12/Sep/2023 13:03:32] "POST /webvalidatesalesorder HTTP/1.1" 200 -

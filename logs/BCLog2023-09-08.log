@@ -1,0 +1,121 @@
+2023-09-08 18:26:42,368 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-08 18:26:42,369 [33mPress CTRL+C to quit[0m
+2023-09-08 18:26:42,430  * Restarting with stat
+2023-09-08 18:27:10,361  * Debugger is active!
+2023-09-08 18:27:10,474  * Debugger PIN: 124-747-496
+2023-09-08 18:27:10,995 {'CompanyCode': 'BCPL', 'UserID': 'ANKIT', 'UserPassword': 'ANKIT'}
+2023-09-08 18:27:11,030 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-08 18:27:11,146 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-08 18:27:11,206 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-08 18:27:18,492 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-08 18:27:18,505 127.0.0.1 - - [08/Sep/2023 18:27:18] "POST /webcredentialsvalidate HTTP/1.1" 200 -
+2023-09-08 18:29:10,713 {'CompanyCode': 'BCPL', 'UserID': 'ANKIT', 'UserPassword': 'ANKIT123'}
+2023-09-08 18:29:10,715 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-08 18:29:10,789 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-08 18:29:10,826 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-08 18:29:10,882 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-08 18:29:10,885 127.0.0.1 - - [08/Sep/2023 18:29:10] "POST /webcredentialsvalidate HTTP/1.1" 200 -
+2023-09-08 18:29:22,732 {'CompanyCode': 'ANU', 'UserID': 'ANKIT', 'UserPassword': 'ANKIT'}
+2023-09-08 18:29:22,734 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-08 18:29:22,825 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-08 18:29:22,871 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-08 18:29:22,928 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-08 18:29:22,931 127.0.0.1 - - [08/Sep/2023 18:29:22] "POST /webcredentialsvalidate HTTP/1.1" 200 -
+2023-09-08 18:30:00,270 {'CompanyCode': 'ANU', 'UserID': 'ANKIT', 'UserPassword': 'ANKIT'}
+2023-09-08 18:30:00,272 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-08 18:30:00,357 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-08 18:30:00,400 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-08 18:30:00,452 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-08 18:30:00,452 127.0.0.1 - - [08/Sep/2023 18:30:00] "POST /webcredentialsvalidate HTTP/1.1" 200 -
+2023-09-08 18:30:04,671 {'CompanyCode': 'ANU', 'UserID': 'ANKIT', 'UserPassword': 'ANKIT'}
+2023-09-08 18:30:04,673 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-08 18:30:04,739 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-08 18:30:04,777 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-08 18:30:04,821 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-08 18:30:04,825 127.0.0.1 - - [08/Sep/2023 18:30:04] "POST /webcredentialsvalidate HTTP/1.1" 200 -
+2023-09-08 19:25:29,217 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-08 19:25:29,218 [33mPress CTRL+C to quit[0m
+2023-09-08 19:25:29,230  * Restarting with stat
+2023-09-08 19:25:30,121  * Debugger is active!
+2023-09-08 19:25:30,128  * Debugger PIN: 124-747-496
+2023-09-08 19:25:48,967 {'CompanyCode': 'ANU', 'UserID': 'ANKIT', 'UserPassword': 'ANKIT'}
+2023-09-08 19:25:48,970 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-08 19:25:49,044 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-08 19:25:49,076 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-08 19:25:49,480 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-08 19:25:49,482 127.0.0.1 - - [08/Sep/2023 19:25:49] "POST /webcredentialsvalidate HTTP/1.1" 200 -
+2023-09-08 19:30:00,890  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-09-08 19:30:01,166  * Restarting with stat
+2023-09-08 19:30:44,041 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-08 19:30:44,041 [33mPress CTRL+C to quit[0m
+2023-09-08 19:30:44,044  * Restarting with stat
+2023-09-08 19:30:45,024  * Debugger is active!
+2023-09-08 19:30:45,032  * Debugger PIN: 124-747-496
+2023-09-08 19:30:49,606 {'CompanyCode': 'ANU', 'UserID': 'ANKIT', 'UserPassword': 'ANKIT'}
+2023-09-08 19:30:49,609 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-08 19:30:49,681 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-08 19:30:49,713 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-08 19:30:49,819 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-08 19:30:49,820 127.0.0.1 - - [08/Sep/2023 19:30:49] "POST /webcredentialsvalidate HTTP/1.1" 200 -
+2023-09-08 19:31:04,669  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-09-08 19:31:04,997  * Restarting with stat
+2023-09-08 19:31:16,673 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-08 19:31:16,674 [33mPress CTRL+C to quit[0m
+2023-09-08 19:31:16,678  * Restarting with stat
+2023-09-08 19:31:18,515  * Debugger is active!
+2023-09-08 19:31:18,527  * Debugger PIN: 124-747-496
+2023-09-08 19:31:21,932 {'CompanyCode': 'ANU', 'UserID': 'ANKIT', 'UserPassword': 'ANKIT'}
+2023-09-08 19:31:21,936 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-08 19:31:22,026 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-08 19:31:22,072 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-08 19:31:22,507 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-08 19:31:22,522 127.0.0.1 - - [08/Sep/2023 19:31:22] "POST /webcredentialsvalidate HTTP/1.1" 200 -
+2023-09-08 19:36:27,170  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-09-08 19:36:27,292  * Restarting with stat
+2023-09-08 19:36:36,657 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-08 19:36:36,658 [33mPress CTRL+C to quit[0m
+2023-09-08 19:36:36,667  * Restarting with stat
+2023-09-08 19:36:37,703  * Debugger is active!
+2023-09-08 19:36:37,713  * Debugger PIN: 124-747-496
+2023-09-08 19:36:43,737 {'CompanyCode': 'ANU', 'UserID': 'ANKIT', 'UserPassword': 'ANKIT'}
+2023-09-08 19:36:43,742 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-08 19:36:43,813 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-08 19:36:43,848 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-08 19:36:44,328 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_CredentialsValidate?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-08 19:36:44,330 127.0.0.1 - - [08/Sep/2023 19:36:44] "POST /webcredentialsvalidate HTTP/1.1" 200 -
+2023-09-08 23:14:04,238 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-08 23:14:04,239 [33mPress CTRL+C to quit[0m
+2023-09-08 23:14:04,255  * Restarting with stat
+2023-09-08 23:14:08,060  * Debugger is active!
+2023-09-08 23:14:08,068  * Debugger PIN: 124-747-496
+2023-09-08 23:14:14,244 127.0.0.1 - - [08/Sep/2023 23:14:14] "[33mPOST /webgettemplatebatchname HTTP/1.1[0m" 404 -
+2023-09-08 23:15:44,360  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-09-08 23:15:44,470  * Restarting with stat
+2023-09-08 23:15:47,955  * Debugger is active!
+2023-09-08 23:15:47,968  * Debugger PIN: 124-747-496
+2023-09-08 23:47:07,803 127.0.0.1 - - [08/Sep/2023 23:47:07] "[35m[1mPOST /webbarcodeprint HTTP/1.1[0m" 500 -
+2023-09-08 23:50:10,724 127.0.0.1 - - [08/Sep/2023 23:50:10] "[35m[1mPOST /webbarcodeprint HTTP/1.1[0m" 500 -
+2023-09-08 23:52:38,918 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-08 23:52:38,918 [33mPress CTRL+C to quit[0m
+2023-09-08 23:52:38,937  * Restarting with stat
+2023-09-08 23:52:46,095  * Debugger is active!
+2023-09-08 23:52:46,122  * Debugger PIN: 124-747-496
+2023-09-09 00:07:04,829 127.0.0.1 - - [09/Sep/2023 00:07:04] "[35m[1mPOST /webbarcodeprint HTTP/1.1[0m" 500 -
+2023-09-09 00:19:26,539 127.0.0.1 - - [09/Sep/2023 00:19:26] "[35m[1mPOST /webbarcodeprint HTTP/1.1[0m" 500 -
+2023-09-09 00:19:38,955 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-09 00:19:39,357 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-09 00:19:39,784 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-09 00:19:48,072 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-09 00:19:48,109 127.0.0.1 - - [09/Sep/2023 00:19:48] "POST /webbarcodeprint HTTP/1.1" 200 -
+2023-09-09 00:22:49,042 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-09 00:22:49,314 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-09 00:22:49,391 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-09 00:22:49,482 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/PrintBarcode_BarcodePrint?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-09 00:22:49,487 127.0.0.1 - - [09/Sep/2023 00:22:49] "POST /webbarcodeprint HTTP/1.1" 200 -

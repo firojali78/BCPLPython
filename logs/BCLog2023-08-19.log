@@ -1,0 +1,90 @@
+2023-08-19 15:45:39,864 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-19 15:45:39,865 [33mPress CTRL+C to quit[0m
+2023-08-19 15:45:39,887  * Restarting with stat
+2023-08-19 15:45:42,378  * Debugger is active!
+2023-08-19 15:45:42,405  * Debugger PIN: 124-747-496
+2023-08-19 15:45:55,200 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-19 15:45:55,263 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-19 15:45:55,299 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-19 15:45:56,236 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-19 15:45:56,243 127.0.0.1 - - [19/Aug/2023 15:45:56] "POST /webgetMailIDLoginUserdp HTTP/1.1" 200 -
+2023-08-19 15:46:18,679 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-19 15:46:18,744 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-19 15:46:18,775 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-19 15:46:18,815 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-19 15:46:18,817 127.0.0.1 - - [19/Aug/2023 15:46:18] "POST /webgetMailIDLoginUserdp HTTP/1.1" 200 -
+2023-08-19 15:46:47,592 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-19 15:46:47,654 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-19 15:46:47,685 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-19 15:46:47,725 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-19 15:46:47,728 127.0.0.1 - - [19/Aug/2023 15:46:47] "POST /webgetMailIDLoginUserdp HTTP/1.1" 200 -
+2023-08-19 15:48:38,050  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-19 15:48:51,312  * Restarting with stat
+2023-08-19 15:51:32,602 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-19 15:51:32,603 [33mPress CTRL+C to quit[0m
+2023-08-19 15:51:32,614  * Restarting with stat
+2023-08-19 15:51:33,830  * Debugger is active!
+2023-08-19 15:51:33,847  * Debugger PIN: 124-747-496
+2023-08-19 15:51:36,229 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-19 15:51:36,300 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-19 15:51:36,338 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-19 15:51:36,581 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-19 15:51:36,585 127.0.0.1 - - [19/Aug/2023 15:51:36] "POST /webgetMailIDLoginUserdp HTTP/1.1" 200 -
+2023-08-19 15:51:41,055 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-19 15:51:41,115 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-19 15:51:41,144 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-19 15:51:41,192 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-19 15:51:41,193 127.0.0.1 - - [19/Aug/2023 15:51:41] "POST /webgetMailIDLoginUserdp HTTP/1.1" 200 -
+2023-08-19 15:53:02,102 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-19 15:53:02,102 [33mPress CTRL+C to quit[0m
+2023-08-19 15:53:02,109  * Restarting with stat
+2023-08-19 15:53:04,091  * Debugger is active!
+2023-08-19 15:53:04,106  * Debugger PIN: 124-747-496
+2023-08-19 15:53:07,979 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-19 15:53:08,077 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-19 15:53:08,121 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-19 15:53:08,307 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-19 15:53:08,311 127.0.0.1 - - [19/Aug/2023 15:53:08] "POST /webgetMailIDLoginUserdp HTTP/1.1" 200 -
+2023-08-19 15:53:13,930 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-19 15:53:13,994 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-19 15:53:14,025 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-19 15:53:14,066 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-19 15:53:14,070 127.0.0.1 - - [19/Aug/2023 15:53:14] "POST /webgetMailIDLoginUserdp HTTP/1.1" 200 -
+2023-08-19 15:53:51,927  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-19 15:53:52,210  * Restarting with stat
+2023-08-19 15:54:03,244 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-19 15:54:03,245 [33mPress CTRL+C to quit[0m
+2023-08-19 15:54:03,249  * Restarting with stat
+2023-08-19 15:54:04,410  * Debugger is active!
+2023-08-19 15:54:04,418  * Debugger PIN: 124-747-496
+2023-08-19 15:54:07,292 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-19 15:54:07,352 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-19 15:54:07,383 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-19 15:54:07,497 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-19 15:54:07,499 127.0.0.1 - - [19/Aug/2023 15:54:07] "POST /webgetMailIDLoginUserdp HTTP/1.1" 200 -
+2023-08-19 15:54:10,187 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-19 15:54:10,248 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-19 15:54:10,278 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-19 15:54:10,313 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-19 15:54:10,315 127.0.0.1 - - [19/Aug/2023 15:54:10] "POST /webgetMailIDLoginUserdp HTTP/1.1" 200 -
+2023-08-19 15:55:11,452  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-19 15:55:12,386  * Restarting with stat
+2023-08-19 15:55:16,924 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-08-19 15:55:16,924 [33mPress CTRL+C to quit[0m
+2023-08-19 15:55:16,930  * Restarting with stat
+2023-08-19 15:55:19,986  * Debugger is active!
+2023-08-19 15:55:20,003  * Debugger PIN: 124-747-496
+2023-08-19 15:55:20,061 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-08-19 15:55:20,127 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-08-19 15:55:20,162 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-08-19 15:55:20,303 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_GetMailIDLoginUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-08-19 15:55:20,305 127.0.0.1 - - [19/Aug/2023 15:55:20] "POST /webgetMailIDLoginUserdp HTTP/1.1" 200 -
+2023-08-19 15:56:46,393  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-08-19 15:56:46,508  * Restarting with stat
+2023-08-19 15:56:48,354  * Debugger is active!
+2023-08-19 15:56:48,380  * Debugger PIN: 124-747-496

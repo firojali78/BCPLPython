@@ -1,0 +1,28 @@
+2023-06-08 10:49:50,142 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-06-08 10:49:50,142 [33mPress CTRL+C to quit[0m
+2023-06-08 10:49:50,142  * Restarting with stat
+2023-06-08 10:49:51,422  * Debugger is active!
+2023-06-08 10:49:51,452  * Debugger PIN: 124-747-496
+2023-06-08 10:52:54,102 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-08 10:52:54,341 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_VDocumentNoFGManufac?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-08 10:52:54,520 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_VDocumentNoFGManufac?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-08 10:52:54,768 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_VDocumentNoFGManufac?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-08 10:52:54,771 127.0.0.1 - - [08/Jun/2023 10:52:54] "POST /webvDocumentNoFGManufac HTTP/1.1" 200 -
+2023-06-08 10:53:19,341 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-06-08 10:53:19,505 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_VDocumentNoFGManufac?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-06-08 10:53:19,611 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_VDocumentNoFGManufac?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-06-08 10:53:19,703 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_VDocumentNoFGManufac?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-06-08 10:53:19,709 127.0.0.1 - - [08/Jun/2023 10:53:19] "POST /webvDocumentNoFGManufac HTTP/1.1" 200 -
+2023-06-08 11:03:00,146  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-08 11:03:01,151  * Restarting with stat
+2023-06-08 11:03:05,281  * Debugger is active!
+2023-06-08 11:03:05,314  * Debugger PIN: 124-747-496
+2023-06-08 11:05:01,343  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-08 11:05:01,594  * Restarting with stat
+2023-06-08 11:05:03,953  * Debugger is active!
+2023-06-08 11:05:03,964  * Debugger PIN: 124-747-496
+2023-06-08 11:05:11,038  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\serverlive.py', reloading
+2023-06-08 11:05:11,101  * Restarting with stat
+2023-06-08 11:05:12,304  * Debugger is active!
+2023-06-08 11:05:12,307  * Debugger PIN: 124-747-496
