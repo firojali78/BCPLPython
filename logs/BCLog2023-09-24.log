@@ -1,0 +1,1800 @@
+2023-09-24 16:56:31,899 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 16:56:31,899 [33mPress CTRL+C to quit[0m
+2023-09-24 16:56:31,907  * Restarting with stat
+2023-09-24 16:56:32,668  * Debugger is active!
+2023-09-24 16:56:32,675  * Debugger PIN: 124-747-496
+2023-09-24 17:35:58,341 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:35:58,486 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 17:35:58,679 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 17:36:00,741 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 17:36:00,747 127.0.0.1 - - [24/Sep/2023 17:36:00] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 17:36:27,358  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 17:36:28,497  * Restarting with stat
+2023-09-24 17:36:45,121  * Debugger is active!
+2023-09-24 17:36:45,128  * Debugger PIN: 124-747-496
+2023-09-24 17:37:07,704  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 17:37:08,337  * Restarting with stat
+2023-09-24 17:37:11,395  * Debugger is active!
+2023-09-24 17:37:11,416  * Debugger PIN: 124-747-496
+2023-09-24 17:37:29,457  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 17:37:29,614  * Restarting with stat
+2023-09-24 17:37:31,748  * Debugger is active!
+2023-09-24 17:37:31,764  * Debugger PIN: 124-747-496
+2023-09-24 17:38:29,965  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 17:38:30,058  * Restarting with stat
+2023-09-24 17:38:31,338  * Debugger is active!
+2023-09-24 17:38:31,349  * Debugger PIN: 124-747-496
+2023-09-24 17:38:52,819 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 17:38:52,820 [33mPress CTRL+C to quit[0m
+2023-09-24 17:38:52,822  * Restarting with stat
+2023-09-24 17:38:53,484  * Debugger is active!
+2023-09-24 17:38:53,491  * Debugger PIN: 124-747-496
+2023-09-24 17:38:57,481 127.0.0.1 - - [24/Sep/2023 17:38:57] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 17:39:29,474 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:39:29,533 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 17:39:29,565 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 17:39:29,683 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 17:39:29,685 127.0.0.1 - - [24/Sep/2023 17:39:29] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 17:39:49,417 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:39:49,471 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-24 17:39:49,501 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-24 17:39:49,544 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-24 17:39:49,547 127.0.0.1 - - [24/Sep/2023 17:39:49] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 17:39:56,209 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:39:56,269 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 17:39:56,301 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 17:39:56,348 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 17:39:56,350 127.0.0.1 - - [24/Sep/2023 17:39:56] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 17:45:21,194 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 17:45:21,194 [33mPress CTRL+C to quit[0m
+2023-09-24 17:45:21,201  * Restarting with stat
+2023-09-24 17:45:23,220  * Debugger is active!
+2023-09-24 17:45:23,236  * Debugger PIN: 124-747-496
+2023-09-24 17:45:26,026 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:45:26,088 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 17:45:26,119 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 17:45:26,273 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 17:45:26,276 127.0.0.1 - - [24/Sep/2023 17:45:26] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 17:48:45,955 127.0.0.1 - - [24/Sep/2023 17:48:45] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-24 17:49:34,894 127.0.0.1 - - [24/Sep/2023 17:49:34] "[31m[1mPOST /webvalidatesalesorder HTTP/1.1[0m" 400 -
+2023-09-24 17:50:01,118 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:50:01,244 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 17:50:01,284 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 17:50:01,380 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 17:50:01,392 127.0.0.1 - - [24/Sep/2023 17:50:01] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-24 17:51:35,796 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:51:35,854 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 17:51:35,883 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 17:51:35,928 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 17:51:35,930 127.0.0.1 - - [24/Sep/2023 17:51:35] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 17:51:47,920 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:51:47,973 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 17:51:48,008 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 17:51:48,046 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 17:51:48,047 127.0.0.1 - - [24/Sep/2023 17:51:48] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-24 17:51:56,029 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:51:56,091 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 17:51:56,121 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 17:51:56,166 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 17:51:56,168 127.0.0.1 - - [24/Sep/2023 17:51:56] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-24 17:52:41,667 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:52:41,727 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 17:52:41,760 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 17:52:41,810 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 17:52:41,813 127.0.0.1 - - [24/Sep/2023 17:52:41] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-24 17:52:59,526 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 17:52:59,589 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 17:52:59,618 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 17:52:59,658 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 17:52:59,659 127.0.0.1 - - [24/Sep/2023 17:52:59] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-24 17:55:40,285  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 17:55:40,413  * Restarting with stat
+2023-09-24 17:55:41,798  * Debugger is active!
+2023-09-24 17:55:41,808  * Debugger PIN: 124-747-496
+2023-09-24 17:56:06,078  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 17:56:06,163  * Restarting with stat
+2023-09-24 17:56:07,763  * Debugger is active!
+2023-09-24 17:56:07,776  * Debugger PIN: 124-747-496
+2023-09-24 17:56:15,192  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 17:56:15,331  * Restarting with stat
+2023-09-24 17:56:17,721  * Debugger is active!
+2023-09-24 17:56:17,740  * Debugger PIN: 124-747-496
+2023-09-24 17:56:51,685  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 17:56:51,885  * Restarting with stat
+2023-09-24 17:56:52,940  * Debugger is active!
+2023-09-24 17:56:52,945  * Debugger PIN: 124-747-496
+2023-09-24 17:57:11,406  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 17:57:11,522  * Restarting with stat
+2023-09-24 17:57:12,777  * Debugger is active!
+2023-09-24 17:57:12,783  * Debugger PIN: 124-747-496
+2023-09-24 17:58:24,368 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 17:58:24,369 [33mPress CTRL+C to quit[0m
+2023-09-24 17:58:24,387  * Restarting with stat
+2023-09-24 17:58:38,981  * Debugger is active!
+2023-09-24 17:58:39,054  * Debugger PIN: 124-747-496
+2023-09-24 17:58:39,238 127.0.0.1 - - [24/Sep/2023 17:58:39] "POST /webvalidatecartonbarcode HTTP/1.1" 200 -
+2023-09-24 18:00:29,500 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:00:29,565 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateCartonBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:00:29,596 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateCartonBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:00:29,752 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateCartonBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:00:29,754 127.0.0.1 - - [24/Sep/2023 18:00:29] "POST /webvalidatecartonbarcode HTTP/1.1" 200 -
+2023-09-24 18:06:55,748  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:06:55,898  * Restarting with stat
+2023-09-24 18:06:57,747  * Debugger is active!
+2023-09-24 18:06:57,761  * Debugger PIN: 124-747-496
+2023-09-24 18:07:29,954  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:07:30,059  * Restarting with stat
+2023-09-24 18:07:31,953  * Debugger is active!
+2023-09-24 18:07:31,963  * Debugger PIN: 124-747-496
+2023-09-24 18:07:39,407  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:07:39,519  * Restarting with stat
+2023-09-24 18:07:41,832  * Debugger is active!
+2023-09-24 18:07:41,850  * Debugger PIN: 124-747-496
+2023-09-24 18:08:02,916  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:08:02,998  * Restarting with stat
+2023-09-24 18:08:04,269  * Debugger is active!
+2023-09-24 18:08:04,292  * Debugger PIN: 124-747-496
+2023-09-24 18:08:22,669 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 18:08:22,669 [33mPress CTRL+C to quit[0m
+2023-09-24 18:08:22,671  * Restarting with stat
+2023-09-24 18:08:23,326  * Debugger is active!
+2023-09-24 18:08:23,331  * Debugger PIN: 124-747-496
+2023-09-24 18:09:12,458 127.0.0.1 - - [24/Sep/2023 18:09:12] "[35m[1mPOST /webvalidatecbarcode HTTP/1.1[0m" 500 -
+2023-09-24 18:09:26,938 127.0.0.1 - - [24/Sep/2023 18:09:26] "POST /webvalidateenduser HTTP/1.1" 200 -
+2023-09-24 18:10:10,294 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:10:10,388 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateEndUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:10:10,434 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateEndUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:10:10,883 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateEndUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:10:10,891 127.0.0.1 - - [24/Sep/2023 18:10:10] "POST /webvalidateenduser HTTP/1.1" 200 -
+2023-09-24 18:15:05,471 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:15:05,532 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:15:05,563 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:15:05,608 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:15:05,609 127.0.0.1 - - [24/Sep/2023 18:15:05] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 18:15:21,519 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 18:15:21,519 [33mPress CTRL+C to quit[0m
+2023-09-24 18:15:21,523  * Restarting with stat
+2023-09-24 18:15:22,937  * Debugger is active!
+2023-09-24 18:15:22,949  * Debugger PIN: 124-747-496
+2023-09-24 18:15:26,086 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:15:26,157 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:15:26,184 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:15:26,268 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:15:26,269 127.0.0.1 - - [24/Sep/2023 18:15:26] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 18:17:22,263  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:17:22,430  * Restarting with stat
+2023-09-24 18:17:24,319  * Debugger is active!
+2023-09-24 18:17:24,336  * Debugger PIN: 124-747-496
+2023-09-24 18:17:49,184  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:17:49,314  * Restarting with stat
+2023-09-24 18:17:51,520  * Debugger is active!
+2023-09-24 18:17:51,540  * Debugger PIN: 124-747-496
+2023-09-24 18:18:02,322  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:18:02,571  * Restarting with stat
+2023-09-24 18:18:05,448  * Debugger is active!
+2023-09-24 18:18:05,462  * Debugger PIN: 124-747-496
+2023-09-24 18:18:22,753  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:18:22,903  * Restarting with stat
+2023-09-24 18:18:25,589  * Debugger is active!
+2023-09-24 18:18:25,597  * Debugger PIN: 124-747-496
+2023-09-24 18:18:37,742 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 18:18:37,742 [33mPress CTRL+C to quit[0m
+2023-09-24 18:18:37,744  * Restarting with stat
+2023-09-24 18:18:38,468  * Debugger is active!
+2023-09-24 18:18:38,474  * Debugger PIN: 124-747-496
+2023-09-24 18:19:19,289 127.0.0.1 - - [24/Sep/2023 18:19:19] "POST /webvalidatepbarcode HTTP/1.1" 200 -
+2023-09-24 18:20:02,205 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:20:02,278 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidatePBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:20:02,319 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidatePBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:20:02,840 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidatePBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:20:02,850 127.0.0.1 - - [24/Sep/2023 18:20:02] "POST /webvalidatepbarcode HTTP/1.1" 200 -
+2023-09-24 18:35:01,662 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:35:01,726 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidatePBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:35:01,761 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidatePBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:35:01,804 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidatePBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:35:01,805 127.0.0.1 - - [24/Sep/2023 18:35:01] "POST /webvalidatepbarcode HTTP/1.1" 200 -
+2023-09-24 18:35:28,060  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:35:28,227  * Restarting with stat
+2023-09-24 18:35:42,575  * Debugger is active!
+2023-09-24 18:35:42,582  * Debugger PIN: 124-747-496
+2023-09-24 18:35:49,729  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:35:49,805  * Restarting with stat
+2023-09-24 18:35:50,853  * Debugger is active!
+2023-09-24 18:35:50,862  * Debugger PIN: 124-747-496
+2023-09-24 18:36:00,384  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:36:00,567  * Restarting with stat
+2023-09-24 18:36:03,715  * Debugger is active!
+2023-09-24 18:36:03,740  * Debugger PIN: 124-747-496
+2023-09-24 18:36:08,291  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:36:08,968  * Restarting with stat
+2023-09-24 18:36:12,136  * Debugger is active!
+2023-09-24 18:36:12,144  * Debugger PIN: 124-747-496
+2023-09-24 18:36:26,400  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:36:26,498  * Restarting with stat
+2023-09-24 18:36:28,254  * Debugger is active!
+2023-09-24 18:36:28,269  * Debugger PIN: 124-747-496
+2023-09-24 18:36:42,343 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 18:36:42,343 [33mPress CTRL+C to quit[0m
+2023-09-24 18:36:42,345  * Restarting with stat
+2023-09-24 18:36:43,033  * Debugger is active!
+2023-09-24 18:36:43,040  * Debugger PIN: 124-747-496
+2023-09-24 18:37:00,437 127.0.0.1 - - [24/Sep/2023 18:37:00] "[35m[1mPOST /webvalidatecbarcode HTTP/1.1[0m" 500 -
+2023-09-24 18:37:10,612 127.0.0.1 - - [24/Sep/2023 18:37:10] "[35m[1mPOST /webvalidatecbarcode HTTP/1.1[0m" 500 -
+2023-09-24 18:37:36,390  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:37:37,605  * Restarting with stat
+2023-09-24 18:38:30,838 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 18:38:30,840 [33mPress CTRL+C to quit[0m
+2023-09-24 18:38:30,859  * Restarting with stat
+2023-09-24 18:38:55,211  * Debugger is active!
+2023-09-24 18:38:55,313  * Debugger PIN: 124-747-496
+2023-09-24 18:38:55,701 127.0.0.1 - - [24/Sep/2023 18:38:55] "POST /webvalidatecbarcode HTTP/1.1" 200 -
+2023-09-24 18:39:38,233 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:39:38,337 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateCBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:39:38,379 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateCBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:39:41,857 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateCBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:39:41,867 127.0.0.1 - - [24/Sep/2023 18:39:41] "POST /webvalidatecbarcode HTTP/1.1" 200 -
+2023-09-24 18:43:03,500  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:43:04,517  * Restarting with stat
+2023-09-24 18:43:17,764  * Debugger is active!
+2023-09-24 18:43:17,770  * Debugger PIN: 124-747-496
+2023-09-24 18:43:22,849  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:43:22,945  * Restarting with stat
+2023-09-24 18:43:23,953  * Debugger is active!
+2023-09-24 18:43:23,987  * Debugger PIN: 124-747-496
+2023-09-24 18:43:39,551  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:43:39,623  * Restarting with stat
+2023-09-24 18:43:40,239  * Debugger is active!
+2023-09-24 18:43:40,245  * Debugger PIN: 124-747-496
+2023-09-24 18:43:50,557  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:43:50,655  * Restarting with stat
+2023-09-24 18:43:51,853  * Debugger is active!
+2023-09-24 18:43:51,860  * Debugger PIN: 124-747-496
+2023-09-24 18:43:58,538  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:43:58,664  * Restarting with stat
+2023-09-24 18:43:59,446  * Debugger is active!
+2023-09-24 18:43:59,451  * Debugger PIN: 124-747-496
+2023-09-24 18:44:06,578  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:44:06,678  * Restarting with stat
+2023-09-24 18:44:08,248  * Debugger is active!
+2023-09-24 18:44:08,253  * Debugger PIN: 124-747-496
+2023-09-24 18:44:17,682 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 18:44:17,682 [33mPress CTRL+C to quit[0m
+2023-09-24 18:44:17,684  * Restarting with stat
+2023-09-24 18:44:18,328  * Debugger is active!
+2023-09-24 18:44:18,336  * Debugger PIN: 124-747-496
+2023-09-24 18:44:20,825 127.0.0.1 - - [24/Sep/2023 18:44:20] "POST /webvalidatecbarcode HTTP/1.1" 200 -
+2023-09-24 18:44:35,542 127.0.0.1 - - [24/Sep/2023 18:44:35] "[35m[1mPOST /webvalidatecbarcode HTTP/1.1[0m" 500 -
+2023-09-24 18:44:58,599 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:44:58,654 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_BarcodePacking?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:44:58,682 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_BarcodePacking?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:44:58,811 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_BarcodePacking?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:44:58,813 127.0.0.1 - - [24/Sep/2023 18:44:58] "POST /webbarcodepacking HTTP/1.1" 200 -
+2023-09-24 18:45:05,659 127.0.0.1 - - [24/Sep/2023 18:45:05] "POST /webbarcodepacking HTTP/1.1" 200 -
+2023-09-24 18:45:09,250 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:45:09,323 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_BarcodePacking?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:45:09,357 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_BarcodePacking?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:45:09,406 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_BarcodePacking?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:45:09,409 127.0.0.1 - - [24/Sep/2023 18:45:09] "POST /webbarcodepacking HTTP/1.1" 200 -
+2023-09-24 18:48:29,061 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:48:29,121 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:48:29,151 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:48:29,198 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:48:29,199 127.0.0.1 - - [24/Sep/2023 18:48:29] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 18:52:32,753 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:52:32,819 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUPBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:52:32,858 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUPBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:52:32,923 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUPBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:52:32,974 127.0.0.1 - - [24/Sep/2023 18:52:32] "POST /webvalidateupbarcode HTTP/1.1" 200 -
+2023-09-24 18:52:41,479  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:52:42,452  * Restarting with stat
+2023-09-24 18:54:25,506 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 18:54:25,506 [33mPress CTRL+C to quit[0m
+2023-09-24 18:54:25,508  * Restarting with stat
+2023-09-24 18:54:26,116  * Debugger is active!
+2023-09-24 18:54:26,121  * Debugger PIN: 124-747-496
+2023-09-24 18:54:29,913 127.0.0.1 - - [24/Sep/2023 18:54:29] "POST /webvalidateupbarcode HTTP/1.1" 200 -
+2023-09-24 18:54:43,947 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 18:54:44,052 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUPBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 18:54:44,083 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUPBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 18:54:44,231 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUPBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 18:54:44,233 127.0.0.1 - - [24/Sep/2023 18:54:44] "POST /webvalidateupbarcode HTTP/1.1" 200 -
+2023-09-24 18:58:38,787  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:58:40,181  * Restarting with stat
+2023-09-24 18:58:52,005  * Debugger is active!
+2023-09-24 18:58:52,019  * Debugger PIN: 124-747-496
+2023-09-24 18:58:55,109  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:58:55,207  * Restarting with stat
+2023-09-24 18:58:57,001  * Debugger is active!
+2023-09-24 18:58:57,011  * Debugger PIN: 124-747-496
+2023-09-24 18:59:02,088  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:59:02,145  * Restarting with stat
+2023-09-24 18:59:02,999  * Debugger is active!
+2023-09-24 18:59:03,006  * Debugger PIN: 124-747-496
+2023-09-24 18:59:11,195  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:59:11,339  * Restarting with stat
+2023-09-24 18:59:14,551  * Debugger is active!
+2023-09-24 18:59:14,577  * Debugger PIN: 124-747-496
+2023-09-24 18:59:19,490  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:59:19,728  * Restarting with stat
+2023-09-24 18:59:22,765  * Debugger is active!
+2023-09-24 18:59:22,778  * Debugger PIN: 124-747-496
+2023-09-24 18:59:45,700  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 18:59:45,827  * Restarting with stat
+2023-09-24 18:59:47,586  * Debugger is active!
+2023-09-24 18:59:47,596  * Debugger PIN: 124-747-496
+2023-09-24 19:00:01,962 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 19:00:01,963 [33mPress CTRL+C to quit[0m
+2023-09-24 19:00:01,965  * Restarting with stat
+2023-09-24 19:00:02,886  * Debugger is active!
+2023-09-24 19:00:02,893  * Debugger PIN: 124-747-496
+2023-09-24 19:00:49,660 127.0.0.1 - - [24/Sep/2023 19:00:49] "POST /webvalidateucbarcode HTTP/1.1" 200 -
+2023-09-24 19:01:31,664 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:01:31,740 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUCBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:01:31,782 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUCBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:01:31,890 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUCBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:01:31,891 127.0.0.1 - - [24/Sep/2023 19:01:31] "POST /webvalidateucbarcode HTTP/1.1" 200 -
+2023-09-24 19:01:41,807 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:01:41,905 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUCBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:01:41,934 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUCBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:01:41,978 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUCBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:01:41,979 127.0.0.1 - - [24/Sep/2023 19:01:41] "POST /webvalidateucbarcode HTTP/1.1" 200 -
+2023-09-24 19:03:45,012  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:03:45,110  * Restarting with stat
+2023-09-24 19:03:46,022  * Debugger is active!
+2023-09-24 19:03:46,030  * Debugger PIN: 124-747-496
+2023-09-24 19:03:52,446  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:03:53,257  * Restarting with stat
+2023-09-24 19:03:55,188  * Debugger is active!
+2023-09-24 19:03:55,196  * Debugger PIN: 124-747-496
+2023-09-24 19:04:09,771  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:04:09,886  * Restarting with stat
+2023-09-24 19:04:12,196  * Debugger is active!
+2023-09-24 19:04:12,211  * Debugger PIN: 124-747-496
+2023-09-24 19:04:24,352  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:04:24,449  * Restarting with stat
+2023-09-24 19:04:25,411  * Debugger is active!
+2023-09-24 19:04:25,419  * Debugger PIN: 124-747-496
+2023-09-24 19:04:46,785  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:04:46,856  * Restarting with stat
+2023-09-24 19:04:52,039  * Debugger is active!
+2023-09-24 19:04:52,069  * Debugger PIN: 124-747-496
+2023-09-24 19:04:56,417 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 19:04:56,417 [33mPress CTRL+C to quit[0m
+2023-09-24 19:04:56,419  * Restarting with stat
+2023-09-24 19:04:57,641  * Debugger is active!
+2023-09-24 19:04:57,652  * Debugger PIN: 124-747-496
+2023-09-24 19:07:47,744 127.0.0.1 - - [24/Sep/2023 19:07:47] "POST /webbarcodeunpacking HTTP/1.1" 200 -
+2023-09-24 19:08:15,966 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:08:16,041 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_BarcodeUnPacking?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:08:16,082 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_BarcodeUnPacking?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:08:16,426 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_BarcodeUnPacking?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:08:16,434 127.0.0.1 - - [24/Sep/2023 19:08:16] "POST /webbarcodeunpacking HTTP/1.1" 200 -
+2023-09-24 19:16:41,886 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:16:41,968 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUserPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:16:42,021 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUserPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:16:42,087 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUserPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:16:42,095 127.0.0.1 - - [24/Sep/2023 19:16:42] "POST /webvalidateuserpurch HTTP/1.1" 200 -
+2023-09-24 19:17:05,667  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:17:06,595  * Restarting with stat
+2023-09-24 19:17:14,202  * Debugger is active!
+2023-09-24 19:17:14,218  * Debugger PIN: 124-747-496
+2023-09-24 19:17:41,120  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:17:41,216  * Restarting with stat
+2023-09-24 19:17:43,037  * Debugger is active!
+2023-09-24 19:17:43,052  * Debugger PIN: 124-747-496
+2023-09-24 19:18:01,717  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:18:01,898  * Restarting with stat
+2023-09-24 19:18:08,910  * Debugger is active!
+2023-09-24 19:18:08,938  * Debugger PIN: 124-747-496
+2023-09-24 19:18:22,486  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:18:22,550  * Restarting with stat
+2023-09-24 19:18:25,084  * Debugger is active!
+2023-09-24 19:18:25,090  * Debugger PIN: 124-747-496
+2023-09-24 19:18:31,366 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 19:18:31,366 [33mPress CTRL+C to quit[0m
+2023-09-24 19:18:31,368  * Restarting with stat
+2023-09-24 19:18:31,940  * Debugger is active!
+2023-09-24 19:18:31,946  * Debugger PIN: 124-747-496
+2023-09-24 19:18:37,477 127.0.0.1 - - [24/Sep/2023 19:18:37] "POST /webvalidateuserpurch HTTP/1.1" 200 -
+2023-09-24 19:18:51,589 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:18:51,665 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUserPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:18:51,704 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUserPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:18:51,836 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUserPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:18:51,842 127.0.0.1 - - [24/Sep/2023 19:18:51] "POST /webvalidateuserpurch HTTP/1.1" 200 -
+2023-09-24 19:22:50,733  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:22:52,413  * Restarting with stat
+2023-09-24 19:23:19,375  * Debugger is active!
+2023-09-24 19:23:19,389  * Debugger PIN: 124-747-496
+2023-09-24 19:23:29,233  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:23:29,383  * Restarting with stat
+2023-09-24 19:23:31,956  * Debugger is active!
+2023-09-24 19:23:31,969  * Debugger PIN: 124-747-496
+2023-09-24 19:23:49,645  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:23:49,717  * Restarting with stat
+2023-09-24 19:23:50,509  * Debugger is active!
+2023-09-24 19:23:50,534  * Debugger PIN: 124-747-496
+2023-09-24 19:23:56,744  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:23:56,849  * Restarting with stat
+2023-09-24 19:23:59,016  * Debugger is active!
+2023-09-24 19:23:59,024  * Debugger PIN: 124-747-496
+2023-09-24 19:24:02,957 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 19:24:02,957 [33mPress CTRL+C to quit[0m
+2023-09-24 19:24:02,958  * Restarting with stat
+2023-09-24 19:24:03,467  * Debugger is active!
+2023-09-24 19:24:03,472  * Debugger PIN: 124-747-496
+2023-09-24 19:24:23,696 127.0.0.1 - - [24/Sep/2023 19:24:23] "POST /webvalidatedocnopurch HTTP/1.1" 200 -
+2023-09-24 19:24:40,010 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:24:40,078 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocNoPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:24:40,115 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocNoPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:24:40,310 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocNoPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:24:40,315 127.0.0.1 - - [24/Sep/2023 19:24:40] "POST /webvalidatedocnopurch HTTP/1.1" 200 -
+2023-09-24 19:27:57,882 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:27:57,976 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSerialNo?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:27:58,011 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSerialNo?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:27:58,077 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSerialNo?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:27:58,082 127.0.0.1 - - [24/Sep/2023 19:27:58] "POST /webvalidateserialno HTTP/1.1" 200 -
+2023-09-24 19:28:33,570  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:28:34,871  * Restarting with stat
+2023-09-24 19:28:52,817  * Debugger is active!
+2023-09-24 19:28:52,831  * Debugger PIN: 124-747-496
+2023-09-24 19:28:56,065  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:28:56,200  * Restarting with stat
+2023-09-24 19:28:57,535  * Debugger is active!
+2023-09-24 19:28:57,550  * Debugger PIN: 124-747-496
+2023-09-24 19:29:05,856  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:29:05,973  * Restarting with stat
+2023-09-24 19:29:07,762  * Debugger is active!
+2023-09-24 19:29:07,771  * Debugger PIN: 124-747-496
+2023-09-24 19:29:12,919  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:29:13,139  * Restarting with stat
+2023-09-24 19:29:14,559  * Debugger is active!
+2023-09-24 19:29:14,565  * Debugger PIN: 124-747-496
+2023-09-24 19:29:25,743  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:29:25,813  * Restarting with stat
+2023-09-24 19:29:27,519  * Debugger is active!
+2023-09-24 19:29:27,528  * Debugger PIN: 124-747-496
+2023-09-24 19:29:34,712  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:29:34,858  * Restarting with stat
+2023-09-24 19:29:35,733  * Debugger is active!
+2023-09-24 19:29:35,742  * Debugger PIN: 124-747-496
+2023-09-24 19:29:45,819 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 19:29:45,819 [33mPress CTRL+C to quit[0m
+2023-09-24 19:29:45,822  * Restarting with stat
+2023-09-24 19:29:46,379  * Debugger is active!
+2023-09-24 19:29:46,384  * Debugger PIN: 124-747-496
+2023-09-24 19:29:49,587 127.0.0.1 - - [24/Sep/2023 19:29:49] "POST /webvalidateserialno HTTP/1.1" 200 -
+2023-09-24 19:30:14,096 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:30:14,160 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSerialNo?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:30:14,200 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSerialNo?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:30:14,340 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSerialNo?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:30:14,344 127.0.0.1 - - [24/Sep/2023 19:30:14] "POST /webvalidateserialno HTTP/1.1" 200 -
+2023-09-24 19:36:14,048 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 19:36:14,049 [33mPress CTRL+C to quit[0m
+2023-09-24 19:36:14,054  * Restarting with stat
+2023-09-24 19:36:14,631  * Debugger is active!
+2023-09-24 19:36:14,636  * Debugger PIN: 124-747-496
+2023-09-24 19:36:22,053 127.0.0.1 - - [24/Sep/2023 19:36:22] "POST /webrmpurchasestocktake HTTP/1.1" 200 -
+2023-09-24 19:36:57,707 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:36:57,773 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_RMPurchaseStockTake?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:36:57,810 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_RMPurchaseStockTake?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:36:58,286 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_RMPurchaseStockTake?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 400 165
+2023-09-24 19:36:58,289 127.0.0.1 - - [24/Sep/2023 19:36:58] "POST /webrmpurchasestocktake HTTP/1.1" 200 -
+2023-09-24 19:39:46,165 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:39:46,233 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:39:46,263 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:39:46,311 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:39:46,313 127.0.0.1 - - [24/Sep/2023 19:39:46] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 19:40:51,543  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:40:51,615  * Restarting with stat
+2023-09-24 19:40:52,649  * Debugger is active!
+2023-09-24 19:40:52,663  * Debugger PIN: 124-747-496
+2023-09-24 19:41:43,643  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:41:43,823  * Restarting with stat
+2023-09-24 19:41:44,800  * Debugger is active!
+2023-09-24 19:41:44,808  * Debugger PIN: 124-747-496
+2023-09-24 19:42:02,556  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:42:02,705  * Restarting with stat
+2023-09-24 19:42:04,408  * Debugger is active!
+2023-09-24 19:42:04,421  * Debugger PIN: 124-747-496
+2023-09-24 19:42:13,660  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:42:13,764  * Restarting with stat
+2023-09-24 19:46:12,608 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 19:46:12,608 [33mPress CTRL+C to quit[0m
+2023-09-24 19:46:12,609  * Restarting with stat
+2023-09-24 19:46:13,215  * Debugger is active!
+2023-09-24 19:46:13,218  * Debugger PIN: 124-747-496
+2023-09-24 19:49:09,839 {'UserID': 'E101'}
+2023-09-24 19:49:09,839 127.0.0.1 - - [24/Sep/2023 19:49:09] "POST /webgettemplatebatchname HTTP/1.1" 200 -
+2023-09-24 19:49:36,250 {'CompanyCode': 'BCPL', 'UserID': 'E101'}
+2023-09-24 19:49:36,262 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:49:36,345 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GetTemplateBatchName?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:49:36,384 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GetTemplateBatchName?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:49:36,804 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GetTemplateBatchName?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:49:36,812 127.0.0.1 - - [24/Sep/2023 19:49:36] "POST /webgettemplatebatchname HTTP/1.1" 200 -
+2023-09-24 19:55:10,970 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:55:11,037 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:55:11,075 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:55:11,124 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:55:11,126 127.0.0.1 - - [24/Sep/2023 19:55:11] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 19:55:22,152 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:55:22,222 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUserPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:55:22,256 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUserPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:55:22,298 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUserPurch?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:55:22,300 127.0.0.1 - - [24/Sep/2023 19:55:22] "POST /webvalidateuserpurch HTTP/1.1" 200 -
+2023-09-24 19:55:46,390 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 19:55:46,390 [33mPress CTRL+C to quit[0m
+2023-09-24 19:55:46,392  * Restarting with stat
+2023-09-24 19:55:47,019  * Debugger is active!
+2023-09-24 19:55:47,027  * Debugger PIN: 124-747-496
+2023-09-24 19:56:27,321 {'CompanyCode': 'BCPL', 'UserID': 'e101'}
+2023-09-24 19:56:27,323 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 19:56:27,406 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GetTemplateBatchName?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 19:56:27,439 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GetTemplateBatchName?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 19:56:27,536 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GetTemplateBatchName?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 19:56:27,538 127.0.0.1 - - [24/Sep/2023 19:56:27] "POST /webgettemplatebatchname HTTP/1.1" 200 -
+2023-09-24 19:59:25,630  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:59:25,976  * Restarting with stat
+2023-09-24 19:59:35,204  * Debugger is active!
+2023-09-24 19:59:35,237  * Debugger PIN: 124-747-496
+2023-09-24 19:59:55,045  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 19:59:56,006  * Restarting with stat
+2023-09-24 20:00:19,168  * Debugger is active!
+2023-09-24 20:00:19,200  * Debugger PIN: 124-747-496
+2023-09-24 20:00:27,913  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:00:27,978  * Restarting with stat
+2023-09-24 20:00:28,572  * Debugger is active!
+2023-09-24 20:00:28,577  * Debugger PIN: 124-747-496
+2023-09-24 20:00:42,898  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:00:42,982  * Restarting with stat
+2023-09-24 20:00:43,828  * Debugger is active!
+2023-09-24 20:00:43,832  * Debugger PIN: 124-747-496
+2023-09-24 20:00:57,504 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 20:00:57,504 [33mPress CTRL+C to quit[0m
+2023-09-24 20:00:57,507  * Restarting with stat
+2023-09-24 20:00:58,315  * Debugger is active!
+2023-09-24 20:00:58,322  * Debugger PIN: 124-747-496
+2023-09-24 20:01:03,538 127.0.0.1 - - [24/Sep/2023 20:01:03] "POST /webvalidatedocumentnoproduction HTTP/1.1" 200 -
+2023-09-24 20:01:24,213 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:01:24,276 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocumentNoProduction?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:01:24,310 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocumentNoProduction?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:01:24,409 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocumentNoProduction?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 20:01:24,410 127.0.0.1 - - [24/Sep/2023 20:01:24] "POST /webvalidatedocumentnoproduction HTTP/1.1" 200 -
+2023-09-24 20:03:50,198  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:03:50,346  * Restarting with stat
+2023-09-24 20:03:52,417  * Debugger is active!
+2023-09-24 20:03:52,427  * Debugger PIN: 124-747-496
+2023-09-24 20:04:01,218  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:04:01,498  * Restarting with stat
+2023-09-24 20:04:06,074  * Debugger is active!
+2023-09-24 20:04:06,375  * Debugger PIN: 124-747-496
+2023-09-24 20:04:07,692  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:04:07,962  * Restarting with stat
+2023-09-24 20:04:11,974  * Debugger is active!
+2023-09-24 20:04:12,009  * Debugger PIN: 124-747-496
+2023-09-24 20:04:20,635  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:04:20,727  * Restarting with stat
+2023-09-24 20:04:22,139  * Debugger is active!
+2023-09-24 20:04:22,150  * Debugger PIN: 124-747-496
+2023-09-24 20:04:36,614  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:04:36,685  * Restarting with stat
+2023-09-24 20:04:37,371  * Debugger is active!
+2023-09-24 20:04:37,379  * Debugger PIN: 124-747-496
+2023-09-24 20:04:52,934  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:04:53,006  * Restarting with stat
+2023-09-24 20:04:55,463  * Debugger is active!
+2023-09-24 20:04:55,478  * Debugger PIN: 124-747-496
+2023-09-24 20:05:03,720 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 20:05:03,721 [33mPress CTRL+C to quit[0m
+2023-09-24 20:05:03,722  * Restarting with stat
+2023-09-24 20:05:04,343  * Debugger is active!
+2023-09-24 20:05:04,349  * Debugger PIN: 124-747-496
+2023-09-24 20:05:22,472 127.0.0.1 - - [24/Sep/2023 20:05:22] "POST /webvalidatedocbarcode HTTP/1.1" 200 -
+2023-09-24 20:05:36,713 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:05:36,777 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:05:36,813 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:05:36,915 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 20:05:36,919 127.0.0.1 - - [24/Sep/2023 20:05:36] "POST /webvalidatedocbarcode HTTP/1.1" 200 -
+2023-09-24 20:27:58,073 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:27:58,142 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:27:58,179 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:27:58,219 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 20:27:58,221 127.0.0.1 - - [24/Sep/2023 20:27:58] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 20:28:43,333 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:28:43,409 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:28:43,442 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:28:43,480 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 20:28:43,481 127.0.0.1 - - [24/Sep/2023 20:28:43] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 20:30:14,929  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:30:15,260  * Restarting with stat
+2023-09-24 20:30:25,769  * Debugger is active!
+2023-09-24 20:30:25,779  * Debugger PIN: 124-747-496
+2023-09-24 20:30:31,000  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:30:31,153  * Restarting with stat
+2023-09-24 20:30:32,740  * Debugger is active!
+2023-09-24 20:30:32,750  * Debugger PIN: 124-747-496
+2023-09-24 20:30:48,120  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:30:48,297  * Restarting with stat
+2023-09-24 20:30:50,772  * Debugger is active!
+2023-09-24 20:30:50,784  * Debugger PIN: 124-747-496
+2023-09-24 20:31:05,787  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:31:05,870  * Restarting with stat
+2023-09-24 20:31:07,568  * Debugger is active!
+2023-09-24 20:31:07,575  * Debugger PIN: 124-747-496
+2023-09-24 20:31:14,144  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:31:14,225  * Restarting with stat
+2023-09-24 20:31:15,804  * Debugger is active!
+2023-09-24 20:31:15,821  * Debugger PIN: 124-747-496
+2023-09-24 20:31:21,189 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 20:31:21,189 [33mPress CTRL+C to quit[0m
+2023-09-24 20:31:21,191  * Restarting with stat
+2023-09-24 20:31:22,138  * Debugger is active!
+2023-09-24 20:31:22,147  * Debugger PIN: 124-747-496
+2023-09-24 20:31:37,340 127.0.0.1 - - [24/Sep/2023 20:31:37] "POST /webvalidatereturnorder HTTP/1.1" 200 -
+2023-09-24 20:32:01,616 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:32:01,710 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:32:01,748 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:32:06,266 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 20:32:06,275 127.0.0.1 - - [24/Sep/2023 20:32:06] "POST /webvalidatereturnorder HTTP/1.1" 200 -
+2023-09-24 20:35:13,463 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 20:35:13,464 [33mPress CTRL+C to quit[0m
+2023-09-24 20:35:13,477  * Restarting with stat
+2023-09-24 20:35:15,563  * Debugger is active!
+2023-09-24 20:35:15,587  * Debugger PIN: 124-747-496
+2023-09-24 20:35:23,205  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:35:24,552  * Restarting with stat
+2023-09-24 20:35:30,532  * Debugger is active!
+2023-09-24 20:35:30,552  * Debugger PIN: 124-747-496
+2023-09-24 20:35:37,031  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:35:37,341  * Restarting with stat
+2023-09-24 20:35:39,607  * Debugger is active!
+2023-09-24 20:35:39,622  * Debugger PIN: 124-747-496
+2023-09-24 20:35:48,542  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:35:48,742  * Restarting with stat
+2023-09-24 20:35:50,734  * Debugger is active!
+2023-09-24 20:35:50,758  * Debugger PIN: 124-747-496
+2023-09-24 20:35:56,069  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:35:56,361  * Restarting with stat
+2023-09-24 20:35:58,984  * Debugger is active!
+2023-09-24 20:35:58,998  * Debugger PIN: 124-747-496
+2023-09-24 20:36:04,209 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 20:36:04,210 [33mPress CTRL+C to quit[0m
+2023-09-24 20:36:04,214  * Restarting with stat
+2023-09-24 20:36:05,525  * Debugger is active!
+2023-09-24 20:36:05,535  * Debugger PIN: 124-747-496
+2023-09-24 20:36:08,358 127.0.0.1 - - [24/Sep/2023 20:36:08] "POST /webvalidatereturnbarcode HTTP/1.1" 200 -
+2023-09-24 20:36:24,731 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:36:24,798 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:36:24,830 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:36:24,998 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateReturnBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 20:36:25,000 127.0.0.1 - - [24/Sep/2023 20:36:25] "POST /webvalidatereturnbarcode HTTP/1.1" 200 -
+2023-09-24 20:36:32,647 127.0.0.1 - - [24/Sep/2023 20:36:32] "POST /webvalidatereturnbarcode HTTP/1.1" 200 -
+2023-09-24 20:38:50,930  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:38:51,044  * Restarting with stat
+2023-09-24 20:38:52,748  * Debugger is active!
+2023-09-24 20:38:52,760  * Debugger PIN: 124-747-496
+2023-09-24 20:39:02,477  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:39:02,591  * Restarting with stat
+2023-09-24 20:39:03,557  * Debugger is active!
+2023-09-24 20:39:03,567  * Debugger PIN: 124-747-496
+2023-09-24 20:39:10,730  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:39:10,796  * Restarting with stat
+2023-09-24 20:39:11,566  * Debugger is active!
+2023-09-24 20:39:11,576  * Debugger PIN: 124-747-496
+2023-09-24 20:39:25,376  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:39:25,474  * Restarting with stat
+2023-09-24 20:39:27,367  * Debugger is active!
+2023-09-24 20:39:27,382  * Debugger PIN: 124-747-496
+2023-09-24 20:39:31,591  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:39:32,059  * Restarting with stat
+2023-09-24 20:39:33,777  * Debugger is active!
+2023-09-24 20:39:33,785  * Debugger PIN: 124-747-496
+2023-09-24 20:39:43,994  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:39:44,066  * Restarting with stat
+2023-09-24 20:39:45,047  * Debugger is active!
+2023-09-24 20:39:45,069  * Debugger PIN: 124-747-496
+2023-09-24 20:42:53,627 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 20:42:53,628 [33mPress CTRL+C to quit[0m
+2023-09-24 20:42:53,648  * Restarting with stat
+2023-09-24 20:43:21,248  * Debugger is active!
+2023-09-24 20:43:21,479  * Debugger PIN: 124-747-496
+2023-09-24 20:43:22,694 127.0.0.1 - - [24/Sep/2023 20:43:22] "POST /webgoodsreturn HTTP/1.1" 200 -
+2023-09-24 20:43:43,854 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:43:43,936 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:43:43,980 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:43:44,720 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 20:43:45,074 127.0.0.1 - - [24/Sep/2023 20:43:45] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 20:45:34,687 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 20:45:34,687 [33mPress CTRL+C to quit[0m
+2023-09-24 20:45:34,690  * Restarting with stat
+2023-09-24 20:45:35,774  * Debugger is active!
+2023-09-24 20:45:35,787  * Debugger PIN: 124-747-496
+2023-09-24 20:45:38,733 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:45:38,803 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:45:38,838 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:45:38,964 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 20:45:38,993 127.0.0.1 - - [24/Sep/2023 20:45:38] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 20:56:16,716 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:56:16,787 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:56:16,818 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:56:16,858 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 20:56:16,876 127.0.0.1 - - [24/Sep/2023 20:56:16] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 20:57:51,278  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:57:51,356  * Restarting with stat
+2023-09-24 20:57:52,174  * Debugger is active!
+2023-09-24 20:57:52,180  * Debugger PIN: 124-747-496
+2023-09-24 20:58:00,789 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 20:58:00,789 [33mPress CTRL+C to quit[0m
+2023-09-24 20:58:00,791  * Restarting with stat
+2023-09-24 20:58:01,331  * Debugger is active!
+2023-09-24 20:58:01,336  * Debugger PIN: 124-747-496
+2023-09-24 20:58:04,143 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:58:04,207 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:58:04,239 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:58:04,334 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 20:58:04,355 127.0.0.1 - - [24/Sep/2023 20:58:04] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 20:58:31,634 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 20:58:31,635 [33mPress CTRL+C to quit[0m
+2023-09-24 20:58:31,639  * Restarting with stat
+2023-09-24 20:58:33,944  * Debugger is active!
+2023-09-24 20:58:33,961  * Debugger PIN: 124-747-496
+2023-09-24 20:58:42,174 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 20:58:42,246 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 20:58:42,285 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 20:58:42,447 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 20:58:42,527 127.0.0.1 - - [24/Sep/2023 20:58:42] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 20:59:35,735  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 20:59:36,008  * Restarting with stat
+2023-09-24 20:59:39,064  * Debugger is active!
+2023-09-24 20:59:39,079  * Debugger PIN: 124-747-496
+2023-09-24 21:03:50,560  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:03:50,639  * Restarting with stat
+2023-09-24 21:03:51,597  * Debugger is active!
+2023-09-24 21:03:51,603  * Debugger PIN: 124-747-496
+2023-09-24 21:03:55,956 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:03:55,957 [33mPress CTRL+C to quit[0m
+2023-09-24 21:03:55,958  * Restarting with stat
+2023-09-24 21:03:56,503  * Debugger is active!
+2023-09-24 21:03:56,508  * Debugger PIN: 124-747-496
+2023-09-24 21:04:00,050 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:04:00,118 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:04:00,152 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:04:00,279 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:04:00,291 127.0.0.1 - - [24/Sep/2023 21:04:00] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:04:06,272 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:04:06,332 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:04:06,364 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:04:06,408 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:04:06,421 127.0.0.1 - - [24/Sep/2023 21:04:06] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:04:15,385 127.0.0.1 - - [24/Sep/2023 21:04:15] "POST /webgoodsreturn HTTP/1.1" 200 -
+2023-09-24 21:04:30,326 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:04:30,395 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:04:30,429 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:04:30,474 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:04:30,497 127.0.0.1 - - [24/Sep/2023 21:04:30] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:05:08,952 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:05:08,952 [33mPress CTRL+C to quit[0m
+2023-09-24 21:05:08,955  * Restarting with stat
+2023-09-24 21:05:09,557  * Debugger is active!
+2023-09-24 21:05:09,563  * Debugger PIN: 124-747-496
+2023-09-24 21:05:14,868 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:05:14,979 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:05:15,034 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:05:16,210 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:05:16,411 127.0.0.1 - - [24/Sep/2023 21:05:16] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:08:12,035  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:08:12,127  * Restarting with stat
+2023-09-24 21:08:13,155  * Debugger is active!
+2023-09-24 21:08:13,164  * Debugger PIN: 124-747-496
+2023-09-24 21:08:33,097  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:08:33,163  * Restarting with stat
+2023-09-24 21:08:33,829  * Debugger is active!
+2023-09-24 21:08:33,834  * Debugger PIN: 124-747-496
+2023-09-24 21:08:38,480 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:08:38,480 [33mPress CTRL+C to quit[0m
+2023-09-24 21:08:38,482  * Restarting with stat
+2023-09-24 21:08:39,065  * Debugger is active!
+2023-09-24 21:08:39,070  * Debugger PIN: 124-747-496
+2023-09-24 21:08:42,093 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:08:42,159 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:08:42,192 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:08:42,266 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:08:42,280 127.0.0.1 - - [24/Sep/2023 21:08:42] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:08:57,930  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:08:57,997  * Restarting with stat
+2023-09-24 21:08:59,055  * Debugger is active!
+2023-09-24 21:08:59,065  * Debugger PIN: 124-747-496
+2023-09-24 21:13:23,698  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:13:23,771  * Restarting with stat
+2023-09-24 21:13:25,778  * Debugger is active!
+2023-09-24 21:13:25,790  * Debugger PIN: 124-747-496
+2023-09-24 21:13:30,287 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:13:30,287 [33mPress CTRL+C to quit[0m
+2023-09-24 21:13:30,289  * Restarting with stat
+2023-09-24 21:13:30,862  * Debugger is active!
+2023-09-24 21:13:30,867  * Debugger PIN: 124-747-496
+2023-09-24 21:13:35,688 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:13:35,754 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:13:35,784 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:13:35,895 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:13:35,913 127.0.0.1 - - [24/Sep/2023 21:13:35] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:14:16,972  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:14:17,081  * Restarting with stat
+2023-09-24 21:14:23,788 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:14:23,788 [33mPress CTRL+C to quit[0m
+2023-09-24 21:14:23,790  * Restarting with stat
+2023-09-24 21:14:24,637  * Debugger is active!
+2023-09-24 21:14:24,648  * Debugger PIN: 124-747-496
+2023-09-24 21:14:28,366 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:14:28,432 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:14:28,468 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:14:28,624 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:14:28,677 127.0.0.1 - - [24/Sep/2023 21:14:28] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:15:03,574  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:15:04,492  * Restarting with stat
+2023-09-24 21:15:06,936  * Debugger is active!
+2023-09-24 21:15:06,943  * Debugger PIN: 124-747-496
+2023-09-24 21:15:13,241 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:15:13,241 [33mPress CTRL+C to quit[0m
+2023-09-24 21:15:13,242  * Restarting with stat
+2023-09-24 21:15:13,788  * Debugger is active!
+2023-09-24 21:15:13,793  * Debugger PIN: 124-747-496
+2023-09-24 21:15:20,432 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:15:20,499 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:15:20,532 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:15:20,632 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:15:20,657 127.0.0.1 - - [24/Sep/2023 21:15:20] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:16:30,455  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:16:30,773  * Restarting with stat
+2023-09-24 21:16:36,060 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:16:36,061 [33mPress CTRL+C to quit[0m
+2023-09-24 21:16:36,063  * Restarting with stat
+2023-09-24 21:16:37,046  * Debugger is active!
+2023-09-24 21:16:37,053  * Debugger PIN: 124-747-496
+2023-09-24 21:16:40,761 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:16:40,829 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:16:40,866 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:16:40,966 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:16:40,990 127.0.0.1 - - [24/Sep/2023 21:16:40] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:20:42,845  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:20:43,789  * Restarting with stat
+2023-09-24 21:20:49,554  * Debugger is active!
+2023-09-24 21:20:49,565  * Debugger PIN: 124-747-496
+2023-09-24 21:21:45,459  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:21:45,533  * Restarting with stat
+2023-09-24 21:21:46,598  * Debugger is active!
+2023-09-24 21:21:46,623  * Debugger PIN: 124-747-496
+2023-09-24 21:21:59,052  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:21:59,123  * Restarting with stat
+2023-09-24 21:22:01,565  * Debugger is active!
+2023-09-24 21:22:01,579  * Debugger PIN: 124-747-496
+2023-09-24 21:22:05,570 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:22:05,570 [33mPress CTRL+C to quit[0m
+2023-09-24 21:22:05,572  * Restarting with stat
+2023-09-24 21:22:06,175  * Debugger is active!
+2023-09-24 21:22:06,180  * Debugger PIN: 124-747-496
+2023-09-24 21:22:10,953 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:22:11,025 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:22:11,056 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:22:11,149 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:22:11,171 127.0.0.1 - - [24/Sep/2023 21:22:11] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:23:12,878  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:23:13,004  * Restarting with stat
+2023-09-24 21:23:14,253  * Debugger is active!
+2023-09-24 21:23:14,266  * Debugger PIN: 124-747-496
+2023-09-24 21:23:23,359 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:23:23,359 [33mPress CTRL+C to quit[0m
+2023-09-24 21:23:23,361  * Restarting with stat
+2023-09-24 21:23:23,948  * Debugger is active!
+2023-09-24 21:23:23,952  * Debugger PIN: 124-747-496
+2023-09-24 21:23:26,148 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:23:26,207 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:23:26,241 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:23:26,355 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:23:26,374 127.0.0.1 - - [24/Sep/2023 21:23:26] "[35m[1mPOST /webgoodsreturn HTTP/1.1[0m" 500 -
+2023-09-24 21:24:18,657  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:24:18,895  * Restarting with stat
+2023-09-24 21:24:20,043  * Debugger is active!
+2023-09-24 21:24:20,053  * Debugger PIN: 124-747-496
+2023-09-24 21:25:09,293  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:25:09,387  * Restarting with stat
+2023-09-24 21:25:10,095  * Debugger is active!
+2023-09-24 21:25:10,100  * Debugger PIN: 124-747-496
+2023-09-24 21:25:24,600 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:25:24,600 [33mPress CTRL+C to quit[0m
+2023-09-24 21:25:24,602  * Restarting with stat
+2023-09-24 21:25:25,202  * Debugger is active!
+2023-09-24 21:25:25,207  * Debugger PIN: 124-747-496
+2023-09-24 21:25:28,316 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:25:28,386 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:25:28,422 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:25:28,511 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:25:28,513 127.0.0.1 - - [24/Sep/2023 21:25:28] "POST /webgoodsreturn HTTP/1.1" 200 -
+2023-09-24 21:25:42,249 127.0.0.1 - - [24/Sep/2023 21:25:42] "POST /webgoodsreturn HTTP/1.1" 200 -
+2023-09-24 21:25:46,505 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:25:46,571 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:25:46,604 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:25:46,922 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_GoodsReturn?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 181
+2023-09-24 21:25:46,923 127.0.0.1 - - [24/Sep/2023 21:25:46] "POST /webgoodsreturn HTTP/1.1" 200 -
+2023-09-24 21:26:07,649  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:26:07,950  * Restarting with stat
+2023-09-24 21:26:13,014  * Debugger is active!
+2023-09-24 21:26:13,052  * Debugger PIN: 124-747-496
+2023-09-24 21:31:44,719 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:31:44,789 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:31:44,821 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:31:45,113 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 21:31:45,117 127.0.0.1 - - [24/Sep/2023 21:31:45] "POST /webvalidateuser HTTP/1.1" 200 -
+2023-09-24 21:36:03,166  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:36:05,066  * Restarting with stat
+2023-09-24 21:36:18,634  * Debugger is active!
+2023-09-24 21:36:18,645  * Debugger PIN: 124-747-496
+2023-09-24 21:36:21,793  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:36:21,915  * Restarting with stat
+2023-09-24 21:36:25,282  * Debugger is active!
+2023-09-24 21:36:25,295  * Debugger PIN: 124-747-496
+2023-09-24 21:36:27,862  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:36:28,197  * Restarting with stat
+2023-09-24 21:36:31,043  * Debugger is active!
+2023-09-24 21:36:31,064  * Debugger PIN: 124-747-496
+2023-09-24 21:36:37,576  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:36:37,762  * Restarting with stat
+2023-09-24 21:36:43,091  * Debugger is active!
+2023-09-24 21:36:43,164  * Debugger PIN: 124-747-496
+2023-09-24 21:36:50,634  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:36:50,748  * Restarting with stat
+2023-09-24 21:36:53,042  * Debugger is active!
+2023-09-24 21:36:53,053  * Debugger PIN: 124-747-496
+2023-09-24 21:37:03,344 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:37:03,344 [33mPress CTRL+C to quit[0m
+2023-09-24 21:37:03,346  * Restarting with stat
+2023-09-24 21:37:03,931  * Debugger is active!
+2023-09-24 21:37:03,936  * Debugger PIN: 124-747-496
+2023-09-24 21:37:07,950 127.0.0.1 - - [24/Sep/2023 21:37:07] "POST /webonlinevalidatelocation HTTP/1.1" 200 -
+2023-09-24 21:37:27,362 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:37:27,423 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_OnlineValidateLocation?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:37:27,454 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_OnlineValidateLocation?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:37:27,576 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_OnlineValidateLocation?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 21:37:27,578 127.0.0.1 - - [24/Sep/2023 21:37:27] "POST /webonlinevalidatelocation HTTP/1.1" 200 -
+2023-09-24 21:39:26,992  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:39:27,307  * Restarting with stat
+2023-09-24 21:39:31,914  * Debugger is active!
+2023-09-24 21:39:31,923  * Debugger PIN: 124-747-496
+2023-09-24 21:39:42,131  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:39:42,192  * Restarting with stat
+2023-09-24 21:39:42,862  * Debugger is active!
+2023-09-24 21:39:42,874  * Debugger PIN: 124-747-496
+2023-09-24 21:39:55,060  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:39:55,141  * Restarting with stat
+2023-09-24 21:39:55,737  * Debugger is active!
+2023-09-24 21:39:55,743  * Debugger PIN: 124-747-496
+2023-09-24 21:40:04,932  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:40:05,020  * Restarting with stat
+2023-09-24 21:40:06,184  * Debugger is active!
+2023-09-24 21:40:06,196  * Debugger PIN: 124-747-496
+2023-09-24 21:40:29,923  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:40:30,013  * Restarting with stat
+2023-09-24 21:40:33,305  * Debugger is active!
+2023-09-24 21:40:33,314  * Debugger PIN: 124-747-496
+2023-09-24 21:40:46,988 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:40:46,990 [33mPress CTRL+C to quit[0m
+2023-09-24 21:40:46,991  * Restarting with stat
+2023-09-24 21:40:47,589  * Debugger is active!
+2023-09-24 21:40:47,594  * Debugger PIN: 124-747-496
+2023-09-24 21:40:49,503 127.0.0.1 - - [24/Sep/2023 21:40:49] "POST /webvalidatedocumentnofgmanufacturing HTTP/1.1" 200 -
+2023-09-24 21:41:02,536 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:41:02,595 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocumentNoFGManufacturing?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:41:02,631 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocumentNoFGManufacturing?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:41:02,763 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateDocumentNoFGManufacturing?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 21:41:02,765 127.0.0.1 - - [24/Sep/2023 21:41:02] "POST /webvalidatedocumentnofgmanufacturing HTTP/1.1" 200 -
+2023-09-24 21:44:38,772  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:44:39,893  * Restarting with stat
+2023-09-24 21:44:45,980  * Debugger is active!
+2023-09-24 21:44:45,998  * Debugger PIN: 124-747-496
+2023-09-24 21:44:54,291  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:44:54,356  * Restarting with stat
+2023-09-24 21:44:55,392  * Debugger is active!
+2023-09-24 21:44:55,400  * Debugger PIN: 124-747-496
+2023-09-24 21:45:01,511  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:45:01,604  * Restarting with stat
+2023-09-24 21:45:02,602  * Debugger is active!
+2023-09-24 21:45:02,611  * Debugger PIN: 124-747-496
+2023-09-24 21:45:15,431  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:45:15,627  * Restarting with stat
+2023-09-24 21:45:18,522  * Debugger is active!
+2023-09-24 21:45:18,537  * Debugger PIN: 124-747-496
+2023-09-24 21:45:33,000  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:45:33,079  * Restarting with stat
+2023-09-24 21:45:35,138  * Debugger is active!
+2023-09-24 21:45:35,176  * Debugger PIN: 124-747-496
+2023-09-24 21:45:39,300  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:45:39,368  * Restarting with stat
+2023-09-24 21:45:41,205  * Debugger is active!
+2023-09-24 21:45:41,218  * Debugger PIN: 124-747-496
+2023-09-24 21:45:49,643 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:45:49,643 [33mPress CTRL+C to quit[0m
+2023-09-24 21:45:49,645  * Restarting with stat
+2023-09-24 21:45:50,197  * Debugger is active!
+2023-09-24 21:45:50,200  * Debugger PIN: 124-747-496
+2023-09-24 21:45:56,581 127.0.0.1 - - [24/Sep/2023 21:45:56] "POST /webvalidatearticalbarcode HTTP/1.1" 200 -
+2023-09-24 21:46:10,136 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:46:10,199 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:46:10,232 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:46:10,357 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 21:46:10,359 127.0.0.1 - - [24/Sep/2023 21:46:10] "POST /webvalidatearticalbarcode HTTP/1.1" 200 -
+2023-09-24 21:49:26,227  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:49:26,400  * Restarting with stat
+2023-09-24 21:49:29,233  * Debugger is active!
+2023-09-24 21:49:29,268  * Debugger PIN: 124-747-496
+2023-09-24 21:49:39,473  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:49:41,607  * Restarting with stat
+2023-09-24 21:49:47,677  * Debugger is active!
+2023-09-24 21:49:47,697  * Debugger PIN: 124-747-496
+2023-09-24 21:49:50,079  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:49:50,287  * Restarting with stat
+2023-09-24 21:49:57,665  * Debugger is active!
+2023-09-24 21:49:57,714  * Debugger PIN: 124-747-496
+2023-09-24 21:50:00,909  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:50:01,084  * Restarting with stat
+2023-09-24 21:50:02,876  * Debugger is active!
+2023-09-24 21:50:02,884  * Debugger PIN: 124-747-496
+2023-09-24 21:50:28,395  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:50:28,463  * Restarting with stat
+2023-09-24 21:50:30,609  * Debugger is active!
+2023-09-24 21:50:30,629  * Debugger PIN: 124-747-496
+2023-09-24 21:50:40,484 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:50:40,484 [33mPress CTRL+C to quit[0m
+2023-09-24 21:50:40,485  * Restarting with stat
+2023-09-24 21:50:41,059  * Debugger is active!
+2023-09-24 21:50:41,063  * Debugger PIN: 124-747-496
+2023-09-24 21:50:46,644 127.0.0.1 - - [24/Sep/2023 21:50:46] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 21:51:12,758 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:51:12,839 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:51:12,876 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:51:13,001 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 21:51:13,004 127.0.0.1 - - [24/Sep/2023 21:51:13] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 21:52:19,155  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:52:19,230  * Restarting with stat
+2023-09-24 21:52:31,550 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:52:31,551 [33mPress CTRL+C to quit[0m
+2023-09-24 21:52:31,554  * Restarting with stat
+2023-09-24 21:52:32,243  * Debugger is active!
+2023-09-24 21:52:32,252  * Debugger PIN: 124-747-496
+2023-09-24 21:52:34,327 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 21:52:34,392 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 21:52:34,425 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 21:52:34,534 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 21:52:34,536 127.0.0.1 - - [24/Sep/2023 21:52:34] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 21:52:50,973 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 21:52:50,973 [33mPress CTRL+C to quit[0m
+2023-09-24 21:52:50,976  * Restarting with stat
+2023-09-24 21:52:52,187  * Debugger is active!
+2023-09-24 21:52:52,212  * Debugger PIN: 124-747-496
+2023-09-24 21:56:06,068  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:56:06,232  * Restarting with stat
+2023-09-24 21:56:08,060  * Debugger is active!
+2023-09-24 21:56:08,068  * Debugger PIN: 124-747-496
+2023-09-24 21:56:32,566  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:56:32,674  * Restarting with stat
+2023-09-24 21:56:34,643  * Debugger is active!
+2023-09-24 21:56:34,661  * Debugger PIN: 124-747-496
+2023-09-24 21:57:59,954  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 21:58:00,033  * Restarting with stat
+2023-09-24 21:58:00,884  * Debugger is active!
+2023-09-24 21:58:00,892  * Debugger PIN: 124-747-496
+2023-09-24 21:59:59,920  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:00:00,008  * Restarting with stat
+2023-09-24 22:03:34,817 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:03:34,818 [33mPress CTRL+C to quit[0m
+2023-09-24 22:03:34,820  * Restarting with stat
+2023-09-24 22:03:35,430  * Debugger is active!
+2023-09-24 22:03:35,450  * Debugger PIN: 124-747-496
+2023-09-24 22:03:38,624 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:03:38,706 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:03:38,739 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:03:38,867 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 22:03:38,879 127.0.0.1 - - [24/Sep/2023 22:03:38] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 22:04:08,050  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:04:08,168  * Restarting with stat
+2023-09-24 22:04:14,747 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:04:14,747 [33mPress CTRL+C to quit[0m
+2023-09-24 22:04:14,750  * Restarting with stat
+2023-09-24 22:04:15,993  * Debugger is active!
+2023-09-24 22:04:16,009  * Debugger PIN: 124-747-496
+2023-09-24 22:04:17,722 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:04:17,789 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:04:17,823 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:04:24,141 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 22:04:24,144 127.0.0.1 - - [24/Sep/2023 22:04:24] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 22:06:32,493 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:06:32,559 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:06:32,601 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:06:32,648 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 22:06:32,649 127.0.0.1 - - [24/Sep/2023 22:06:32] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 22:08:34,853  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:08:34,931  * Restarting with stat
+2023-09-24 22:08:35,775  * Debugger is active!
+2023-09-24 22:08:35,780  * Debugger PIN: 124-747-496
+2023-09-24 22:08:42,221 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:08:42,221 [33mPress CTRL+C to quit[0m
+2023-09-24 22:08:42,224  * Restarting with stat
+2023-09-24 22:08:43,012  * Debugger is active!
+2023-09-24 22:08:43,019  * Debugger PIN: 124-747-496
+2023-09-24 22:08:46,046 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:08:46,120 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:08:46,159 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:08:46,270 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 22:08:46,271 127.0.0.1 - - [24/Sep/2023 22:08:46] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 22:10:20,066  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:10:20,174  * Restarting with stat
+2023-09-24 22:10:22,422  * Debugger is active!
+2023-09-24 22:10:22,440  * Debugger PIN: 124-747-496
+2023-09-24 22:10:26,243 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:10:26,243 [33mPress CTRL+C to quit[0m
+2023-09-24 22:10:26,246  * Restarting with stat
+2023-09-24 22:10:26,918  * Debugger is active!
+2023-09-24 22:10:26,923  * Debugger PIN: 124-747-496
+2023-09-24 22:10:31,279 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:10:31,347 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:10:31,380 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:10:31,903 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 22:10:31,904 127.0.0.1 - - [24/Sep/2023 22:10:31] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 22:11:21,158  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:11:21,901  * Restarting with stat
+2023-09-24 22:11:33,153  * Debugger is active!
+2023-09-24 22:11:33,200  * Debugger PIN: 124-747-496
+2023-09-24 22:14:16,994  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:14:17,062  * Restarting with stat
+2023-09-24 22:14:18,450  * Debugger is active!
+2023-09-24 22:14:18,458  * Debugger PIN: 124-747-496
+2023-09-24 22:14:25,763 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:14:25,763 [33mPress CTRL+C to quit[0m
+2023-09-24 22:14:25,766  * Restarting with stat
+2023-09-24 22:14:26,669  * Debugger is active!
+2023-09-24 22:14:26,678  * Debugger PIN: 124-747-496
+2023-09-24 22:14:29,118 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:14:29,192 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:14:29,226 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:14:30,012 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 22:14:30,025 127.0.0.1 - - [24/Sep/2023 22:14:30] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 22:15:48,918  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:15:49,696  * Restarting with stat
+2023-09-24 22:15:54,429  * Debugger is active!
+2023-09-24 22:15:54,435  * Debugger PIN: 124-747-496
+2023-09-24 22:15:55,466  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:15:55,519  * Restarting with stat
+2023-09-24 22:15:56,690  * Debugger is active!
+2023-09-24 22:15:56,716  * Debugger PIN: 124-747-496
+2023-09-24 22:16:01,889 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:16:01,889 [33mPress CTRL+C to quit[0m
+2023-09-24 22:16:01,891  * Restarting with stat
+2023-09-24 22:16:02,504  * Debugger is active!
+2023-09-24 22:16:02,510  * Debugger PIN: 124-747-496
+2023-09-24 22:16:05,034 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:16:05,214 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:16:05,250 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:16:05,521 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 22:16:05,525 127.0.0.1 - - [24/Sep/2023 22:16:05] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 22:16:35,755  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:16:35,900  * Restarting with stat
+2023-09-24 22:16:37,182  * Debugger is active!
+2023-09-24 22:16:37,189  * Debugger PIN: 124-747-496
+2023-09-24 22:16:43,221 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:16:43,221 [33mPress CTRL+C to quit[0m
+2023-09-24 22:16:43,223  * Restarting with stat
+2023-09-24 22:16:43,877  * Debugger is active!
+2023-09-24 22:16:43,883  * Debugger PIN: 124-747-496
+2023-09-24 22:16:45,987 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:16:46,052 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:16:46,085 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:16:46,174 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 22:16:46,209 127.0.0.1 - - [24/Sep/2023 22:16:46] "[35m[1mPOST /webTransferLnArticalBarcodedp HTTP/1.1[0m" 500 -
+2023-09-24 22:17:23,553 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:17:23,554 [33mPress CTRL+C to quit[0m
+2023-09-24 22:17:23,563  * Restarting with stat
+2023-09-24 22:17:26,270  * Debugger is active!
+2023-09-24 22:17:26,293  * Debugger PIN: 124-747-496
+2023-09-24 22:17:27,179 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:17:27,246 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:17:27,281 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:17:27,451 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 22:17:27,552 127.0.0.1 - - [24/Sep/2023 22:17:27] "[35m[1mPOST /webTransferLnArticalBarcodedp HTTP/1.1[0m" 500 -
+2023-09-24 22:17:46,137  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:17:47,273  * Restarting with stat
+2023-09-24 22:18:05,891 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:18:05,892 [33mPress CTRL+C to quit[0m
+2023-09-24 22:18:05,909  * Restarting with stat
+2023-09-24 22:18:26,796  * Debugger is active!
+2023-09-24 22:18:26,899  * Debugger PIN: 124-747-496
+2023-09-24 22:18:27,644 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:18:27,762 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:18:27,817 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:18:29,912 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_TransferLnArticalBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 404 203
+2023-09-24 22:18:29,930 127.0.0.1 - - [24/Sep/2023 22:18:29] "POST /webTransferLnArticalBarcodedp HTTP/1.1" 200 -
+2023-09-24 22:23:49,478 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:23:49,479 [33mPress CTRL+C to quit[0m
+2023-09-24 22:23:49,480  * Restarting with stat
+2023-09-24 22:23:50,086  * Debugger is active!
+2023-09-24 22:23:50,092  * Debugger PIN: 124-747-496
+2023-09-24 22:23:52,959 127.0.0.1 - - [24/Sep/2023 22:23:52] "POST /webonlinevalidatetrnsfrshpbarcode HTTP/1.1" 200 -
+2023-09-24 22:24:09,600 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:24:09,668 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_OnlineValidateTrnsfrShpBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:24:09,700 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_OnlineValidateTrnsfrShpBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:24:10,656 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_OnlineValidateTrnsfrShpBarcode?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 22:24:10,658 127.0.0.1 - - [24/Sep/2023 22:24:10] "POST /webonlinevalidatetrnsfrshpbarcode HTTP/1.1" 200 -
+2023-09-24 22:26:25,705  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:26:26,062  * Restarting with stat
+2023-09-24 22:26:28,132  * Debugger is active!
+2023-09-24 22:26:28,166  * Debugger PIN: 124-747-496
+2023-09-24 22:26:41,980  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:26:42,113  * Restarting with stat
+2023-09-24 22:26:43,723  * Debugger is active!
+2023-09-24 22:26:43,734  * Debugger PIN: 124-747-496
+2023-09-24 22:26:54,150  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:26:54,350  * Restarting with stat
+2023-09-24 22:26:58,082  * Debugger is active!
+2023-09-24 22:26:58,141  * Debugger PIN: 124-747-496
+2023-09-24 22:27:10,685  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:27:10,902  * Restarting with stat
+2023-09-24 22:27:14,971  * Debugger is active!
+2023-09-24 22:27:14,989  * Debugger PIN: 124-747-496
+2023-09-24 22:27:17,108  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:27:17,275  * Restarting with stat
+2023-09-24 22:27:22,667  * Debugger is active!
+2023-09-24 22:27:22,682  * Debugger PIN: 124-747-496
+2023-09-24 22:27:35,575 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:27:35,575 [33mPress CTRL+C to quit[0m
+2023-09-24 22:27:35,579  * Restarting with stat
+2023-09-24 22:27:38,696  * Debugger is active!
+2023-09-24 22:27:38,769  * Debugger PIN: 124-747-496
+2023-09-24 22:42:31,489  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:42:31,584  * Restarting with stat
+2023-09-24 22:42:36,147  * Debugger is active!
+2023-09-24 22:42:36,153  * Debugger PIN: 124-747-496
+2023-09-24 22:42:43,719  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:42:43,877  * Restarting with stat
+2023-09-24 22:42:45,886  * Debugger is active!
+2023-09-24 22:42:45,900  * Debugger PIN: 124-747-496
+2023-09-24 22:43:03,843  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:43:03,997  * Restarting with stat
+2023-09-24 22:43:05,241  * Debugger is active!
+2023-09-24 22:43:05,249  * Debugger PIN: 124-747-496
+2023-09-24 22:43:12,560  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:43:12,653  * Restarting with stat
+2023-09-24 22:43:14,305  * Debugger is active!
+2023-09-24 22:43:14,314  * Debugger PIN: 124-747-496
+2023-09-24 22:43:22,184 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:43:22,186 [33mPress CTRL+C to quit[0m
+2023-09-24 22:43:22,187  * Restarting with stat
+2023-09-24 22:43:22,759  * Debugger is active!
+2023-09-24 22:43:22,763  * Debugger PIN: 124-747-496
+2023-09-24 22:50:32,714  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:50:32,866  * Restarting with stat
+2023-09-24 22:50:34,768  * Debugger is active!
+2023-09-24 22:50:34,781  * Debugger PIN: 124-747-496
+2023-09-24 22:51:14,292  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:51:14,430  * Restarting with stat
+2023-09-24 22:51:23,140  * Debugger is active!
+2023-09-24 22:51:23,169  * Debugger PIN: 124-747-496
+2023-09-24 22:51:25,970  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:51:26,382  * Restarting with stat
+2023-09-24 22:51:38,108  * Debugger is active!
+2023-09-24 22:51:38,198  * Debugger PIN: 124-747-496
+2023-09-24 22:51:50,579  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:51:51,864  * Restarting with stat
+2023-09-24 22:52:14,591  * Debugger is active!
+2023-09-24 22:52:14,616  * Debugger PIN: 124-747-496
+2023-09-24 22:52:15,781  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:52:16,041  * Restarting with stat
+2023-09-24 22:52:20,833  * Debugger is active!
+2023-09-24 22:52:20,850  * Debugger PIN: 124-747-496
+2023-09-24 22:52:31,494 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:52:31,494 [33mPress CTRL+C to quit[0m
+2023-09-24 22:52:31,496  * Restarting with stat
+2023-09-24 22:52:32,060  * Debugger is active!
+2023-09-24 22:52:32,066  * Debugger PIN: 124-747-496
+2023-09-24 22:52:49,107 127.0.0.1 - - [24/Sep/2023 22:52:49] "POST /webvDocumentNoFGManufac HTTP/1.1" 200 -
+2023-09-24 22:53:03,021 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 22:53:03,095 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_VDocumentNoFGManufac?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 22:53:03,130 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_VDocumentNoFGManufac?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 22:53:03,703 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_VDocumentNoFGManufac?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 22:53:03,707 127.0.0.1 - - [24/Sep/2023 22:53:03] "POST /webvDocumentNoFGManufac HTTP/1.1" 200 -
+2023-09-24 22:56:27,311  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:56:27,435  * Restarting with stat
+2023-09-24 22:56:28,588  * Debugger is active!
+2023-09-24 22:56:28,595  * Debugger PIN: 124-747-496
+2023-09-24 22:57:04,875  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:57:05,031  * Restarting with stat
+2023-09-24 22:57:07,328  * Debugger is active!
+2023-09-24 22:57:07,340  * Debugger PIN: 124-747-496
+2023-09-24 22:57:32,428  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:57:32,493  * Restarting with stat
+2023-09-24 22:57:33,255  * Debugger is active!
+2023-09-24 22:57:33,264  * Debugger PIN: 124-747-496
+2023-09-24 22:58:38,863  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:58:38,937  * Restarting with stat
+2023-09-24 22:58:39,835  * Debugger is active!
+2023-09-24 22:58:39,842  * Debugger PIN: 124-747-496
+2023-09-24 22:58:49,028  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:58:49,133  * Restarting with stat
+2023-09-24 22:58:50,871  * Debugger is active!
+2023-09-24 22:58:50,881  * Debugger PIN: 124-747-496
+2023-09-24 22:59:01,216  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:59:01,376  * Restarting with stat
+2023-09-24 22:59:04,761  * Debugger is active!
+2023-09-24 22:59:04,784  * Debugger PIN: 124-747-496
+2023-09-24 22:59:22,305  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 22:59:22,466  * Restarting with stat
+2023-09-24 22:59:24,696  * Debugger is active!
+2023-09-24 22:59:24,710  * Debugger PIN: 124-747-496
+2023-09-24 22:59:37,574 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 22:59:37,574 [33mPress CTRL+C to quit[0m
+2023-09-24 22:59:37,577  * Restarting with stat
+2023-09-24 22:59:38,454  * Debugger is active!
+2023-09-24 22:59:38,461  * Debugger PIN: 124-747-496
+2023-09-24 23:01:54,166 {'Srlno': '100423ST00001'}
+2023-09-24 23:01:54,171 127.0.0.1 - - [24/Sep/2023 23:01:54] "POST /webvalidatemanuserialno HTTP/1.1" 200 -
+2023-09-24 23:02:18,579 {'CompanyCode': 'BCPL', 'Srlno': '100423ST00001'}
+2023-09-24 23:02:18,600 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:02:21,762 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateManuSerialNo?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:02:21,808 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateManuSerialNo?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:02:22,665 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateManuSerialNo?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:02:22,690 127.0.0.1 - - [24/Sep/2023 23:02:22] "POST /webvalidatemanuserialno HTTP/1.1" 200 -
+2023-09-24 23:05:34,970  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:05:35,056  * Restarting with stat
+2023-09-24 23:05:35,693  * Debugger is active!
+2023-09-24 23:05:35,698  * Debugger PIN: 124-747-496
+2023-09-24 23:06:12,672  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:06:12,766  * Restarting with stat
+2023-09-24 23:06:14,620  * Debugger is active!
+2023-09-24 23:06:14,634  * Debugger PIN: 124-747-496
+2023-09-24 23:09:31,022  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:09:31,609  * Restarting with stat
+2023-09-24 23:09:49,056  * Debugger is active!
+2023-09-24 23:09:49,300  * Debugger PIN: 124-747-496
+2023-09-24 23:09:50,868  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:09:50,943  * Restarting with stat
+2023-09-24 23:09:52,588  * Debugger is active!
+2023-09-24 23:09:52,599  * Debugger PIN: 124-747-496
+2023-09-24 23:10:02,335  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:10:02,591  * Restarting with stat
+2023-09-24 23:10:05,951  * Debugger is active!
+2023-09-24 23:10:05,962  * Debugger PIN: 124-747-496
+2023-09-24 23:10:37,733  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:10:37,854  * Restarting with stat
+2023-09-24 23:10:39,478  * Debugger is active!
+2023-09-24 23:10:39,492  * Debugger PIN: 124-747-496
+2023-09-24 23:11:14,401  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:11:14,488  * Restarting with stat
+2023-09-24 23:11:17,247  * Debugger is active!
+2023-09-24 23:11:17,260  * Debugger PIN: 124-747-496
+2023-09-24 23:11:35,031  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:11:35,524  * Restarting with stat
+2023-09-24 23:11:36,663  * Debugger is active!
+2023-09-24 23:11:36,669  * Debugger PIN: 124-747-496
+2023-09-24 23:11:41,867  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:11:41,950  * Restarting with stat
+2023-09-24 23:11:44,381  * Debugger is active!
+2023-09-24 23:11:44,394  * Debugger PIN: 124-747-496
+2023-09-24 23:12:03,761  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:12:03,853  * Restarting with stat
+2023-09-24 23:12:04,820  * Debugger is active!
+2023-09-24 23:12:04,828  * Debugger PIN: 124-747-496
+2023-09-24 23:12:15,260  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:12:15,351  * Restarting with stat
+2023-09-24 23:12:17,051  * Debugger is active!
+2023-09-24 23:12:17,068  * Debugger PIN: 124-747-496
+2023-09-24 23:12:39,351  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:12:39,420  * Restarting with stat
+2023-09-24 23:12:40,306  * Debugger is active!
+2023-09-24 23:12:40,321  * Debugger PIN: 124-747-496
+2023-09-24 23:12:52,914 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 23:12:52,914 [33mPress CTRL+C to quit[0m
+2023-09-24 23:12:52,916  * Restarting with stat
+2023-09-24 23:12:53,471  * Debugger is active!
+2023-09-24 23:12:53,476  * Debugger PIN: 124-747-496
+2023-09-24 23:12:56,878 {'Srlno': '100423ST00001', 'UserID': 'E101'}
+2023-09-24 23:12:56,880 127.0.0.1 - - [24/Sep/2023 23:12:56] "POST /webfgupdatetransferorderqty HTTP/1.1" 200 -
+2023-09-24 23:13:16,965 {'CompanyCode': 'BCPL', 'Srlno': '100423ST00001', 'UserID': 'E101'}
+2023-09-24 23:13:16,968 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:13:17,027 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_FGUpdateTransferOrderQty?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:13:17,058 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_FGUpdateTransferOrderQty?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:13:17,143 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_FGUpdateTransferOrderQty?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 400 281
+2023-09-24 23:13:17,144 127.0.0.1 - - [24/Sep/2023 23:13:17] "POST /webfgupdatetransferorderqty HTTP/1.1" 200 -
+2023-09-24 23:16:16,091 {'CompanyCode': 'BCPL', 'Srlno': '100423ST00001', 'UserID': 'E101'}
+2023-09-24 23:16:16,092 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:16:16,157 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_FGUpdateTransferOrderQty?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:16:16,190 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_FGUpdateTransferOrderQty?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:16:18,205 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_FGUpdateTransferOrderQty?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:16:18,207 127.0.0.1 - - [24/Sep/2023 23:16:18] "POST /webfgupdatetransferorderqty HTTP/1.1" 200 -
+2023-09-24 23:27:34,249  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:27:34,789  * Restarting with stat
+2023-09-24 23:27:45,030  * Debugger is active!
+2023-09-24 23:27:45,066  * Debugger PIN: 124-747-496
+2023-09-24 23:27:55,348  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:27:55,420  * Restarting with stat
+2023-09-24 23:27:56,013  * Debugger is active!
+2023-09-24 23:27:56,018  * Debugger PIN: 124-747-496
+2023-09-24 23:28:01,087  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:28:01,143  * Restarting with stat
+2023-09-24 23:28:01,727  * Debugger is active!
+2023-09-24 23:28:01,731  * Debugger PIN: 124-747-496
+2023-09-24 23:28:19,299  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:28:19,401  * Restarting with stat
+2023-09-24 23:28:20,269  * Debugger is active!
+2023-09-24 23:28:20,285  * Debugger PIN: 124-747-496
+2023-09-24 23:28:45,106  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:28:45,167  * Restarting with stat
+2023-09-24 23:28:45,822  * Debugger is active!
+2023-09-24 23:28:45,826  * Debugger PIN: 124-747-496
+2023-09-24 23:28:55,190 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 23:28:55,191 [33mPress CTRL+C to quit[0m
+2023-09-24 23:28:55,192  * Restarting with stat
+2023-09-24 23:28:55,746  * Debugger is active!
+2023-09-24 23:28:55,751  * Debugger PIN: 124-747-496
+2023-09-24 23:32:23,934  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:32:24,045  * Restarting with stat
+2023-09-24 23:32:26,509  * Debugger is active!
+2023-09-24 23:32:26,562  * Debugger PIN: 124-747-496
+2023-09-24 23:35:15,226  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:35:17,023  * Restarting with stat
+2023-09-24 23:35:35,652  * Debugger is active!
+2023-09-24 23:35:35,735  * Debugger PIN: 124-747-496
+2023-09-24 23:40:35,408  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:40:35,475  * Restarting with stat
+2023-09-24 23:40:39,273  * Debugger is active!
+2023-09-24 23:40:39,285  * Debugger PIN: 124-747-496
+2023-09-24 23:41:20,534  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:41:20,793  * Restarting with stat
+2023-09-24 23:41:24,226  * Debugger is active!
+2023-09-24 23:41:24,236  * Debugger PIN: 124-747-496
+2023-09-24 23:41:59,386  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:41:59,546  * Restarting with stat
+2023-09-24 23:42:03,396  * Debugger is active!
+2023-09-24 23:42:03,421  * Debugger PIN: 124-747-496
+2023-09-24 23:42:17,376  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:42:17,754  * Restarting with stat
+2023-09-24 23:42:21,702  * Debugger is active!
+2023-09-24 23:42:21,718  * Debugger PIN: 124-747-496
+2023-09-24 23:43:01,993  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:43:02,606  * Restarting with stat
+2023-09-24 23:43:20,789  * Debugger is active!
+2023-09-24 23:43:20,851  * Debugger PIN: 124-747-496
+2023-09-24 23:43:55,803  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:43:56,402  * Restarting with stat
+2023-09-24 23:44:06,042  * Debugger is active!
+2023-09-24 23:44:06,099  * Debugger PIN: 124-747-496
+2023-09-24 23:44:17,137  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:44:17,500  * Restarting with stat
+2023-09-24 23:44:27,930  * Debugger is active!
+2023-09-24 23:44:27,993  * Debugger PIN: 124-747-496
+2023-09-24 23:44:48,884  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-24 23:44:49,053  * Restarting with stat
+2023-09-24 23:44:53,084  * Debugger is active!
+2023-09-24 23:44:53,095  * Debugger PIN: 124-747-496
+2023-09-24 23:46:13,804 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 23:46:13,805 [33mPress CTRL+C to quit[0m
+2023-09-24 23:46:13,806  * Restarting with stat
+2023-09-24 23:46:14,373  * Debugger is active!
+2023-09-24 23:46:14,378  * Debugger PIN: 124-747-496
+2023-09-24 23:46:36,618 {'UserID': 'HJ', 'PWS': '1234', 'LoginType': 'ASM/RSM'}
+2023-09-24 23:46:36,620 127.0.0.1 - - [24/Sep/2023 23:46:36] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:46:52,821 {'CompanyCode': 'BCPL', 'UserID': 'HJ', 'PWS': '1234', 'LoginType': 'ASM/RSM'}
+2023-09-24 23:46:52,826 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:46:52,889 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:46:52,932 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:46:53,224 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:46:53,226 127.0.0.1 - - [24/Sep/2023 23:46:53] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:47:00,578 {'CompanyCode': 'BCPL', 'UserID': 'C114', 'PWS': '1234', 'LoginType': 'ASM/RSM'}
+2023-09-24 23:47:00,580 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:47:00,641 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:47:00,675 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:47:00,719 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:47:00,721 127.0.0.1 - - [24/Sep/2023 23:47:00] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:47:09,051 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'ASM/RSM'}
+2023-09-24 23:47:09,053 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:47:09,113 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:47:09,145 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:47:09,191 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:47:09,194 127.0.0.1 - - [24/Sep/2023 23:47:09] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:48:48,221 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 23:48:48,221 [33mPress CTRL+C to quit[0m
+2023-09-24 23:48:48,224  * Restarting with stat
+2023-09-24 23:48:49,339  * Debugger is active!
+2023-09-24 23:48:49,349  * Debugger PIN: 124-747-496
+2023-09-24 23:48:50,753 {'CompanyCode': 'BCPL', 'UserID': 'ADMIN', 'PWS': '9982', 'LoginType': 'ASM/RSM'}
+2023-09-24 23:48:50,755 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:48:50,818 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:48:50,853 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:48:50,942 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:48:50,946 127.0.0.1 - - [24/Sep/2023 23:48:50] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:48:51,095 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:48:51,157 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:48:51,190 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:48:51,232 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:48:51,233 127.0.0.1 - - [24/Sep/2023 23:48:51] "POST /webvalidatewebcustomerdp HTTP/1.1" 200 -
+2023-09-24 23:48:51,348 {'UserID': 'ADMIN', 'PWS': '9982', 'LoginType': 'SOEP'}
+2023-09-24 23:48:51,350 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:48:51,426 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:48:51,458 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:48:51,498 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:48:51,499 127.0.0.1 - - [24/Sep/2023 23:48:51] "POST /webvalidatewebuserdp HTTP/1.1" 200 -
+2023-09-24 23:48:51,505 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:48:51,576 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:48:51,605 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:48:51,646 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:48:51,647 127.0.0.1 - - [24/Sep/2023 23:48:51] "POST /webvalidatewebcustomerdp HTTP/1.1" 200 -
+2023-09-24 23:48:52,349 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:48:52,414 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:48:52,445 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:48:52,663 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:48:52,902 127.0.0.1 - - [24/Sep/2023 23:48:52] "POST /webwebuserexportdp HTTP/1.1" 200 -
+2023-09-24 23:48:53,021 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:48:53,094 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:48:53,126 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:48:53,169 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:48:53,172 127.0.0.1 - - [24/Sep/2023 23:48:53] "POST /webordercategoryexportdp HTTP/1.1" 200 -
+2023-09-24 23:48:53,183 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:48:53,245 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:48:53,283 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:48:53,324 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:48:53,326 127.0.0.1 - - [24/Sep/2023 23:48:53] "POST /webitemcategoryexportdp HTTP/1.1" 200 -
+2023-09-24 23:49:10,364 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 23:49:10,364 [33mPress CTRL+C to quit[0m
+2023-09-24 23:49:10,369  * Restarting with stat
+2023-09-24 23:49:12,263  * Debugger is active!
+2023-09-24 23:49:12,279  * Debugger PIN: 124-747-496
+2023-09-24 23:49:28,957 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'Distributor'}
+2023-09-24 23:49:28,961 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:49:29,026 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:49:29,059 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:49:29,183 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:49:29,185 127.0.0.1 - - [24/Sep/2023 23:49:29] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:49:29,193 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:49:29,253 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:49:29,287 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:49:29,327 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:49:29,330 127.0.0.1 - - [24/Sep/2023 23:49:29] "POST /webvalidatewebcustomerdp HTTP/1.1" 200 -
+2023-09-24 23:49:29,398 {'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'SOEP'}
+2023-09-24 23:49:29,401 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:49:29,463 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:49:29,494 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:49:29,536 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:49:29,539 127.0.0.1 - - [24/Sep/2023 23:49:29] "POST /webvalidatewebuserdp HTTP/1.1" 200 -
+2023-09-24 23:49:34,412 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:49:34,476 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:49:34,512 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:49:34,555 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:49:34,557 127.0.0.1 - - [24/Sep/2023 23:49:34] "POST /webwebuserexportdp HTTP/1.1" 200 -
+2023-09-24 23:49:34,636 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:49:34,701 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:49:34,734 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:49:34,777 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:49:34,780 127.0.0.1 - - [24/Sep/2023 23:49:34] "POST /webordercategoryexportdp HTTP/1.1" 200 -
+2023-09-24 23:49:34,799 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:49:34,858 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:49:34,891 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:49:34,938 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:49:34,942 127.0.0.1 - - [24/Sep/2023 23:49:34] "POST /webitemcategoryexportdp HTTP/1.1" 200 -
+2023-09-24 23:50:01,856 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'Distributor'}
+2023-09-24 23:50:01,858 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:50:01,930 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:50:01,968 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:50:02,006 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:50:02,009 127.0.0.1 - - [24/Sep/2023 23:50:02] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:50:15,377 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-24 23:50:15,377 [33mPress CTRL+C to quit[0m
+2023-09-24 23:50:15,382  * Restarting with stat
+2023-09-24 23:50:16,994  * Debugger is active!
+2023-09-24 23:50:17,006  * Debugger PIN: 124-747-496
+2023-09-24 23:50:30,245 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'Distributor'}
+2023-09-24 23:50:30,248 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:50:30,312 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:50:30,345 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:50:30,465 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:50:30,469 127.0.0.1 - - [24/Sep/2023 23:50:30] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:50:30,478 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:50:30,574 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:50:30,613 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:50:30,652 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:50:30,653 127.0.0.1 - - [24/Sep/2023 23:50:30] "POST /webvalidatewebcustomerdp HTTP/1.1" 200 -
+2023-09-24 23:50:30,706 {'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'SOEP'}
+2023-09-24 23:50:30,708 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:50:30,772 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:50:30,808 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:50:30,850 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:50:30,854 127.0.0.1 - - [24/Sep/2023 23:50:30] "POST /webvalidatewebuserdp HTTP/1.1" 200 -
+2023-09-24 23:50:32,664 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:50:32,728 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:50:32,760 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:50:32,801 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:50:32,804 127.0.0.1 - - [24/Sep/2023 23:50:32] "POST /webwebuserexportdp HTTP/1.1" 200 -
+2023-09-24 23:50:32,954 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:50:33,017 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:50:33,049 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:50:33,091 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:50:33,094 127.0.0.1 - - [24/Sep/2023 23:50:33] "POST /webordercategoryexportdp HTTP/1.1" 200 -
+2023-09-24 23:50:33,111 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:50:33,176 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:50:33,207 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:50:33,248 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:50:33,251 127.0.0.1 - - [24/Sep/2023 23:50:33] "POST /webitemcategoryexportdp HTTP/1.1" 200 -
+2023-09-24 23:51:54,326 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'Distributor'}
+2023-09-24 23:51:54,334 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:51:54,396 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:51:54,440 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:51:54,495 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:51:54,500 127.0.0.1 - - [24/Sep/2023 23:51:54] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:52:09,961 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'Distributor'}
+2023-09-24 23:52:09,966 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:52:10,032 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:52:10,066 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:52:10,114 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:52:10,117 127.0.0.1 - - [24/Sep/2023 23:52:10] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:53:02,213 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:53:02,275 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:53:02,309 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:53:02,356 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:53:02,357 127.0.0.1 - - [24/Sep/2023 23:53:02] "POST /webvalidatewebcustomerdp HTTP/1.1" 200 -
+2023-09-24 23:53:28,779 {'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'SOEP'}
+2023-09-24 23:53:28,790 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:53:28,857 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:53:28,895 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:53:28,956 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:53:28,965 127.0.0.1 - - [24/Sep/2023 23:53:28] "POST /webvalidatewebuserdp HTTP/1.1" 200 -
+2023-09-24 23:54:16,453 {'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'Distributor'}
+2023-09-24 23:54:16,454 127.0.0.1 - - [24/Sep/2023 23:54:16] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:55:22,968 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'Distributor'}
+2023-09-24 23:55:22,970 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:23,034 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:23,067 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:23,116 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:23,119 127.0.0.1 - - [24/Sep/2023 23:55:23] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:55:23,261 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:23,323 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:23,357 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:23,393 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:23,395 127.0.0.1 - - [24/Sep/2023 23:55:23] "POST /webvalidatewebcustomerdp HTTP/1.1" 200 -
+2023-09-24 23:55:23,472 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'SOEP'}
+2023-09-24 23:55:23,474 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:23,544 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:23,576 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:23,614 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:23,618 127.0.0.1 - - [24/Sep/2023 23:55:23] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:55:25,849 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:25,917 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:25,947 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:25,986 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:25,987 127.0.0.1 - - [24/Sep/2023 23:55:25] "POST /webwebuserexportdp HTTP/1.1" 200 -
+2023-09-24 23:55:26,047 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:26,112 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:26,145 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:26,189 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:26,191 127.0.0.1 - - [24/Sep/2023 23:55:26] "POST /webordercategoryexportdp HTTP/1.1" 200 -
+2023-09-24 23:55:26,203 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:26,262 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:26,294 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:26,337 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:26,339 127.0.0.1 - - [24/Sep/2023 23:55:26] "POST /webitemcategoryexportdp HTTP/1.1" 200 -
+2023-09-24 23:55:42,688 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'Distributor'}
+2023-09-24 23:55:42,693 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:42,757 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:42,789 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:42,832 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:42,836 127.0.0.1 - - [24/Sep/2023 23:55:42] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:55:42,844 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:42,910 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:42,944 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:42,984 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:42,987 127.0.0.1 - - [24/Sep/2023 23:55:42] "POST /webvalidatewebcustomerdp HTTP/1.1" 200 -
+2023-09-24 23:55:43,092 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'SOEP'}
+2023-09-24 23:55:43,095 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:43,168 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:43,206 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:43,257 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:43,259 127.0.0.1 - - [24/Sep/2023 23:55:43] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:55:45,471 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:45,534 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:45,568 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:45,612 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_WebUserExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:45,616 127.0.0.1 - - [24/Sep/2023 23:55:45] "POST /webwebuserexportdp HTTP/1.1" 200 -
+2023-09-24 23:55:45,926 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:45,992 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:46,036 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:46,091 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_OrderCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:46,101 127.0.0.1 - - [24/Sep/2023 23:55:46] "POST /webordercategoryexportdp HTTP/1.1" 200 -
+2023-09-24 23:55:46,229 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:55:46,307 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:55:46,344 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:55:46,392 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ItemCategoryExport?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:55:46,404 127.0.0.1 - - [24/Sep/2023 23:55:46] "POST /webitemcategoryexportdp HTTP/1.1" 200 -
+2023-09-24 23:56:46,766 {'CompanyCode': 'BCPL', 'UserID': 'C1114', 'PWS': '1234', 'LoginType': 'Distributor'}
+2023-09-24 23:56:46,770 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:56:46,845 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:56:46,888 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:56:46,943 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebUser?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:56:46,947 127.0.0.1 - - [24/Sep/2023 23:56:46] "POST /webvalidatewebuserdpWindow HTTP/1.1" 200 -
+2023-09-24 23:56:50,288 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-24 23:56:50,368 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-24 23:56:50,403 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-24 23:56:50,449 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/DistibutorPortal_ValidateWebCustomer?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-24 23:56:50,453 127.0.0.1 - - [24/Sep/2023 23:56:50] "POST /webvalidatewebcustomerdp HTTP/1.1" 200 -
+2023-09-25 00:01:08,469  * Detected change in 'C:\\DDive\\NavisionDB\\BCPL\\BusinessCenter\\Python\\newserverlive.py', reloading
+2023-09-25 00:01:08,641  * Restarting with stat
+2023-09-25 00:02:08,099  * Restarting with stat
+2023-09-25 00:02:39,016  * Restarting with stat
+2023-09-25 00:03:03,302  * Restarting with stat
+2023-09-25 00:03:37,628  * Restarting with stat
+2023-09-25 00:03:46,631  * Restarting with stat
+2023-09-25 00:03:58,284  * Restarting with stat
+2023-09-25 00:04:08,770  * Restarting with stat
+2023-09-25 00:04:25,816  * Restarting with stat
+2023-09-25 00:15:18,949  * Restarting with stat
+2023-09-25 00:15:52,715  * Restarting with stat
+2023-09-25 00:16:04,805  * Restarting with stat
+2023-09-25 00:16:30,535  * Restarting with stat
+2023-09-25 00:16:44,031  * Restarting with stat
+2023-09-25 00:17:03,377  * Restarting with stat

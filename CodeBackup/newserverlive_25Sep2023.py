@@ -2077,11 +2077,9 @@ def validatedocbarcode(company_code, doc_bar_code, user_id, template_name, batch
     headers = {
         'Content-Type': 'application/json'
     }
-    #print("Khan")
     response = requests.request("POST", url, headers=headers, data=payload,
                                 auth=HttpNtlmAuth(url + "VMServer1\Ankit", "bcpl@123"))
-    #print("Ali-",response.text)
-    #print("Ali-",response.status_code)
+    print(response.text)
     outputdata = checkresponse(response.status_code, response.json())
     return outputdata
 
@@ -3763,9 +3761,6 @@ def checkresponse(state_code, response):
         try:
             if ("Application" in err_txt.get("code")):
                 return {"Message": err_txt.get("message")}
-            elif ("Internal_InvalidTableRelation" in err_txt.get("code")):
-                return {"Message": err_txt.get("message")}
-
         except Exception as e:
             return err_txt
     elif (state_code == 404):

@@ -1,0 +1,18 @@
+2023-09-13 14:30:16,366 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6262
+2023-09-13 14:30:16,367 [33mPress CTRL+C to quit[0m
+2023-09-13 14:30:16,388  * Restarting with stat
+2023-09-13 14:30:20,031  * Debugger is active!
+2023-09-13 14:30:20,093  * Debugger PIN: 124-747-496
+2023-09-13 14:30:21,733 127.0.0.1 - - [13/Sep/2023 14:30:21] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-13 14:30:35,831 127.0.0.1 - - [13/Sep/2023 14:30:35] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-13 14:30:43,376 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-13 14:30:46,490 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 0
+2023-09-13 14:30:46,539 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 401 341
+2023-09-13 14:30:48,597 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=ANUKAMPA%20EXPORTS%20PVT%20LTD HTTP/1.1" 200 None
+2023-09-13 14:30:48,604 127.0.0.1 - - [13/Sep/2023 14:30:48] "POST /webvalidatesalesorder HTTP/1.1" 200 -
+2023-09-13 14:30:58,148 Starting new HTTP connection (1): 20.235.83.237:8049
+2023-09-13 14:30:58,245 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 0
+2023-09-13 14:30:58,303 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 401 341
+2023-09-13 14:30:58,373 http://20.235.83.237:8049 "POST /BodycareLive/ODataV4/ProcessBarcode_ValidateSalesOrder?Company=Bodycare%20Creations%20Ltd. HTTP/1.1" 200 None
+2023-09-13 14:30:58,378 127.0.0.1 - - [13/Sep/2023 14:30:58] "POST /webvalidatesalesorder HTTP/1.1" 200 -
